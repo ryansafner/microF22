@@ -3,12 +3,11 @@ title: "1.1 — The Tools of Microeconomics — Class Content"
 ---
 
 ```{r, echo = F}
-source(here::here("files", "slides", "slide-links.R"))
+source(here::here("slides", "slide-links.R"))
 ```
 
-::: callout-note
-# Class Dates
-
+::: {.callout-note appearance=minimal}
+# Meeting Dates
 *Section 1: Monday, August 24, 2022*
 
 *Section 2: Tuesday, August 25, 2022*
@@ -16,7 +15,7 @@ source(here::here("files", "slides", "slide-links.R"))
 
 ::: callout-warning
 # Upcoming Assignment
-Please complete the [preliminary survey](/assignment/00-preliminary-survey) by Sunday August 28.
+Please complete the [preliminary survey](/assignments/00-preliminary-survey.qmd) by next class.
 :::
 
 ## <i class="fas fa-info-circle fa-lg"></i> Overview
@@ -53,6 +52,6 @@ slide_links("1.1-slides")
 
 ## <i class="fas fa-laptop-code"></i> Assignments
 
-### Preliminary Math Survey Due Sunday August 28
+### Preliminary Math Survey Due Next Class
 
-Please take the [preliminary survey](/assignment/00-preliminary-survey) on your math background by Sunday. This will help us all have a productive semester together.
+Please take the [preliminary survey](/assignment/00-preliminary-survey) on your math background by next class. This will help us all have a productive semester together.

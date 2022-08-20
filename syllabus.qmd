@@ -4,7 +4,6 @@ sidebar: false
 page-layout: full
 execute:
   freeze: auto
-
 ---
 
 ```{r load-libraries, message=FALSE, warning=FALSE, include=FALSE}
@@ -15,49 +14,41 @@ library(kableExtra)
 
 ::: {.grid .course-details}
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.g-col-6}
 ### Instructor
 
 -   {{< fa user >}}   [{{< var instructor.name >}}](%7B%7B%3C%20var%20instructor.url%20%3E%7D%7D)
 -   {{< fa university >}}   {{< var instructor.office >}}
+-   {{< fa clock >}}   {{< var instructor.officehours >}}
 -   {{< fa envelope >}}   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
--   {{< fa brands twitter >}}   [{{< var instructor.twitter >}}](https://www.twitter.com/%7B%7B%3C%20var%20instructor.twitter%20%3E%7D%7D)
--   {{< fa calendar-check >}}   [Schedule an appointment](%7B%7B%3C%20var%20instructor.appointment_url%20%3E%7D%7D)
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+::: {.g-col-6}
 ### Course details
 
--   {{< fa calendar >}}   {{< var course.days >}}
--   {{< fa calendar-alt >}}   {{< var course.dates >}}
 -   {{< fa clock >}}   {{< var course.time >}}
 -   {{< fa location-dot >}}   {{< var course.location >}}
+-   {{< fa calendar-alt >}}   {{< var course.dates >}}
 -   {{< fa brands slack >}}   [Slack](%7B%7B%3C%20var%20course.slack%20%3E%7D%7D)
 :::
 
-::: {.g-col-12 .g-col-md-4 .contact-policy}
-### Contacting me
-
-Email.
 :::
 
-:::
+<p style="text-align:center"><a target="_blank" href="/files/syllabus/syllabus-pdf.pdf"><span class="btn btn-primary btn-lg"><i class="fas fa-file-pdf"></i> Download PDF</a></span></p>
 
-> "There are three kinds of lies: lies, damned lies, and statistics." <br> [--- Benjamin Disraeli]{style="float:right"}
+> "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design." <br> [— F.A. Hayek (1974 Economics Nobel Laureate)]{style="float:right"}
 
-[Econometrics]{.newthought} is the application of statistical tools to quantify and measure economic relationships in the real world. It uses real data to test economic hypotheses, quantitatively estimate causal relationships between economic variables, and to make forecasts of future events. The primary tool that economists use for empirical analysis is ordinary least squares (OLS) linear regression, so the majority of this course will focus on understanding, applying, and extending OLS regressions.
+<span class="newthought">Microeconomic Analysis</span> is a collection of analytical tools for modeling and understanding how decisions made by agents (individuals and firms) in a context of market institutions lead to social coordination and the creation of value. This toolkit is the analytical foundation for exploring *all* fields and applications of economics as a social science, has many practical applications in business, finance, politics, and insights into any realm of human endeavors. Economics, after all, is the study of human action. At the intermediate level, these concepts are made more rigorous through the use of mathematical models, but we will first and foremost lay the theoretical foundations with economic intuition. As such, this class assumes you have met the **required prerequisite courses** by taking principles of microeconomics (**ECON 206**).
 
-I assume you have *some* working knowledge of  economics at the intermediate level and some basic statistical tools.The formal **prerequisites** for this course are **ECON 205** and **ECON 206**; **ECMG 212** or **MATH 112**; and **ECON 305** or **ECON 306**. We will do some basic review of some necessary statistics and probability at the beginning until everyone is comfortable, before jumping right into regressions. 
+I reserve the right to change any part of this syllabus and course, at my discretion, with proper advance warning.
 
 # Course objectives
 
 <span class="newthought">By the end of this course,</span> you will:
 
-1. understand how to evaluate statistical and empirical claims;
-2. use the fundamental models of causal inference and research design;
-3. gather, analyze, and communicate with real data in R.
-
-I am less concerned with forcing you to memorize and recite proofs of statistical estimator properties, and more concerned with the development of your intuitions and the ability to think critically as an empirical social scientist---although this will require you to demonstrate proficiency with some intermediate statistical and mathematical tools. 
+1. apply the models of microeconomics (constrained optimization and equilibrium) towards explaining real world behavior of individuals, firms, and governments
+2. explore the effects of economic and political processes on market performance (competition, market prices, profits and losses, property rights, entrepreneurship, market power, market failures, public policy, government failures)
+3. apply the economic way of thinking to real world issues in writing
 
 Given these objectives, this course fulfills all three of the learning outcomes for [the George B. Delaplaine, Jr. School of Business](https://www.hood.edu/academics/departments/george-b-delaplaine-jr-school-business/student-learning-outcomes) Economics B.A. program:
 
@@ -65,42 +56,23 @@ Given these objectives, this course fulfills all three of the learning outcomes 
 - Apply economic reasoning and models to understand and analyze problems of public policy [...]
 - Demonstrate effective oral and written communications skills for personal and professional success[...]
 
-<span class="newthought">Fair warning: Econometrics is hard.</span> *It will be one of the hardest economics courses that you will take, primarily due to the mathematical content.* I will do my best to make this class intuitive and helpful, if not interesting. If at any point you find yourself struggling in this course for any reason, please come see me. Do not suffer in silence! Coming to see me for help does not diminish my view of you, in fact I will hold you in *higher* regard for understanding your own needs and taking charge of your own learning. There are also a some fantastic resources on campus, such as the [Center for Academic Achievement and Retention (CAAR)](http://www.hood.edu/campus-services/academic-services/index.html) and the [Beneficial-Hodson Library](http://www.hood.edu/library/}{Beneficial-Hodson Library). 
+<span class="newthought">Fair warning:</span> **Economics is hard.** *This, in particular, may be of the hardest courses that you will take, primarily due to the mathematical content.* Using the economic way of thinking is a skill, it is literally retraining your brain to interpret and analyze the world in a novel way, and is not something that can be memorized. I will do my best to make this class intuitive and helpful, if not interesting. If at any point you find yourself struggling in this course for any reason, please come see me. Do not suffer in silence! Coming to see me for help does not diminish my view of you, in fact I will hold you in *higher* regard for understanding your own needs and taking charge of your own learning. There are also a some fantastic resources on campus, such as the [Center for Academic Achievement and Retention (CAAR)](http://www.hood.edu/campus-services/academic-services/index.html) and the [Beneficial-Hodson Library](http://www.hood.edu/library/).
+
+Free tutoring in many subjects is available for Hood students through Thinking Storm professional tutoring and Hood peer tutoring.  Hood peer tutoring is located in the Tutoring Center adjacent to the Student Success Center in the Beneficial Hodson Library and Learning Commons. Appointments and online tutoring can be accessed through Blackboard and located under tools/academic tutoring. Tutoring is available evenings and weekends as well as during the day to help meet your needs.  For more information about tutoring and to see the specific subject tutoring offered, please visit the student success website here or contact the student success center at studentsuccess@hood.edu.
 
 See my [tips for success in this course](/resources). 
 
 # Required Course materials 
 
-This course requires regular online internet access. If you know you will be unable to access the internet regularly, please let me know and we can make arrangements.
-
-You can find all course materials at my **dedicated website** for this course: [metricsF21.classes.ryansafner.com](https://metricsF21.classes.ryansafner.com). Links to the website are posted on our Blackboard course page. Please familiarize yourself with the website, see that it contains this [syllabus](https://metricsF21.classes.ryansafner.com/syllabus/), [resources](https://metricsF21.classes.ryansafner.com/resources/) to help you, and our [schedule](https://metricsF21.classes.ryansafner.com/schedule/). On the schedule page, you can find each module with its own class page (**start there!**) along with all related readings, lecture slides, practice problems, and assignments.
+You can find all course materials at my **dedicated website** for this course: [microF22.classes.ryansafner.com](https://microF22.classes.ryansafner.com). Links to the website are posted on our Blackboard course page. Please familiarize yourself with the website, see that it contains this [syllabus](syllabus/), [resources](resources/) to help you, and our [schedule](schedule/). On the schedule page, you can find each module with its own class page (**start there!**) along with all related readings, lecture slides, practice problems, and assignments.
 
 My lecture slides will be shared with you, and serve as your primary resource, but our main "textbook" below is **recommended** as the next best resource and will be available from the campus bookstore. I will discuss more about textbooks and materials in the first module.
 
 ## Books {-}
 
-The following book is **required** and will be available from the campus bookstore. (You are not *obligated* to buy it, I just **strongly recommend** it in the sense that you will still have access to all data and assignments without possessing the book. But this is a course where you really will want to understand the derivations or get additional context beyond just my slides...)
+1. Goolsbee, Austan, Steven Levitt, and Chad Syverson, 2012, *Microeconomics* 2nd ed, USA: Worth Publishers, ISBN: 978-1464187025
 
-- Bailey, Michael A, 2019, *Real Econometrics*, New York: Oxford University Press, 2^nd^ ed.
-
-You are welcome to purchase the book by other means (e.g. Amazon, half.com, etc). I have no financial stake in requiring you to purchase this book. The (cheaper) 1st edition is sufficient, but makes significantly less use of `R` (in favor of `STATA`).
-
-The following two books are **recommended**, and are free online. (You can purchase a hard copy of the first one if you really want.):
-
-- Grolemund, Garrett and Hadley Wickham, [*R For Data Science*](https://r4ds.had.co.nz/)
-- Ismay, Chester and Albert Y Kim, [*Modern Dive: Statistical Inference Via Data Science*](https://moderndive.com/)
-
-The first book is the number one resource for using `R` and `tidyverse`, and is written for beginners. I still look at it *frequently.* The second is another great reference for using `tidyverse` in the context of basic statistics.
-
-## Articles {-}
-
-Throughout the course, I will post both required and supplemental (non-required) readings that enrich your understanding for each topic.
-
-## Software {-}
-
-You are **strongly recommended** to download copies of [`R`](https://www.r-project.org/) and [`R Studio`](http://www.rstudio.com) on your own computers. These software packages are available on all computers in the trading room, and you will have access to them during the week to work on assignments. 
-
-We will also have a shared class workspace in [RStudio.cloud](http://rstudio.cloud/) that runs a full instance of R Studio in your web browser (so no need to install anything!) will let you access files and assignments.  
+You are welcome to purchase the book by other means (e.g. Amazon, half.com, etc). I have no financial stake in requiring you to purchase this book. You are welcome to use previous version of the book, but carefully verify the reading assignments, as the material may be different across versions.
 
 # Assignments and Grades
 
@@ -109,10 +81,9 @@ Your final course grade is the weighted average of the following assignments. Yo
 ```{r assignments-grades, include=FALSE}
 assignments <- tribble(
   ~Frequency,  ~Assignment, ~Weight,
-  "1"     , "Research Project", "30%",
-  "n"  , "Problem sets (Average)", "25%",
-  "1"      , "Midterm", "20%",
-  "1"     , "Final", "25%"
+  "1"     , "Opinion-Editorial", "20%",
+  "5"  , "Homeworks", "20% (using average HW grade)",
+  "3"      , "Exams", "20% (each)"
 )
 
 grading <- tribble(
@@ -154,33 +125,9 @@ grading %>%
   #             col.names = c("Grade", "Range", "Grade", "Range"))
 ```
 
-See also my [<i class="fas fa-calculator"></i> `Grade Calculator`](https://ryansafner.shinyapps.io/480_grade_calculator/) app where you can calculate your overall grade using existing assignment grades and forecast "what if" scenarios.
+See also my [<i class="fas fa-calculator"></i> `Grade Calculator`](https://ryansafner.shinyapps.io/306_grade_calculator/) app where you can calculate your overall grade using existing assignment grades and forecast "what if" scenarios.
 
 These grades are firm cutoffs, but I do of course round upwards $(\geq$ 0.5) for final grades. A necessary reminder, as an academic, I am not in the business of *giving* out grades, I merely report the grade that you *earn*. I will not alter your grade unless you provide a reasonable argument that I am in error (which does happen from time to time). 
-
-<!--## Homeworks
-
-There will be roughly a homework assignment every few lessons. These questions will help check your understanding and mastery of the material, and will be a combination of quantitative, graph, and short answer questions of examples. These will also be good indicators of what to expect on the exams. You may collaborate with other students to work on homeworks (and I encourage that!), but each person must turn in an individual assignment.
-
-Homeworks are generally due by 11:59 PM EST Sunday by submission to Blackboard Assignments.
-
-Please **type** your answers to the following questions in a document and **save as a PDF**^[In MS Word, or Pages, or most word processing software, File -> Save As -> PDF, or File -> Export -> PDF.] to **upload on Blackboard** under Assignments. You may handwrite answers if you will be able to scan/photograph & convert them **to a single PDF**, if they are easily readable, but this is *not preferred*. See my [guide to making a PDF](https://gameF21.classes.ryansafner.com/resources/#how-to-make-a-pdf-for-submitting-assignments) - an essential skill in the modern world. If you are handwriting answers, you may print the `pdf` above and write on it, or just write on a piece of paper (we only need your answers).
-
-For the few questions that ask you to draw a **graph**, *try* to do so *on your computer* (use MS Paint, the drawing tools in MS Word or MS Powerpoint, plot points in MS Excel, drawing/notetaking apps, etc.), and save it as an image to include on your homework document. Again, they need not be perfect or to scale, just show that you understand the broad idea. Being able to understand and sketch the graphs is still a very important and useful skill! If all else fails, I will be lenient in grading graph questions if you are unable to technologically include a graph. 
-
-Your TA, under my supervision, will grade homeworks 70% for completion, and for the remaining 30%, and one question will be graded for accuracy - so it is best that you try every problem, even if you are unsure how to complete it accurately.
-
-## Exams 
-
-There will be three exams (one at the end of each unit) including the final exam. Each exam only covers the material in its associated unit (i.e. no exam is cumulative). These exams provide feedback both to you and to me that ensures everyone is progressing on schedule and apprehending the material. This is critical, as the rest of the course, and indeed, any future economics course you take, will build off of this foundation.
-
-Exams will be released **on Blackboard** as a timed assignment. You will have 2 hours once you open the exam on Blackboard. You will not need the whole time, I have given you some extra to accommodate the difficulties of taking an exam at home. Please pick a time to take it where you know you will have 2 hours. You may close the exam page and come back to it, but the timer will continue to run once the exam is first opened.
-
-
-## Opinion-Editorial 
-
-Economic fallacies have always been popular, and journalists, politicians, and talking heads consistently engage in faulty economic reasoning in print and on television. Your task, as a student of economics, is to find some issue discussed in the past year, and write a critique of media discussion of that issue. Alternatively, instead of critiquing the reasoning or statements of others, you may write an advocacy piece, where you propose some economic policy and argue to persuade readers to endorse it. You will be graded both on the soundness of your economic reasoning and the quality of your writing. I would be happy to co-author an Op-Ed with anyone who writes an exemplary Op-Ed. Students who successfully publish their work in a media outlet will earn *extra credit* on their Op-Ed grade. I will provide ample resources and examples to help you accomplish this, you can find more on the associated [assignment page](assignment/op-ed).
--->
 
 **No extra credit is available**
 
@@ -210,11 +157,11 @@ If you know you will be absent, you are not *required* to let me know, but it is
 
 I will accept late assignments, but will subtract a specified amount of points as a penalty. Even if it is the last week of the semester, I encourage you to turn in late work: some points are better than no points!
 
-**Homeworks**: If you turn in a homework after it is due but before it is graded or the answer key posted, I generally will not take off any points. However, **if you turn in a homework _after_ the answer key is posted, I will automatically deduct 15 points (so the maximum grade you can earn on it is an 80).**
+**Homeworks**: If you turn in a homework after it is due but before it is graded or the answer key posted, I generally will not take off any points. However, **if you turn in a homework _after_ the answer key is posted, I will automatically deduct 20 points (so the maximum grade you can earn on it is an 80).**
 
 **Exams**: If you know that you will be unable to complete an *in-class exam* as scheduled for a legitimate reason, please notify me at least *one week* in advance, and we will schedule a make-up exam date. Failure to do so, including desperate attempts to make arrangements only *after* the exam will result in a grade of 0 and little sympathy.
 
-**Papers**: Starting at the deadline, I will take off 1 point for every hour that your assignment is late.
+**Op-eds**: Starting at the deadline, I will take off 1 point for every hour that your Op-ed is late.
 
 I reserve the right to re-weight assignments for students whom I believe are legitimately unable to complete a particular assignment.
 
@@ -278,6 +225,15 @@ If you are unable to afford required textbooks or other resources for any reason
 
 This course is intended to be accessible for all students, including those with mental, physical, or cognitive disabilities, illness, injuries, impairments, or any other condition that tends to negatively affect one's equal access to education. If at any point in the term, you find yourself not able to fully access the space, content, and experience of this course, you are welcome to contact me to discuss your specific needs. I also encourage you to contact the [Office of Accessibility Services](https://www.hood.edu/academics/josephine-steiner-center-academic-achievement-retention/accessibility-services) (301-696-3421). If you have a diagnosis or history of accommodations in high school or previous postsecondary institutions, Accessibility Services can help you document your needs and create an accommodation plan. By making a plan through Accessibility Services, you can ensure appropriate accommodations without disclosing your condition or diagnosis to course instructors.
 
-# Tentative Schedule 
+## ACBSP Information 
+
+![](images/acbsp.png)
+
+Hood College is an accredited member of the Accreditation Council for Business Schools and Programs (ACBSP), an organization devoted to enhancing business education. In receiving and maintaining this accreditation, the faculty has made a commitment to the continuous improvement, innovation, and scholarship of the Department of Economics and Management. For you, this means that your educational experience undergoes ongoing validation to ensure it meets the most rigorous international standards of business education. Only a select group of institutions have received this status and it is an attribute of Hood for which you should take great pride. 
+
+Pragmatically, our accreditation means that we will engage in the ongoing use of measures, both quantitative and qualitative in nature, to assess the performance of our students and the program. We ask that you take very seriously the surveys and other measurement devices we will use – your best work and honest response will help us best assess and improve our program.
+
+
+# Tentative Schedule
 
 **You can find a full schedule** with much more details, including the readings, appendices, and other further resources for each class meeting on the [schedule page](schedule/).

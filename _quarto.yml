@@ -3,8 +3,11 @@ project:
   render:
     - "*.qmd"
     - "!slides/" # don't knit slides when website is updated
+    - "!files/"
   resources:
     - "files/"
+    - "slides/"
+    - "images/"
 
 website:
   title: "ECON 306 — Microeconomic Analysis"
@@ -46,10 +49,12 @@ website:
           contents:
             - assignments/index.qmd
         - section: "Problem Sets"
-        - section: "Exams"
-        - section: "Opinion-Editorial"
           contents:
-            - assignments/op-ed.qmd
+            - text: "Preliminary Survey"
+              href: assignments/00-preliminary-survey.qmd
+        - section: "Exams"
+        - text: "Opinion-Editorial"
+          href: assignments/op-ed.qmd
 
     - title: "Resources"
       style: "docked"
@@ -66,8 +71,6 @@ website:
           contents:
           - href: resources/tips.qmd
             text: "Tips for Success"
-          - href: resources/appendices.qmd
-            text: "Math & R Appendices"
 
   page-footer:
     left: |

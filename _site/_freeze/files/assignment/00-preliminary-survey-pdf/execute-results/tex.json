@@ -1,0 +1,18 @@
+{
+  "hash": "c56c087ea5c73f6d656feb3feb541b03",
+  "result": {
+    "markdown": "---\ntitle: \"Preliminary Survey on Math Background\"\nauthor: \"ECON 306\"\nexecute: \n  freeze: true\nformat:\n  pdf:\n    documentclass: article\n---\n\n\n\n\n::: {.callout-warning appearance=simple}\n# Assignment Due \nPlease complete this by next class.\n:::\n\nThis is an *ungraded* and *anonymous* survey for me to evaluate the distribution of your math and statistics backgrounds. Please complete all problems to the best of your ability. Your responses will help me craft the course to see which material we need to focus on at greater length, especially review material.\n\n# Question 1\n\nDraw a graph of the following linear equation, $R=4-\\frac{1}{2}W$. Plot $W$ on the vertical axis and $R$ on the horizontal axis.\n\n\\vspace{3in}\n\n# Question 2\n\nDraw a continuous function which begins at the origin, increases at a *decreasing* rate, reaches an inflection point, and then increases at an *increasing* rate. Show where each part of the function is concave or convex.\n\n\\clearpage\n\n# Question 3\n\nSolve the system of equations for $x$ and $y$:\n\n\n$$\\begin{aligned}\n2x+y&=20\\\\\n4x-3y&=10\\\\\n\\end{aligned}$$\n\n\\vspace{3in}\n\n# Question 4\n\n*Simplify* the following equation:\n\n\n$$Z=\\frac{0.5X^{-0.5} Y^{0.5}}{0.5X^{0.5}Y^{-0.5}}$$\n\n\n\\clearpage\n\n\n# Question 5\n\nFor the function $f(x) = 3x^2+2x-7$:\n\na.  Take the derivative of $f(x)$, i.e. $f'(x)$.\nb.  In English, describe what the derivative of $f(x)$ means.\nc.  Evaluate $f'(4)$. In English, describe what this means.\n\n\\clearpage\n\n# Question 6\n\nFind the maximum value of the function:\n\n\n$$f(x)=-2x^2+16x$$\n\n\n\\clearpage\n\n# Question 7\n\nExplain what a tangency on a curve means. What is true about the tangent line?\n\n\\vspace{3in}\n\n# Question 8\n\nOn a scale of 1 (worst) to 10 (best), rate your algebra skills (i.e. solving equations, graphing lines, working with fractions, etc.).\n\n\\clearpage\n\n# Question 9\n\nHave you had any experience with calculus?\n\n\\vspace{3in}\n\n# Question 10\n\nOn a scale of 1 (least) to 10 (most), how anxious are you about this class? Feel free to elaborate any specific anxieties -- it will make it more likely that I can specifically address them!\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "\\usepackage{booktabs}\n\\usepackage{longtable}\n\\usepackage{array}\n\\usepackage{multirow}\n\\usepackage{wrapfig}\n\\usepackage{float}\n\\usepackage{colortbl}\n\\usepackage{pdflscape}\n\\usepackage{tabu}\n\\usepackage{threeparttable}\n\\usepackage{threeparttablex}\n\\usepackage[normalem]{ulem}\n\\usepackage{makecell}\n\\usepackage{xcolor}\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

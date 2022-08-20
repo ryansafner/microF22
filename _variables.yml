@@ -8,6 +8,7 @@ instructor:
   twitter: ryansafner
   github: ryansafner
   office: "114 Rosenstock"
+  officehours: "Office Hours: MW 1:30-2:30PM"
 
 course:
   number: "ECON 306"
@@ -16,8 +17,8 @@ course:
     | Section 1: MW
     | Section 2: TuTh
   time: |
-    | Section 1: 2:40 PM-4:05 PM
-    | Section 2: 11:30 AM—12:55 PM
+    | Section 1: MW 2:40 PM-4:05 PM
+    | Section 2: TuTh 11:30 AM—12:55 PM
   location: |
     | Section 1: Rosenstock 212
     | Section 2: Rosenstock 218
