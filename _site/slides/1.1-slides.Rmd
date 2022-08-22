@@ -1026,8 +1026,6 @@ knitr::kable(assignments, "html")
 
 - `r fa("slack", fill ="#5E81AC")` Slack channel `#c-econ-306-micro`
 
-- **Kahoot!s**
-
 - Teaching Assistant(s): TBD
   - grade HWs & hold office hours
 
