@@ -34,14 +34,20 @@ Please note going forward, the lesson numbers and topics (e.g. 1.1) on this webs
 
 ### Optional/Referenced Readings
 
-- July 2 2003, [<i class="fas fa-external-link-square-alt"></i> “Why Dolphins are Deep Thinkers”](https://www.theguardian.com/science/2003/jul/03/research.science), *The Guardian*
-- January 17, 2021, [<i class="fas fa-external-link-square-alt"></i> These Monkeys Understand Economics and Intentionally Steal High-Ticket Items to Barter for Better Food, Study Finds](https://gizmodo.com/these-monkeys-understand-economics-and-intentionally-st-1846078932?utm_medium=sharefromsite&utm_source=_facebook), *Gizmodo*
+- <i class="fas fa-external-link-square-alt"></i> de Rohan, Anuschka, 2003, [“Why Dolphins are Deep Thinkers”](https://www.theguardian.com/science/2003/jul/03/research.science), *The Guardian*
+- <i class="fas fa-external-link-square-alt"></i> Katzen et. al, 2021, [The nematode worm C. elegans chooses between bacterial foods exactly as if maximizing economic utility](https://www.biorxiv.org/content/10.1101/2021.04.25.441352v2), *BioRxiv*
+- <i class="fas fa-external-link-square-alt"></i> Loch-Temzelides, Ted, 2021, ["Walrasian equilibrium behavior in nature"](https://www.pnas.org/doi/10.1073/pnas.2020961118), *PNAS* 118(27)
+- <i class="fas fa-external-link-square-alt"></i> Serrano, Jody, 2021, [These Monkeys Understand Economics and Intentionally Steal High-Ticket Items to Barter for Better Food, Study Finds](https://gizmodo.com/these-monkeys-understand-economics-and-intentionally-st-1846078932?utm_medium=sharefromsite&utm_source=_facebook), *Gizmodo*
 
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
 
-Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. Note while in going through the slides, you can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides. 
 
-The lower button will allow you to download a PDF version of the slides. I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
 
 ```{r}
 #| echo: false

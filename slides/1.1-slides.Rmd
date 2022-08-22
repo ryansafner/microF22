@@ -89,7 +89,7 @@ Edinburgh, 2019
 
 - B.A. (Economics) — University of Connecticut, 2011
 
-- 6th year teaching at Hood
+- 7th year teaching at Hood
 
 - Specializations:
   - Law and Economics
@@ -104,47 +104,11 @@ Edinburgh, 2019
 
 ---
 
-# About Me
-
-.left-column[
-.center[
-![](../images/myface2021.png)
-
-.smallest[
-My face (without a mask), 2021
-]
-]
-]
-
-.right-column[
-.smallest[
-
-- Ph.D (Economics) — George Mason University, 2015
-
-- B.A. (Economics) — University of Connecticut, 2011
-
-- 6th year teaching at Hood
-
-- Specializations:
-  - Law and Economics
-  - Austrian Economics
-
-- Research interests
-  - modeling innovation & economic growth
-  - political economy & economic history of intellectual property
-
-]
-]
-
----
-
-# The Reason I am Busy AF Behind the Scenes
+# What's Keeping Me Busy
 
 .center[
-![:scale 100%](../images/miles_collage_s2022.png)
+![:scale 100%](../images/miles2022.png)
 ]
-
-And why I wear a mask.
 
 ---
 # *Micro*-economics
@@ -997,32 +961,9 @@ class: inverse, center, middle
 
 # Economics Uses, but Is Not Limited to, Math
 
-```{r, fig.width=12}
-red_pink <- "#e64173"
-blue <- "#2b59c3"
-
-venn_colors <- c(red_pink, blue)
-venn_lines <- rep("solid", 10)
-# Locations of circles
-venn_df <- tibble(
-  x  = c( 0.0,   2.0),
-  y  = c( 0.0,   0.0),
-  r  = c( 2.0,   2.0),
-  l  = c( "Math \n Modeling", "Thinking Like \n an Economist"),
-  xl = c( -1.0,    3.0),
-  yl = c( 0.0,   0.0))
-# Venn
-ggplot(data = venn_df, aes(x0 = x, y0 = y, r = r, fill = l, color = l)) +
-ggforce::geom_circle(aes(linetype = l), alpha = 0.3, size = 0.75) +
-theme_void() +
-theme(legend.position = "none") +
-scale_fill_manual(values = venn_colors) +
-scale_color_manual(values = venn_colors) +
-scale_linetype_manual(values = venn_lines) +
-  geom_text(aes(x = xl, y = yl, label = l), size = 8, family = "Fira Sans Condensed") +
-coord_equal()
-```
-
+.center[
+![:scale 80%](../images/econ_math_venn.png)
+]
 ---
 
 class: inverse, middle, center
@@ -1068,9 +1009,9 @@ knitr::kable(assignments, "html")
 # Course Website
 
 .center[
-![:scale 65%](../images/micro_website_s22.png)
+![:scale 65%](../images/micro_website_F22.png)
 
-[microF21.classes.ryansafner.com](https://microF21.classes.ryansafner.com)
+[microF22.classes.ryansafner.com](https://microF22.classes.ryansafner.com)
 ]
 
 ---
@@ -1080,19 +1021,17 @@ knitr::kable(assignments, "html")
 .pull-left[
 .smallest[
 
-- Office hours: TBD & by appt
-  - Office: 110 Rosenstock
+- Office hours: MW 1:30—2:30 PM & by appt
+  - Office: 114 Rosenstock
 
 - `r fa("slack", fill ="#5E81AC")` Slack channel `#c-econ-306-micro`
 
-- Covid/Zoom policy, attendance
-
-- .hi[Possible Room Change]
+- **Kahoot!s**
 
 - Teaching Assistant(s): TBD
   - grade HWs & hold office hours
 
-- See the [resources page](http://microS22.classes.ryansafner.com/resources) for tips for success and more helpful resources
+- See the [resources page](http://microF22.classes.ryansafner.com/resources) for tips for success and more helpful resources
 ]
 ]
 

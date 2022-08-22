@@ -60,9 +60,8 @@ website:
       style: "docked"
       search: true
       contents:
-        - section: "Overview"
-          contents:
-          - resources/index.qmd
+        - text: "Overview"
+          href: resources/index.qmd
         - section: "Computing Guides"
           contents:
           - href: resources/pdfs.qmd
@@ -71,6 +70,8 @@ website:
           contents:
           - href: resources/tips.qmd
             text: "Tips for Success"
+        - text: "Quotes About Economics"
+          href: resources/quotes.qmd
 
   page-footer:
     left: |
