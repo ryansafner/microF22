@@ -53,20 +53,20 @@ class: title-slide
 
 # 1.1 — The Tools of Microeconomics
 
-## ECON 306 • Microeconomic Analysis • Spring 2022
+## ECON 306 • Microeconomic Analysis • Fall 2022
 
-### Ryan Safner<br> Assistant Professor of Economics <br> <a href="mailto:safner@hood.edu"><i class="fa fa-paper-plane fa-fw"></i>safner@hood.edu</a> <br> <a href="https://github.com/ryansafner/microS22"><i class="fa fa-github fa-fw"></i>ryansafner/microS22</a><br> <a href="https://microS22.classes.ryansafner.com"> <i class="fa fa-globe fa-fw"></i>microS22.classes.ryansafner.com</a><br>
+### Ryan Safner<br> Associate Professor of Economics <br> <a href="mailto:safner@hood.edu"><i class="fa fa-paper-plane fa-fw"></i>safner@hood.edu</a> <br> <a href="https://github.com/ryansafner/microF22"><i class="fa fa-github fa-fw"></i>ryansafner/microF22</a><br> <a href="https://microF22.classes.ryansafner.com"> <i class="fa fa-globe fa-fw"></i>microF22.classes.ryansafner.com</a><br>
 ---
 
 class: inverse
 
 # Outline
 
-### [The Tools of Microeconomics](#19)
-### [Incentives](#23)
-### [Equilibrium](#34)
-### [Real Talk: The Math](#47)
-### [About This Course](#59)
+### [The Tools of Microeconomics](#18)
+### [Incentives](#22)
+### [Equilibrium](#33)
+### [Real Talk: The Math](#46)
+### [About This Course](#58)
 
 ---
 
@@ -833,7 +833,7 @@ class: inverse, center, middle
 
 .pull-right[
 
-- Complete the [.hi-purple[preliminary math survey]](https://microS22.classes.ryansafner.com/assignments/00-preliminary-survey)
+- Complete the [.hi-purple[preliminary math survey]](https://microF22.classes.ryansafner.com/assignments/00-preliminary-survey)
 
 - Help me help you with the math!
 
