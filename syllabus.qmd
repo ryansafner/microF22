@@ -33,7 +33,7 @@ library(kableExtra)
 
 :::
 
-<p style="text-align:center"><a target="_blank" href="/files/syllabus/syllabus-1-pdf.pdf"><span class="btn btn-primary btn-lg"><i class="fas fa-file-pdf"></i> Download PDF (section 1)</a></span> <a target="_blank" href="/files/syllabus/syllabus-2-pdf.pdf"><span class="btn btn-primary btn-lg"><i class="fas fa-file-pdf"></i> Download PDF (section 2)</a></span></p>
+<p style="text-align:center"><a target="_blank" href="/files/syllabus/syllabus-s1-pdf.pdf"><span class="btn btn-primary btn-lg"><i class="fas fa-file-pdf"></i> Download PDF (section 1)</a></span> <a target="_blank" href="/files/syllabus/syllabus-s2-pdf.pdf"><span class="btn btn-primary btn-lg"><i class="fas fa-file-pdf"></i> Download PDF (section 2)</a></span></p>
 
 > "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design." <br> [— F.A. Hayek (1974 Economics Nobel Laureate)]{style="float:right"}
 

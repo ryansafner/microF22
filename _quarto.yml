@@ -11,14 +11,14 @@ project:
 
 website:
   title: "ECON 306 — Microeconomic Analysis"
-  favicon: "files/images/micro_hex.png"
+  favicon: "images/micro_hex.png"
   open-graph: true
   twitter-card: true
-  image: "files/images/micro_hex.png"
+  image: "images/micro_hex.png"
   navbar:
     pinned: true
     search: true
-    logo: "files/images/micro_hex.png"
+    logo: "images/micro_hex.png"
     right:
       - syllabus.qmd
       - schedule.qmd
