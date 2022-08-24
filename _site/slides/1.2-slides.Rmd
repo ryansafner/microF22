@@ -61,7 +61,7 @@ class: inverse
 ### [Rational Choice Theory](#4)
 ### [The Budget Constraint](#17)
 ### [Opportunity Cost](#31)
-### [Changes in Market Conditions](#39)
+### [Changes in Market Conditions](#41)
 
 ---
 
@@ -937,6 +937,113 @@ Frederic Bastiat
 
 ---
 
+# Could It Be Opportunity Cost (of Skilled Labor)?
+
+.pull-left[
+.center[
+![:scale 80%](../images/prices_cost_disease.png)
+
+]
+
+.source[Source: Perry, Mark, 2022, [“Chart of the Day...Or Century?”](https://www.aei.org/carpe-diem/chart-of-the-day-or-century-8/) *American Enterprise Institute*]
+
+]
+
+.pull-right[
+.center[
+![](../images/why_are_the_prices.png)
+]
+]
+---
+
+# Could It Be Opportunity Cost (of Skilled Labor)?
+
+.left-column[
+.center[
+![](../images/why_are_the_prices.png)
+]
+]
+
+.right-column[
+.smaller[
+> “The Baumol effect is easy to explain but difficult to grasp. In 1826, when Beethoven’s String Quartet No. 14 was first played, it took four people 40 minutes to produce a performance. In 2010, it still took four people 40 minutes to produce a performance. Stated differently, in the nearly 200 years between 1826 and 2010, there was no growth in string quartet labor productivity. In 1826 it took 2.66 labor hours to produce one unit of output, and it took 2.66 labor hours to produce one unit of output in 2010.”
+
+]
+
+.source[Sources: Helland, Eric and Alexander Tabarrok, 2019, [“Why Are The Prices So Damn High?”](https://www.mercatus.org/publications/healthcare/why-are-prices-so-damn-high) *Mercatus Center*
+
+Good summaries on [Marginal Revolution](https://marginalrevolution.com/?s=d*mn)
+]
+]
+
+---
+
+# Could It Be Opportunity Cost (of Skilled Labor)?
+
+.left-column[
+.center[
+![](../images/why_are_the_prices.png)
+]
+]
+
+.right-column[
+.smallest[
+> “Fortunately, most other sectors of the economy have experienced substantial growth in labor productivity since 1826...In 1826 the average hourly wage for a production worker was $1.14. In 2010 the average hourly wage for a production worker was $26.44, approximately 23 times higher in real (inflation-adjusted) terms. .hi[Growth in average labor productivity has a surprising implication: it makes the output of slow productivity-growth sectors (relatively) more expensive.] In 1826, the average wage of $1.14 meant that the 2.66 hours needed to produce a performance of Beethoven’s String Quartet No. 14 had an opportunity cost of just $3.02. At a wage of $26.44, the 2.66 hours of labor in music production had an opportunity cost of $70.33. .hi[Thus, in 2010 it was 23 times...more expensive to produce a performance of Beethoven’s String Quartet No. 14 than in 1826.]”
+
+]
+
+.source[Sources: Helland, Eric and Alexander Tabarrok, 2019, [“Why Are The Prices So Damn High?”](https://www.mercatus.org/publications/healthcare/why-are-prices-so-damn-high) *Mercatus Center*
+
+Good summaries on [Marginal Revolution](https://marginalrevolution.com/?s=d*mn)]
+
+]
+
+
+---
+
+# Could It Be Opportunity Cost (of Skilled Labor)?
+
+.left-column[
+.center[
+![](../images/why_are_the_prices.png)
+]
+]
+
+.right-column[
+.smallest[
+> “In other words, one had to give up more other goods and services to produce a music performance in 2010 than one did in 1826. Why? Simply because in 2010, society was better at producing other goods and services than in 1826.”
+
+]
+
+.source[Sources: Helland, Eric and Alexander Tabarrok, 2019, [“Why Are The Prices So Damn High?”](https://www.mercatus.org/publications/healthcare/why-are-prices-so-damn-high) *Mercatus Center*
+
+Good summaries on [Marginal Revolution](https://marginalrevolution.com/?s=d*mn)]
+
+]
+
+---
+# Could It Be Opportunity Cost (of Skilled Labor)?
+
+.left-column[
+.center[
+![](../images/why_are_the_prices.png)
+]
+]
+
+.right-column[
+.smaller[
+> “The 23 times increase in the relative price of the string quartet is the driving force of Baumol’s cost disease. The focus on relative prices tells us that the cost disease is misnamed. The cost disease is not a disease but a blessing. To be sure, it would be better if productivity increased in all industries, but that is just to say that more is better. There is nothing negative about productivity growth, even if it is unbalanced.”
+
+]
+
+.source[Sources: Helland, Eric and Alexander Tabarrok, 2019, [“Why Are The Prices So Damn High?”](https://www.mercatus.org/publications/healthcare/why-are-prices-so-damn-high) *Mercatus Center*
+
+Good summaries on [Marginal Revolution](https://marginalrevolution.com/?s=d*mn)]
+
+]
+
+---
+
 class: inverse, center, middle
 # Changes in Market Conditions
 
@@ -968,6 +1075,7 @@ y &= \frac{\color{#e64173}{m}}{\color{#e64173}{p_y}}-\frac{\color{#e64173}{p_x}}
 ]
 
 ---
+
 
 # Changes in Income, $m$
 
