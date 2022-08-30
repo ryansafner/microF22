@@ -130,16 +130,20 @@ Here is a list of a few places you might consider to dig up some information on 
 
 Here is the rubric that I will use to grade your paper:
 
-
-| Category | Points |
-|----------|-------:|
-| Persuasiveness | 30 |
-| Soundness | 30 |
-| Clarity | 20 |
-| Organization | 10 |
-| References | 5 |
-| Style | 5 |
-| TOTAL | 100 |
+```{r}
+tribble(
+  ~"Category", ~"Points",
+  "Persuasiveness", 30,
+  "Soundness", 30,
+  "Clarity", 20,
+  "Organization", 10,
+  "References", 5,
+  "Style", 5,
+  "TOTAL", 100
+) %>%
+  kbl() %>%
+  kable_styling(full_width = FALSE)
+```
 
 - **Persuasiveness**: How persuasive is your argument? Would a reasonably educated college-level reader who is familiar with economics and statistics but not necessarily this course find themselves understanding your argument and agreeing with you? [Write for an audience wider than just members of this class. Therefore, don't use terms, sources, or "inside jokes" that only other students in this class (and no one else) would understand.] Remember, your goal is not to convince *me* (though you may), your goal is to convince *any educated reader*, and I grade you the probability that this is likely. You are the lawyer, I am the judge, and your audience is the jury.
 - **Soundness**: Are your theories consistent and logical, and did you apply them correctly? Did you choose relevant (and non-cherry picked) evidence to back it up? Are your facts, data, or case studies accurate?
