@@ -4,6 +4,14 @@ execute:
   freeze: auto
 ---
 
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(tidyverse)
+library(ggrepel)
+```
+
 # Material on Preferences
 
 ## Strict vs. Weak Preferences
