@@ -66,6 +66,8 @@ website:
       contents:
         - text: "Overview"
           href: resources/index.qmd
+        - text: "Appendices"
+          href: resources/appendices/index.qmd
         - section: "Computing Guides"
           contents:
           - href: resources/pdfs.qmd
