@@ -5,3 +5,6 @@ Q8,Q9,Q9calc,Q10
 5, No, None, 4
 6, No, None, 5
 7, Yes, Unspecified, 3
+5, Yes, Calc 1, 7
+5, No, None, 4
+7, No, None, 8

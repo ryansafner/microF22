@@ -2,6 +2,8 @@
 title: "1.3 — Preferences — Appendix"
 execute:
   freeze: auto
+page-layout: full
+
 ---
 
 ```{r}
@@ -10,9 +12,11 @@ execute:
 #| message: false
 library(tidyverse)
 library(ggrepel)
+knitr::opts_chunk$set(message = F,
+                      warning = F,
+                      echo = F,
+                      fig.retina = 3)
 ```
-
-# Material on Preferences
 
 ## Strict vs. Weak Preferences
 
@@ -187,10 +191,11 @@ Here's a *challenge*: what would *non-convex* (e.g. *concave*) curves look like,
 4. **Indifference curves can never cross** because we have assumed that *preferences are transitive*.
 
 Suppose two curves crossed, as the ones below: 
-  - On the blue indifference curve, `\\(A \sim B\\)`
-  - On the orange indifference curve `\\(B \sim C\\)`
-  - But clearly `\\(C\\)` $\succ$ .`\\(B\\)`
-  - Preferences are not transitive!
+
+- On the blue indifference curve, $A \sim B$
+- On the orange indifference curve $B \sim C$
+- But clearly $C \succ B$
+- Preferences are not transitive!
 
 ```{r IC-as-4, fig.retina=3, fig.align="center", fig.width=6}
 
@@ -361,11 +366,11 @@ Notice rise over run, $\frac{\Delta y}{\Delta x}$, is the slope, which we have d
 
 Two utility functions $u(\cdot)$ and $v(\cdot)$ represent the same preferences iff there is a *strictly* increasing function $f$ such that $v(\cdot)=f\left[u(\cdot)\right]$
 
-$$\begin{aligned}
+\begin{align*}
 a&=(1,2)\\
 b&=(2,2)\\
 c&=(4,3)\\
-\end{aligned}$$
+\end{align*}
 
 The following utility functions express the same preferences:
 
@@ -413,10 +418,10 @@ $$ab=k$$
 
 Then, if we are putting $b$ on the vertical axis, we simply solve this for $b$:
 
-$$\begin{align*}
+\begin{align*}
 ab&=k\\
 b&=\frac{k}{a}\\
-\end{align*}$$
+\end{align*}
 
 This is the general equation for all indifference curves of this utility function: each utility level (value of $k)$ can be graphed as an indifference curve with that equation. Thus, for example, for a utility level of $10$, the equation for that indifference curve is
 $$b=\frac{10}{a}$$.
@@ -547,11 +552,11 @@ $$v(x, y)=a \: ln \: x + b \: ln \: y$$
 
 The MRS using the logarithmic form is:
 
-$$\begin{align*}
+\begin{align*}
 	MRS_{x, y}	&=\frac{MU_{x}}{MU_{y}} && \text{The definition of MRS}\\
 	&= \cfrac{\big(\frac{\partial }{\partial x}\big)}{\big(\frac{\partial}{\partial y}\big)} && \text{Using the definition of marginal utility as partial derivative}\\
 	&= \cfrac{\big(\frac{a}{x}\big)}{\big(\frac{b}{y}\big)} && \text{Differentiating }u \text{ w.r.t }x \text{ on top and }y \text{ on bottom}\\
-	&=\frac{a}{b} \frac{y}{x} && \text{Multiplying the righthand side by the reciprocal of the denominator,} \frac{y}{b}\\ \end{align*}$$
+	&=\frac{a}{b} \frac{y}{x} && \text{Multiplying the righthand side by the reciprocal of the denominator,} \frac{y}{b}\\ \end{align*}
 	
 Which of course, is the same, because we know any positive monotonic transformation of a utility function preserves the same preferences! 
 
@@ -575,11 +580,11 @@ Note we could find this equivalently again by taking logs of the original utilit
 
 $$v(x,y)=0.5 \: ln \: x+0.5\: ln\: y$$
  	
-$$\begin{align*}
+\begin{align*}
 		MRS_{x, y}	&=\frac{MU_{x}}{MU_{y}} && \text{The definition of MRS}\\
 	&= \cfrac{\big(\frac{\partial }{\partial x}\big)}{\big(\frac{\partial}{\partial y}\big)} && \text{Using the definition of marginal utility as partial derivative}\\
 	&= \cfrac{\big(\frac{0.5}{x}\big)}{\big(\frac{0.5}{y}\big)} && \text{Differentiating }u \text{ w.r.t }x \text{ on top and }y \text{ on bottom}\\
-	&=\frac{y}{x} && \text{Multiplying the righthand side by the reciprocal of the denominator,} \frac{y}{0.5}\\ \end{align*}$$
+	&=\frac{y}{x} && \text{Multiplying the righthand side by the reciprocal of the denominator,} \frac{y}{0.5}\\ \end{align*}
 
 Which again, gives us the same marginal rate of substitution.
 

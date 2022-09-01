@@ -292,8 +292,8 @@ ggplot(.,
   geom_label(aes(x=mean(algebra_skills),y=1), label="Mean", color="purple")+
   geom_vline(aes(xintercept = median(algebra_skills)), color = "green", linetype="dotted", size=2)+
   geom_label(aes(x=median(algebra_skills),y=3), label="Median", color="green")+
-  scale_x_continuous(breaks=seq(1,10,1), limits = c(0,10))+
-  scale_y_continuous(breaks=seq(0,100,10),labels=function(x) paste0(x, "%"))+
+  scale_x_continuous(breaks=seq(1,10,1), limits = c(1,10))+
+  scale_y_continuous(breaks=seq(0,100,10),limits = c(0,55), labels=function(x) paste0(x, "%"))+
   labs(x = "Algebra Skills (1: worst, 10: best)",
        y = "Percent")+
   theme_classic(base_family = "Fira Sans Condensed", base_size=20)
@@ -311,7 +311,7 @@ ggplot(.,
        y = percent))+
   geom_col(aes(fill=calculus))+
   scale_x_discrete()+
-  scale_y_continuous(breaks=seq(0,100,10),labels=function(x) paste0(x, "%"))+
+  scale_y_continuous(breaks=seq(0,100,10), limits=c(0,75), labels=function(x) paste0(x, "%"))+
   labs(x = '"Have you had any experience with calculus?"',
        y = "Percent")+
   scale_fill_viridis_d()+
@@ -353,8 +353,8 @@ ggplot(.,
   geom_vline(aes(xintercept = median(anxiety)), color = "green", linetype="dotted", size=2)+
   geom_label(aes(x=median(anxiety),y=3), label="Median", color="green")+
 
-  scale_x_continuous(breaks=seq(1,10,1), limits=c(0,10))+
-  scale_y_continuous(breaks=seq(0,100,10),labels=function(x) paste0(x, "%"))+
+  scale_x_continuous(breaks=seq(1,10,1), limits=c(1,10))+
+  scale_y_continuous(breaks=seq(0,100,10),limits=c(0,25), labels=function(x) paste0(x, "%"))+
   labs(x = '"How anxious are you?" (1: least, 10: most)',
        y = "Percent")+
   theme_classic(base_family = "Fira Sans Condensed", base_size=20)
