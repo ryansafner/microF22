@@ -7,6 +7,69 @@
     "text": "This is an ungraded and anonymous survey for me to evaluate the distribution of your math and statistics backgrounds. Please complete all problems to the best of your ability. Your responses will help me craft the course to see which material we need to focus on at greater length, especially review material.\n\n\n Download PDF  Answer Key\n\n\nQuestion 1\nDraw a graph of the following linear equation, \\(R=4-\\frac{1}{2}W\\). Plot \\(W\\) on the vertical axis and \\(R\\) on the horizontal axis.\n\n\nQuestion 2\nDraw a continuous function which begins at the origin, increases at a decreasing rate, reaches an inflection point, and then increases at an increasing rate. Show where each part of the function is concave or convex.\n\n\nQuestion 3\nSolve the system of equations for \\(x\\) and \\(y\\):\n\\[\\begin{align*}\n2x+y&=20\\\\\n4x-3y&=10\\\\\n\\end{align*}\\]\n\n\nQuestion 4\nSimplify the following equation:\n\\[Z=\\frac{0.5X^{-0.5} Y^{0.5}}{0.5X^{0.5}Y^{-0.5}}\\]\n\n\nQuestion 5\nFor the function \\(f(x) = 3x^2+2x-7\\):\n\nTake the derivative of \\(f(x)\\), i.e. \\(f'(x)\\).\nIn English, describe what the derivative of \\(f(x)\\) means.\nEvaluate \\(f'(4)\\). In English, describe what this means.\n\n\n\nQuestion 6\nFind the maximum value of the function:\n\\[f(x)=-2x^2+16x\\]\n\n\nQuestion 7\nExplain what a tangency on a curve means. What is true about the tangent line?\n\n\nQuestion 8\nOn a scale of 1 (worst) to 10 (best), rate your algebra skills (i.e. solving equations, graphing lines, working with fractions, etc.).\n\n\nQuestion 9\nHave you had any experience with calculus?\n\n\nQuestion 10\nOn a scale of 1 (least) to 10 (most), how anxious are you about this class? Feel free to elaborate any specific anxieties – it will make it more likely that I can specifically address them!"
   },
   {
+    "objectID": "assignments/01-problem-set.html",
+    "href": "assignments/01-problem-set.html",
+    "title": "Problem Set 1",
+    "section": "",
+    "text": "Due by class time on Wed Sep 14 (Section 1) or Thurs Sep 15 (Section 2) via by Blackboard Assignments\nPlease read the instructions for completing homeworks.\nDownload PDF"
+  },
+  {
+    "objectID": "assignments/01-problem-set.html#question-1",
+    "href": "assignments/01-problem-set.html#question-1",
+    "title": "Problem Set 1",
+    "section": "Question 1",
+    "text": "Question 1\nHow can we use utility functions, which have actual numbers that can be measured and compared, to model preferences and still say with a straight face that preferences are subjective? Hint: what does it mean for a utility function to be ordinal or cardinal? Why can multiple utility functions describe the same preferences?"
+  },
+  {
+    "objectID": "assignments/01-problem-set.html#question-2",
+    "href": "assignments/01-problem-set.html#question-2",
+    "title": "Problem Set 1",
+    "section": "Question 2",
+    "text": "Question 2\nDescribe, in your own words, what the marginal rate of substitution between two goods means. How is it different from the slope of the budget constraint?"
+  },
+  {
+    "objectID": "assignments/01-problem-set.html#question-3",
+    "href": "assignments/01-problem-set.html#question-3",
+    "title": "Problem Set 1",
+    "section": "Question 3",
+    "text": "Question 3\nDescribe, in your own words, what happens at the optimum consumption point. Why is it the optimum? What does the equality of the slope of the indifference curve and the slope of the budget constraint mean, in English?"
+  },
+  {
+    "objectID": "assignments/01-problem-set.html#question-4",
+    "href": "assignments/01-problem-set.html#question-4",
+    "title": "Problem Set 1",
+    "section": "Question 4",
+    "text": "Question 4\nJuan enjoys both music and fireworks. His income is $240 per month. Music streaming costs $12 per month, and fireworks cost $8 per bag.\n\nPart A\nGraph the budget constraint Juan faces, with music on the vertical axis and fireworks on the horizontal axis.\n\n\nPart B\nIf Juan spends all his income on music, how much music can he afford? Plot a point that illustrates this scenario.\n\n\nPart C\nIf Juan spends all his income on fireworks, how many bags of reworks can he afford? Plot a point that illustrates this scenario.\n\n\nPart D\nIf Juan spends half his income on fireworks and half his income on music, how much of each can he afford? Plot a point that illustrates this scenario.\n\n\nPart E\nConnect the dots to create Juan’s budget constraint. What is the slope of the budget constraint?\n\n\nPart F\nSuppose that a holiday bonus raises Juan’s income temporarily to $360. Draw Juan’s new budget constraint.\n\n\nPart G\nNow suppose that during the holiday, with his holiday bonus, the price of fireworks increases to $12 and the price of music increases to 18. If he spends all of his income on fireworks, how many can Juan buy? How about music? What happens to his budget constraint, and why?"
+  },
+  {
+    "objectID": "assignments/01-problem-set.html#question-5",
+    "href": "assignments/01-problem-set.html#question-5",
+    "title": "Problem Set 1",
+    "section": "Question 5",
+    "text": "Question 5\nAshkar has the following utility function for consuming peanut butter \\((p)\\) and jelly \\((j)\\): \\[u(p,j) = 3pj\\]\nHis marginal utilities are:\n\\[\\begin{align*}\nMU_p &= 3j\\\\\nMU_j &= 3p\\\\\n\\end{align*}\\]\nPut \\(p\\) on the horizontal axis and \\(j\\) on the vertical axis.\n\nPart A\nWrite an equation for \\(MRS_{p,j}\\).\n\n\nPart B\nSuppose he is currently consuming bundle1 \\(a = (4,1)\\). How much utility is he getting?\n\n\nPart C\nFrom his current consumption, how much more utility would he get by consuming 1 more \\(p\\)? What about 1 more \\(j\\)?\n\n\nPart D\nFrom his current consumption, how many units of \\(j\\) is he willing to give up to get 1 more unit of \\(p\\) and remain indifferent? How many units of \\(p\\) is he willing to give up to get 1 more \\(j\\) and remain indifferent?\n\n\nPart E\nSuppose he can choose between bundles \\(a = (4,1)\\), \\(b=(2,2)\\), and \\(c=(1,4)\\). What are his preferences between them?\n\n\nPart F\nWould he prefer bundle \\(d = (2,1)\\) over a bundle from part E? Why or why not?\n\n\nPart G\nSketch a graph, plotting bundles \\(a, b, c\\), and \\(d\\). Indicate any indifference curve(s) they are on, and how much utility each provides."
+  },
+  {
+    "objectID": "assignments/01-problem-set.html#question-6",
+    "href": "assignments/01-problem-set.html#question-6",
+    "title": "Problem Set 1",
+    "section": "Question 6",
+    "text": "Question 6\nKelly’s utility function for drinking Coke (\\(c\\)) and Pepsi (\\(p\\)) is given by:\n$$\\[\\begin{align*}\n\n\n    u(c,p) &= 5c + 2p\\\\\n    MU_c &= 5\\\\\n    MU_p &= 2\\\\\n\\end{align*}\\]$$ Put Coke on the horizontal axis and Pepsi on the vertical axis.\n\nPart A\nCan Kelly get utility by consuming only Coke or only Pepsi?\n\n\nPart B\nWrite an equation for \\(MRS_{c,p}\\).2\n\n\nPart C\nAre the bundles \\((c=2, p=5)\\) and \\((c=4,p=0)\\) on the same indifference curve?\n\n\nPart D\nWhat is \\(MRS_{c,p}\\) when \\(c=1\\) and \\(p=5\\)?\n\n\nPart E\nGiven your answers, what is the relationship between Coke and Pepsi for Kelly?\n\n\nPart F\nSketch a few indifference curves."
+  },
+  {
+    "objectID": "assignments/01-problem-set.html#question-7",
+    "href": "assignments/01-problem-set.html#question-7",
+    "title": "Problem Set 1",
+    "section": "Question 7",
+    "text": "Question 7\nA consumer has the following utility function:\n\\[u(x,y)=\\sqrt{xy}\\]\n\nPart A\nFill in the following table by calculating the utility for each bundle of \\(X\\) and \\(Y\\). Round to two decimal places.\n\n\n\n\n \n\n\ny\n\n  \n     \n    0 \n    1 \n    2 \n    3 \n  \n \n\n  \n    x \n    0 \n     \n     \n     \n  \n  \n    x \n    1 \n     \n     \n     \n  \n  \n    x \n    2 \n     \n     \n     \n  \n  \n    x \n    3 \n     \n     \n     \n  \n\n\n\n\n\n\n\nPart B\nGraph three indifference curves on the same graph below: the first showing the bundle(s) that yield a utility level of 1; the second showing the bundle(s) that yield a utility level of 2; the third showing the bundle(s) that yield a utility level of 3.\n\n\n\n\n\n\n\nPart C\nThe marginal utilities are given by:\n\\[\\begin{align*}\nMU_x&=0.5x^{-0.5}y^{0.5}\\\\\nMU_y&=0.5x^{0.5}y^{-0.5}\\\\\n\\end{align*}\\]\nwrite an equation for \\(MRS_{x,y}\\).\n\n\nPart D\nSuppose this consumer has an income of $10, the price of \\(x\\) is $2.50, and the price of \\(y\\) is also $2.50. Write an equation for the budget constraint (in graphable form, in terms of \\(y\\)), and put it on the same graph above.\n\n\nPart E\nFind the optimal combination of \\(x\\) and \\(y\\) where the consumer maximizes utility subject to income. Label this point \\(A\\) on the graph."
+  },
+  {
+    "objectID": "assignments/01-problem-set.html#part-f-3",
+    "href": "assignments/01-problem-set.html#part-f-3",
+    "title": "Problem Set 1",
+    "section": "Part F",
+    "text": "Part F\nHow much utility does the consumer earn at the optimum?"
+  },
+  {
     "objectID": "assignments/index.html",
     "href": "assignments/index.html",
     "title": "Assignment Details",
@@ -82,6 +145,27 @@
     "title": "Opinion-Editorial",
     "section": "Grading Rubric and Deadlines",
     "text": "Grading Rubric and Deadlines\nHere is the rubric that I will use to grade your paper:\n\n\n\nCategory\nPoints\n\n\n\n\nPersuasiveness\n30\n\n\nSoundness\n30\n\n\nClarity\n20\n\n\nOrganization\n10\n\n\nReferences\n5\n\n\nStyle\n5\n\n\nTOTAL\n100\n\n\n\n\nPersuasiveness: How persuasive is your argument? Would a reasonably educated college-level reader who is familiar with economics and statistics but not necessarily this course find themselves understanding your argument and agreeing with you? [Write for an audience wider than just members of this class. Therefore, don’t use terms, sources, or “inside jokes” that only other students in this class (and no one else) would understand.] Remember, your goal is not to convince me (though you may), your goal is to convince any educated reader, and I grade you the probability that this is likely. You are the lawyer, I am the judge, and your audience is the jury.\nSoundness: Are your theories consistent and logical, and did you apply them correctly? Did you choose relevant (and non-cherry picked) evidence to back it up? Are your facts, data, or case studies accurate?\nClarity How clear is your paper? Is it clear what your research question is, how you answer it, and what your results are? Can you summarize these in a sentence or two? Are there confusing passages, excessive jargon or passive voice, or irrelevant arguments and examples?\nOrganization: Is your paper organized? Have you presented your separate arguments/examples in a logical order? Is it clear when you are moving on from one section to another? Is it clear when and where you are summarizing and concluding?\nReferences: Does your paper use multiple reputable references? Does it properly cite them in the text for main ideas borrowed and for direct quotations? Are they consistently listed at the end in a references section?\nStyle: Is your paper interesting and easy to read? Does it engage the reader? Is it written in active voice? This is somewhat subjective, and hence, the smallest portion of your grade."
+  },
+  {
+    "objectID": "assignments/problem-sets.html",
+    "href": "assignments/problem-sets.html",
+    "title": "Problem Sets",
+    "section": "",
+    "text": "There will be several problem sets (typically 5-6) spaced throughout the semester. Typically, after we cover a major concept or set of tools, I will assign a problem set to practice this material."
+  },
+  {
+    "objectID": "assignments/problem-sets.html#logistics-submitting-on-blackboard",
+    "href": "assignments/problem-sets.html#logistics-submitting-on-blackboard",
+    "title": "Problem Sets",
+    "section": "Logistics: Submitting on Blackboard",
+    "text": "Logistics: Submitting on Blackboard\nPlease type your answers to the following questions in a document and save as a PDF1 to upload on Blackboard under Assignments. You may handwrite answers if you will be able to scan/photograph & convert them to a single PDF, if they are easily readable, but this is not preferred. See my guide to making a PDF - an essential skill in the modern world. If you are handwriting answers, you may print the pdf above and write on it, or just write on a piece of paper (we only need your answers, not the questions).\nFor the few questions that ask you to draw a graph, try to do so on your computer (use MS Paint, the drawing tools in MS Word or MS Powerpoint, plot points in MS Excel, drawing/notetaking apps, etc.), and save it as an image to include on your homework document. Again, they need not be perfect or to scale, just show that you understand the broad idea. Being able to understand and sketch the graphs is still a very important and useful skill! If all else fails, I will be lenient in grading graph questions if you are unable to technologically include a graph.\nYou may work together (and I highly encourage that) but you must turn in your own answers."
+  },
+  {
+    "objectID": "assignments/problem-sets.html#grading",
+    "href": "assignments/problem-sets.html#grading",
+    "title": "Problem Sets",
+    "section": "Grading",
+    "text": "Grading\nYour TA, under my supervision, will grade homeworks 70% for completion, and for the remaining 30%, and one question will be graded for accuracy - so it is best that you try every problem, even if you are unsure how to complete it accurately.\nFeel free to ask both me and your TA, or come to office hours, if you have any questions or need any help."
   },
   {
     "objectID": "content/1.1-content.html#overview",
@@ -480,7 +564,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Content materials contains suggested readings, more details about assignments, math appendices, and other helpful resources. I suggest you view these before each class.\n Slides are “Xaringan” presentations that can be opened in any browser (You can find a downloadable PDF in each content page)\n Practice problems we work on together in class to prepare for homeworks and exams\n Assignments are listed with due dates\n\nPlease note that the lesson numbers, topics, and titles (e.g. 1.1) are my design, and do not match up with the textbook!\nRelevant materials, if applicable will be posted before class meets and become colored links.\n\n\n\n\n\n\n\n\n\n\n\n\n\nI. Rational Choice Theory: Consumers\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\nPreliminary Survey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.1 — The Tools of Microeconomics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.2 — Budget Constraint\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.3 — Preferences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.4 — Utility Maximization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.5 — Demand\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.6 — Income and Substitution Effects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.7 — Price Elasticity of Demand\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExam 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nII. Rational Choice Theory: Producers\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n2.1 — Production, Specialization, and Firms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 — Production in the Short Run & Long Run\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.3 — Cost Minimization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.4 — Costs of Production\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.5 — Short Run Profit Maximization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.6 — Long Run Industry Equilibrium\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.7 — External Economies and Industry Supply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExam 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIII. Market Equilibrium\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n3.1 — The Supply and Demand Model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 — Market Competition and Surpluses\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 — The Static Benefits of Markets: Welfare Economics & Market Failure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 — The Dynamic Benefits of Markets: Entrepreneurship, Profits, & Prices\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 — The Division of Labor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 — Introduction to Political Economy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIV. Imperfect Competition\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n4.1 — Modeling Firms with Market Power\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.2 — Consequences and Sources of Market Power\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.3 — Pricing Strategies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.4 — Factor Markets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.5 — Monopolistic Competition and Oligopoly\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.6 — Contestable Markets and Wrap Up\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Exam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOp-Ed"
+    "text": "Content materials contains suggested readings, more details about assignments, math appendices, and other helpful resources. I suggest you view these before each class.\n Slides are “Xaringan” presentations that can be opened in any browser (You can find a downloadable PDF in each content page)\n Practice problems we work on together in class to prepare for homeworks and exams\n Assignments are listed with due dates\n\nPlease note that the lesson numbers, topics, and titles (e.g. 1.1) are my design, and do not match up with the textbook!\nRelevant materials, if applicable will be posted before class meets and become colored links.\n\n\n\n\n\n\n\n\n\n\n\n\n\nI. Rational Choice Theory: Consumers\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\nPreliminary Survey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.1 — The Tools of Microeconomics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.2 — Budget Constraint\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.3 — Preferences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.4 — Utility Maximization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 1 Due Wed/Thurs Sep 14/15\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.5 — Demand\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.6 — Income and Substitution Effects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.7 — Price Elasticity of Demand\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExam 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nII. Rational Choice Theory: Producers\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n2.1 — Production, Specialization, and Firms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 — Production in the Short Run & Long Run\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.3 — Cost Minimization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.4 — Costs of Production\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.5 — Short Run Profit Maximization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.6 — Long Run Industry Equilibrium\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.7 — External Economies and Industry Supply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExam 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIII. Market Equilibrium\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n3.1 — The Supply and Demand Model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 — Market Competition and Surpluses\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 — The Static Benefits of Markets: Welfare Economics & Market Failure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 — The Dynamic Benefits of Markets: Entrepreneurship, Profits, & Prices\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 — The Division of Labor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 — Introduction to Political Economy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIV. Imperfect Competition\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n4.1 — Modeling Firms with Market Power\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.2 — Consequences and Sources of Market Power\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.3 — Pricing Strategies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.4 — Factor Markets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.5 — Monopolistic Competition and Oligopoly\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.6 — Contestable Markets and Wrap Up\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Exam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOp-Ed"
   },
   {
     "objectID": "syllabus.html",

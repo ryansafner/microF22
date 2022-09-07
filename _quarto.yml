@@ -58,8 +58,12 @@ website:
             - assignments/index.qmd
         - section: "Problem Sets"
           contents:
+            - text: "Instructions"
+              href: assignments/problem-sets.qmd
             - text: "Preliminary Survey"
               href: assignments/00-preliminary-survey.qmd
+            - text: "Problem Set 1"
+              href: assignments/01-problem-set.qmd
         - section: "Exams"
         - text: "Opinion-Editorial"
           href: assignments/op-ed.qmd
