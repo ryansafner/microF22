@@ -182,6 +182,69 @@
     "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
   },
   {
+    "objectID": "content/1.4-content.html#overview",
+    "href": "content/1.4-content.html#overview",
+    "title": "1.4 — Utility Maximization — Class Content",
+    "section": " Overview",
+    "text": "Overview\nToday we put all of our tools together thus far to solve the consumer’s constrained optimization problem. To solve the problem the “traditional way” would be to use Lagrangian multipliers and calculus and solve for the first order conditions. [Take the full Lagrangian equation and solve for all partial derivatives, set equal to 0.] We instead will find the solution by looking graphically, and use an algebraic rule that should make a lot of intuitive sense. That rule, equivalently expressed in two ways:\n\\[\n\\begin{align*}\\frac{MU_x}{MU_y} &= \\frac{p_x}{p_y}\\\\\n\\frac{MU_x}{p_x} &= \\frac{MU_y}{p_y}\\\\\n\\end{align*}\n\\]\nThe first rule states that the slope of the indifference curve (left) equals the slope of the budget constraint (right). This is stating that the marginal benefit of consuming \\(x\\) (left) equals the marginal cost (right) of consuming \\(y\\), and that the individual is trading off \\(y\\) for \\(x\\) at the same rate as the market is.\nThe second (version of the) rule, solved for \\(x\\) and \\(y\\) terms on either side, shows that the marginal utility per dollar spent is equal across both (all) goods.\nBoth forms are often called the equimarginal rule, that at the optimum choice, the marginal benefit equals the marginal cost (which is the marginal benefit of the next best foregone opportunity).\nWe will do some practice to make sure you can solve this type of model, and then you are fully prepared for Problem Set 1."
+  },
+  {
+    "objectID": "content/1.4-content.html#readings",
+    "href": "content/1.4-content.html#readings",
+    "title": "1.4 — Utility Maximization — Class Content",
+    "section": " Readings",
+    "text": "Readings\n\n Ch. 4.4-4.5 in Goolsbee, Levitt, and Syverson, 2019\n Math Review Guide"
+  },
+  {
+    "objectID": "content/1.4-content.html#practice",
+    "href": "content/1.4-content.html#practice",
+    "title": "1.4 — Utility Maximization — Class Content",
+    "section": " Practice",
+    "text": "Practice\nToday we will be working on practice problems. Answers will be posted later on that page."
+  },
+  {
+    "objectID": "content/1.4-content.html#assignments",
+    "href": "content/1.4-content.html#assignments",
+    "title": "1.4 — Utility Maximization — Class Content",
+    "section": " Assignments",
+    "text": "Assignments"
+  },
+  {
+    "objectID": "content/1.4-content.html#slides",
+    "href": "content/1.4-content.html#slides",
+    "title": "1.4 — Utility Maximization — Class Content",
+    "section": " Slides",
+    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
+  },
+  {
+    "objectID": "content/1.5-content.html#overview",
+    "href": "content/1.5-content.html#overview",
+    "title": "1.5 — Demand — Class Content",
+    "section": " Overview",
+    "text": "Overview\nSolving a one-time constrained optimum problem might be useful in certain contexts, but the dynamics of change are far more interesting and useful: how do people optimally respond to changes in constraints? The remaining few classes before Exam 1 are about how people respond to changes in prices and income.\nAn individual’s demand function (often just called “demand”) for a particular good describes how that person optimally responds to changes in market conditions. While in truth, many things factor into one’s demand for a good, we are simplifying the model to relate a person’s quantity demanded of a good to three things: the price of that good (“own” price), the price of other goods, and the person’s income. When we look only at the relationship between quantity demanded and the good’s price (holding constant the other two things — other prices, and income), this is the familiar demand curve you see on supply and demand graphs from principles.\nToday, we look only at how changes in income or changes in the prices of other goods can affect your quantity demanded for a good.\nIn doing so, we also introduce a major empirical tool that we will return to many times: an elasticity. You’ve seen one elasticity before: the price elasticity of demand, and probably calculated it using the “midpoint formula.” There’s a lot more to elasticity (and a lot of other kinds of elasticities!) than that. We will see two varieties today, and will spend most of a lecture on price elasticity, two class periods from now."
+  },
+  {
+    "objectID": "content/1.5-content.html#readings",
+    "href": "content/1.5-content.html#readings",
+    "title": "1.5 — Demand — Class Content",
+    "section": " Readings",
+    "text": "Readings\n\n Ch. 5.1, 5.2, 5.4 in Goolsbee, Levitt, and Syverson, 2019"
+  },
+  {
+    "objectID": "content/1.5-content.html#practice",
+    "href": "content/1.5-content.html#practice",
+    "title": "1.5 — Demand — Class Content",
+    "section": " Practice",
+    "text": "Practice\nToday we will be working on practice problems. Answers will be posted later on that page."
+  },
+  {
+    "objectID": "content/1.5-content.html#slides",
+    "href": "content/1.5-content.html#slides",
+    "title": "1.5 — Demand — Class Content",
+    "section": " Slides",
+    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
+  },
+  {
     "objectID": "content/index.html",
     "href": "content/index.html",
     "title": "Overview",
@@ -243,6 +306,55 @@
     "title": "1.2 — Budget Constraint — Practice",
     "section": "Question 5",
     "text": "Question 5\nNow return to your original income ($60) but suppose the price of downloads increases to $6. Find the new equation of the budget constraint and graph it."
+  },
+  {
+    "objectID": "practice/1.4-practice.html",
+    "href": "practice/1.4-practice.html",
+    "title": "1.4 — Utility Maximization — Practice",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "practice/1.4-practice.html#part-a",
+    "href": "practice/1.4-practice.html#part-a",
+    "title": "1.4 — Utility Maximization — Practice",
+    "section": "Part A",
+    "text": "Part A\nPut \\(t\\) on the horizontal axis and \\(s\\) on the vertical axis. Write an equation for \\(MRS_{t,s}\\)"
+  },
+  {
+    "objectID": "practice/1.4-practice.html#part-b",
+    "href": "practice/1.4-practice.html#part-b",
+    "title": "1.4 — Utility Maximization — Practice",
+    "section": "Part B",
+    "text": "Part B\nWould bundles of \\((2,2)\\) and \\((1,4)\\) be on the same indifference curve?"
+  },
+  {
+    "objectID": "practice/1.4-practice.html#part-c",
+    "href": "practice/1.4-practice.html#part-c",
+    "title": "1.4 — Utility Maximization — Practice",
+    "section": "Part C",
+    "text": "Part C\nSketch this indifference curve."
+  },
+  {
+    "objectID": "practice/1.4-practice.html#question-2",
+    "href": "practice/1.4-practice.html#question-2",
+    "title": "1.4 — Utility Maximization — Practice",
+    "section": "Question 2",
+    "text": "Question 2\nYou can get utility from consuming Soda \\((s)\\) and Hot dogs \\((h)\\), according to the utility function:\n\\[u(s,h)=\\sqrt{sh}\\]\nThe marginal utilities are:\n$$\\[\\begin{align*}\n\n\nMU_s&=0.5s^{-0.5}h^{0.5}    \\\\\nMU_h&=0.5s^{0.5}h^{-0.5} \\\\ \\end{align*}\\]$$\nYou have an income of $12, the price of Soda is $2, and the price of a Hot dog is $3. Put Soda on the horizontal axis and Hot dogs on the vertical axis."
+  },
+  {
+    "objectID": "practice/1.4-practice.html#part-a-1",
+    "href": "practice/1.4-practice.html#part-a-1",
+    "title": "1.4 — Utility Maximization — Practice",
+    "section": "Part A",
+    "text": "Part A\nWhat is your utility-maximizing bundle of Soda and Hot dogs?"
+  },
+  {
+    "objectID": "practice/1.4-practice.html#part-b-1",
+    "href": "practice/1.4-practice.html#part-b-1",
+    "title": "1.4 — Utility Maximization — Practice",
+    "section": "Part B",
+    "text": "Part B\nHow much utility does this provide?"
   },
   {
     "objectID": "resources/appendices/1.2-appendix.html",
