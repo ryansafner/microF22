@@ -54,18 +54,6 @@ class: title-slide
 
 ---
 
-class: inverse
-
-# Outline
-
-### [Preferences](#3)
-### [Indifference Curves](#10)
-### [Marginal Rate of Substitution](#26)
-### [Utility](#32)
-### [Marginal Utility](#43)
-
----
-
 class: inverse, center, middle
 
 # Constrained Optimization
