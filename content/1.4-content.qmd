@@ -13,6 +13,11 @@ source(here::here("slides", "slide-links.R"))
 *Section 2: Tuesday, September 6, 2022*
 :::
 
+::: callout-warning
+# Upcoming Assignment
+[Problem Set 1](/assignments/01-problem-set) (on classes 1.1-1.4) is due by 11:59 PM Friday September 16 on Blackboard Assignments.
+:::
+
 ## <i class="fas fa-info-circle fa-lg"></i> Overview
 
 Today we put all of our tools together thus far to solve the consumer's constrained optimization problem. To solve the problem the “traditional way” would be to use [Lagrangian multipliers](https://en.wikipedia.org/wiki/Lagrange_multiplier) and calculus and solve for the first order conditions. [Take the full Lagrangian equation and solve for all partial derivatives, set equal to 0.] We instead will find the solution by looking graphically, and use an algebraic rule that should make a lot of intuitive sense. That rule, equivalently expressed in two ways:

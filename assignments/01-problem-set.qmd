@@ -16,9 +16,7 @@ Please read the [instructions](https://microf22.classes.ryansafner.com/assignmen
 
 <p style="text-align:center">
 
-<a target="_blank" href="/assignment/01-problem-set-pdf.pdf"><i class="fas fa-file-pdf"></i>Download PDF</a>
-
-</p>
+<p style="text-align:center;"><a class="btn btn-primary btn-lg" target="_blank" href="/files/assignment/01-problem-set-pdf.pdf"><i class="fas fa-file-pdf"></i> Download as PDF</a></p>
 
 # Concepts and Critical Thinking
 
