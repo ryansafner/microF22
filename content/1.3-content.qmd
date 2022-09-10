@@ -47,6 +47,21 @@ Answers from last class' [practice problems](/practice/1.2-practice) are posted 
 
 Answers to the [preliminary survey](/assignment/00-preliminary-survey) are posted on that page, along with survey results.
 
+## <i class="fas fa-sigma"></i> Appendix
+
+See the online appendix for today's content:
+
+- [Strict vs. Weak Preferences](/resources/appendices/1.3-appendix.html#strict-vs.-weak-preferences)
+- [Assumptions of "Well-Behaved" Preferences](/resources/appendices/1.3-appendix.html#assumptions-of-well-behaved-preferences)
+- [Assumptions of "Well-Behaved" Indifference Curves](/resources/appendices/1.3-appendix.html#assumptions-of-well-behaved-indifference-curves)
+- [Steepness & Indifference Curves for Neutrals](/resources/appendices/1.3-appendix.html#steepness-indifference-curves-for-neutrals)
+- [Derivation of MRS Equation (as ratio of marginal utilities)](/resources/appendices/1.3-appendix.html#derivation-of-mrs-equation-as-ratio-of-marginal-utilities)
+- [Utility Functions and PMTs](/resources/appendices/1.3-appendix.html#utility-functions-and-pmts)
+- [Graphing Indifference Curves](/resources/appendices/1.3-appendix.html#graphing-indifference-curves)
+- [Utility Functions for Perfect Substitutes](/resources/appendices/1.3-appendix.html#utility-functions-for-perfect-substitutes)
+- [Utility Functions for Perfect Complements](/resources/appendices/1.3-appendix.html#utility-functions-for-perfect-complements)
+- [Cobb-Douglas Functions](/resources/appendices/1.3-appendix.html#cobb-douglas-functions)
+
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
 
 Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides. 

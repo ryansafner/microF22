@@ -13,6 +13,11 @@ source(here::here("slides", "slide-links.R"))
 *Section 2: Tuesday, September 6, 2022*
 :::
 
+::: callout-warning
+# Upcoming Assignment
+[Problem Set 1](/assignments/01-problem-set) (on classes 1.1-1.4) is due by 11:59 PM Friday September 16 on Blackboard Assignments.
+:::
+
 ## <i class="fas fa-info-circle fa-lg"></i> Overview
 
 Solving a one-time constrained optimum problem might be useful in certain contexts, but the *dynamics* of change are far more interesting and useful: how do people optimally *respond* to changes in constraints? The remaining few classes before Exam 1 are about how people respond to changes in prices and income. 
@@ -31,6 +36,12 @@ In doing so, we also introduce a major empirical tool that we will return to man
 
 Today we will be working on [practice problems](/practice/1.5-practice). Answers will be posted later on that page.
 
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Problem Set 1 Due Friday September 16
+
+[Problem Set 1](/assignments/01-problem-set) (on classes 1.1-1.4) is due by 11:59 PM Friday September 16 on Blackboard Assignments.
 
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
 

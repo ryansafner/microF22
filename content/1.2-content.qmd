@@ -46,6 +46,18 @@ The Bastiat reading is perhaps one of the greatest economic parables ever writte
 
 Today we will be working on [practice problems](/practice/1.2-practice). Answers will be posted later on that page.
 
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Preliminary Math Survey Due
+
+Please take the [preliminary survey](/assignment/00-preliminary-survey) on your math background. This will help us all have a productive semester together.
+
+## <i class="fas fa-sigma"></i> Appendix
+
+See the online appendix for today's content:
+
+- [Budget Constraint for $n$ goods](/resources/appendices/1.2-appendix.html#budget-constraint-for-n-goods)
+
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
 
 Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides. 
@@ -63,8 +75,3 @@ I suggest printing the slides beforehand and using them to take additional notes
 slide_links("1.2-slides")
 ```
 
-## <i class="fas fa-laptop-code"></i> Assignments
-
-### Preliminary Math Survey Due
-
-Please take the [preliminary survey](/assignment/00-preliminary-survey) on your math background. This will help us all have a productive semester together.

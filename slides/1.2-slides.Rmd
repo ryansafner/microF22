@@ -305,7 +305,7 @@ ggplot(df, aes(x = x,
 ```
 ]
 
-.footnote[<sup>.magenta[†]</sup> See [appendix](content/1.2-content/#math-appendix) in today's class page to extend to *n* goods!]
+.footnote[<sup>.magenta[†]</sup> See [appendix](resources/appendices/1.2-appendix) in today's class page to extend to *n* goods!]
 
 ---
 

@@ -196,7 +196,7 @@ $$a=(4,12) \text{ or } b=(6,12)$$
 
 - .hi[*Preferences*] **are a list of all such comparisons between all bundles**
 
-See appendix in [today's class page](/content/1.3-content/#appendix-1-material-on-preferences) for more.
+See appendix in [today's class page](/resources/appendices/1.3-appendix) for more.
 ]
 
 .pull-right[
@@ -1140,7 +1140,7 @@ c&=(4,3)\\
 ]
 ]
 
-.footnote[<sup>.hi[†]</sup> See the Mathematical Appendix in [Today's Class Page](content/1.3-content/#utility-functions-and-pmts) for why.]
+.footnote[<sup>.hi[†]</sup> See the Mathematical Appendix in [Today's Class Page](resources/appendices/1.3-appendix/#utility-functions-and-pmts) for why.]
 
 ---
 
@@ -1566,7 +1566,7 @@ $$u(x,y)=x^ay^b$$
 
 - Extremely useful, you will see it often!
     - Lots of nice, useful properties (we'll see later)
-    - See the appendix in [today's class page](content/1.3-content/#cobb-douglas-functions)
+    - See the appendix in [today's class page](resources/appendices/1.3-appendix/#cobb-douglas-functions)
 ]
 
 .pull-right[

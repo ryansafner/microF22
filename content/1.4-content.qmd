@@ -41,6 +41,12 @@ Today we will be working on [practice problems](/practice/1.4-practice). Answers
 
 ## <i class="fas fa-laptop-code"></i> Assignments
 
+## <i class="fas fa-sigma"></i> Appendix
+
+See the online appendix for today's content:
+
+- [Solving the Constrained Optimization Problem with Calculus](/resources/appendices/1.4-appendix.html#solving-the-constrained-optimization-problem-with-calculus)
+- [General Case for $n$ Goods & Marshallian Demand Functions](/resources/appendices/1.4-appendix.html#general-case-for-n-goods-marshallian-demand)
 
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
 
