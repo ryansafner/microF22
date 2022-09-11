@@ -48,6 +48,8 @@ website:
               href: content/1.4-content.qmd
             - text: "1.5 — Demand"
               href: content/1.5-content.qmd
+            - text: "1.6 — Income & Substitution Effects"
+              href: content/1.6-content.qmd
               
     - title: "Assignments"
       style: "docked"
@@ -86,6 +88,16 @@ website:
           contents:
             - text: "Functions"
               href: resources/math/functions.qmd
+            - text: "Graphing Linear Equations"
+              href: resources/math/graphing.qmd
+            - text: "Rates of Change"
+              href: resources/math/changes.qmd
+            - text: "Nonlinear Functions & Optimization"
+              href: resources/math/nonlinear.qmd
+            - text: "Solving Systems of (Linear) Equations"
+              href: resources/math/equations.qmd
+            - text: "Exponents & Logarithms"
+              href: resources/math/exponents.qmd
         - section: "Computing Guides"
           contents:
           - href: resources/pdfs.qmd

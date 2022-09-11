@@ -357,6 +357,41 @@
     "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
   },
   {
+    "objectID": "content/1.6-content.html#overview",
+    "href": "content/1.6-content.html#overview",
+    "title": "1.6 — Income & Substitution Effects — Class Content",
+    "section": " Overview",
+    "text": "Overview\nToday we cover the third effect in the individual demand function: the (own) price effect, aka the law of demand: how changes in a good’s (own) price affect quantity demanded for that good.\nWe introduce the idea of (simplified, own-price) demand functions, inverse demand functions, and a demand curve. I will also show you examples of how we derive demand functions and curves.\nThe other major concept today is breaking apart the law of demand into two effects: the (real) income effect, and the substitution effect. We considering them conceptually and graphically. These can be a difficult concept for students to grasp."
+  },
+  {
+    "objectID": "content/1.6-content.html#readings",
+    "href": "content/1.6-content.html#readings",
+    "title": "1.6 — Income & Substitution Effects — Class Content",
+    "section": " Readings",
+    "text": "Readings\n\n Ch. 2.2, 5.3, in Goolsbee, Levitt, and Syverson, 2019"
+  },
+  {
+    "objectID": "content/1.6-content.html#interactive-examples",
+    "href": "content/1.6-content.html#interactive-examples",
+    "title": "1.6 — Income & Substitution Effects — Class Content",
+    "section": "Interactive Examples",
+    "text": "Interactive Examples\n\nVisualizing the Consumer’s Problem\nVisualizing Changes in the Consumer’s Problem\nVisualizing Demand Shifters\n\nThese are examples that I wrote in R/Shiny in the past, to visualize what it is we are looking at. As I find more time, I will update these and integrate them into our slides, but until then, I will just post links.\nThe first is a visual example of the static (one-time) Consumer’s problem. You can adjust things about the (Cobb-Douglas) utility function, income, and prices, and see how it would affect the graph and the optimum.\nThe second is a visual example of dynamic changes in the Consumer’s problem. The consumer starts at a pre-defined optimum. You can adjust any of the budget constraint parameters \\((m, p_x, p_y)\\), and see how it would affect a new optimum, which you can compare the the original optimum.\nThe third is a visual example of a hypothetical demand function for beer, with preference intensity, income, price of nachos (a complement), and price of wine (a substitute) as inputs to the function. Based on some pre-defined functions (in the background), you can change any of the inputs and see how it would affect the (inverse) demand function, expressed as a simple demand curve.\nI hope some time to clean these up and make a few more, such as “Visualizing the Income and Substitution Effects” and “Estimating a Demand Function from Real World Data.”"
+  },
+  {
+    "objectID": "content/1.6-content.html#assignments",
+    "href": "content/1.6-content.html#assignments",
+    "title": "1.6 — Income & Substitution Effects — Class Content",
+    "section": " Assignments",
+    "text": "Assignments\n\nProblem Set 1 Due Friday September 16\nProblem Set 1 (on classes 1.1-1.4) is due by 11:59 PM Friday September 16 on Blackboard Assignments."
+  },
+  {
+    "objectID": "content/1.6-content.html#slides",
+    "href": "content/1.6-content.html#slides",
+    "title": "1.6 — Income & Substitution Effects — Class Content",
+    "section": " Slides",
+    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
+  },
+  {
     "objectID": "content/index.html",
     "href": "content/index.html",
     "title": "Overview",
@@ -469,6 +504,13 @@
     "text": "Part B\nHow much utility does this provide?"
   },
   {
+    "objectID": "practice/1.5-practice.html",
+    "href": "practice/1.5-practice.html",
+    "title": "1.5 — Demand — Practice",
+    "section": "",
+    "text": "Download PDF\n\nYou can spend your income on apples and oranges. Apples currently cost $0.25 and oranges cost $0.50. When your income is $40, you buy 10 apples and 8 oranges. When your income increases to $80, you buy 12 apples and 6 oranges\n\nQuestion 1\nWhat type of good are apples (inferior, necessity, luxury)? Calculate the income elasticity of demand.\n\n\nQuestion 2\nWhat type of good are oranges (inferior, necessity, or luxury)? Calculate the income elasticity of demand.\nYou can can have cereal and milk for breakfast. When milk is $2/gallon, you consume 5 bowls of cereal per week. When milk increases to $4/gallon, you consume 4 bowls of cereal per week.\n\nQuestion 3\nWhat is the relationship between these two goods?\n\n\nQuestion 4\nCalculate the cross-price elasticity of demand."
+  },
+  {
     "objectID": "resources/appendices/1.2-appendix.html",
     "href": "resources/appendices/1.2-appendix.html",
     "title": "1.2 — Budget Constraint — Appendix",
@@ -572,6 +614,118 @@
     "title": "Resources",
     "section": "",
     "text": "Look here over the course of the semester for resources, links, and tips on how to succeed in the course, how to write well, and other things of interest related to econometrics, data analysis, managing your workflow, and using R."
+  },
+  {
+    "objectID": "resources/math/changes.html",
+    "href": "resources/math/changes.html",
+    "title": "Rates of Change",
+    "section": "",
+    "text": "If \\(y\\) changes from \\(y_1 \\rightarrow y_2\\), the difference, \\(\\Delta y = y_2-y_1\\)\nWe can express the relative difference, comparing the difference with the original value of \\(y_1\\) as:\n\\[\\text{relative change in y}=\\frac{y_2-y_1}{y_1}=\\frac{\\Delta y}{y_1}  \\]\n\\[\\frac{y_2-y_1}{y_1}=\\frac{3.02-3}{3}=0.0067\\]\nIt’s most common to talk about the percentage change in \\(y\\) (\\(\\% \\Delta y\\)), also called the growth rate of \\(y\\), which is 100 times the relative change:\n\\[\\text{percentage change in y}=\\% \\Delta y = \\frac{y_2-y_1}{y_1}=\\frac{\\Delta y}{y_1}*100\\%\\]\n\\[\\frac{y_2-y_1}{y_1}*100=\\frac{3.02-3}{3}*100=0.67\\%\\]\nNatural logarithms \\((\\ln)\\) are very helpful in approximating percentage changes from \\(y_1\\) to \\(y_2\\) because:\n\\[100*(\\ln(y_2)-\\ln(y_1))=\\% \\Delta y = \\text{percentage change in y}\\]"
+  },
+  {
+    "objectID": "resources/math/changes.html#elasticity",
+    "href": "resources/math/changes.html#elasticity",
+    "title": "Rates of Change",
+    "section": "Elasticity",
+    "text": "Elasticity\nUsing logs and percentage changes helps us talk about elasticity, an extremely useful concept with vast applications all over economics. Elasticity measures the percentage change in one variable (\\(y\\)) as a response to a 1% change in another (\\(x\\)) at a particular value of \\(x\\) and \\(y\\).\n\\[\\epsilon_{yx} = \\frac{\\% \\Delta y}{\\% \\Delta x}=\\cfrac{(\\frac{\\Delta y}{y})}{(\\frac{\\Delta x}{x})}    =\\frac{\\Delta y}{\\Delta x}*\\frac{x}{y}\\]\n\nInterpretation: A 1% change in \\(x\\) will lead to a \\(\\epsilon_{yx}\\)% change in \\(y\\)\n\nFor example, the price elasticity of demand measures the percentage change in quantity demanded to a 1% change in price (at a particular price point), note here: \\(x=P\\) and \\(y=q\\):\n\\[\\epsilon_D = \\frac{\\%\\Delta q}{\\%\\Delta p} =  \\cfrac{\\frac{\\Delta q}{q}}{\\frac{\\Delta p}{p}} =\\frac{\\Delta q}{\\Delta p}*\\frac{p}{q}\\]\n\nNote that \\(\\frac{\\Delta q}{\\Delta p}\\) is \\(\\frac{1}{slope}\\) of the demand curve (which is \\(\\frac{\\Delta p}{\\Delta q}\\))\nNote though we would technically multiply by \\(\\frac{100}{100}\\) to get percentage change, this term obviously is just 1. Elasticity is unitless.\nNote also that on a graph we usually express \\(q\\) as our independent variable and \\(p\\) as our dependent variable"
+  },
+  {
+    "objectID": "resources/math/changes.html#derivatives-calculus",
+    "href": "resources/math/changes.html#derivatives-calculus",
+    "title": "Rates of Change",
+    "section": "Derivatives (Calculus)",
+    "text": "Derivatives (Calculus)\nOften, \\(\\Delta y\\) refers to a very small change in \\(y\\), a marginal change in \\(y\\). A rate of change is the ratio of two changes, such as the change between \\(x\\) and \\(y=f(x)\\):\n\\[\\frac{\\Delta f(x)}{\\Delta x} = \\frac{f(x + \\Delta x)-f(x)}{\\Delta x}\\]\n\nThis measures how \\(f(x)\\) changes as \\(x\\) changes\nIf \\(\\Delta\\) is infinitesimally small, then we have expressed the (first) derivative of \\(f(x)\\) with respect to \\(x\\), written variously as \\(f'(x)\\) or \\(\\frac{df(x)}{dx}\\)\n\n\\[\\frac{d f(x)}{d x} = \\lim_ {\\Delta x \\to 0} \\frac{f(x + \\Delta x)-f(x)}{\\Delta x}\\]\nThe derivative of a linear function \\((y=ax+b)\\) is a constant (i.e. the slope), \\(a\\)\n\\[\\frac{d f(x)}{d x} = a\\]\nThe derivative of the first derivative is the second derivative of a function \\(f(x)\\) with respect to \\(x\\), denoted \\(f''(x)\\) or \\(\\frac{d^2f(x)}{dx^2}\\)\n\nThe second derivative measures the curvature of a function\nIt used for proving when a function has reached a maximum or minimum, or is concave or convex (often used in #Nonlinear-Functions-&-Optimization)"
+  },
+  {
+    "objectID": "resources/math/equations.html",
+    "href": "resources/math/equations.html",
+    "title": "Solving Systems of (Linear) Equations",
+    "section": "",
+    "text": "To solve a system of simultaneous linear equations, there must be as many equations as there are variables:\n\\[\\begin{align*}\n12x+4y&=36 \\\\\n6x-3y&=3 \\\\\n\\end{align*}\\]\nThere are two methods we can use to solve this system:"
+  },
+  {
+    "objectID": "resources/math/equations.html#substitution",
+    "href": "resources/math/equations.html#substitution",
+    "title": "Solving Systems of (Linear) Equations",
+    "section": "Substitution",
+    "text": "Substitution\nFirst, we take one equation and solve for one of the variables. Here, we take the first, and solve for \\(x\\):\n\\[\\begin{align*}\n        12x+4y&=36\\\\\n        12x&=36-4y\\\\\n        x&=3-\\frac{1}{3}y\\\\\n        \\end{align*}\\]\nNow we take this value and plug it into the other equation:\n\\[\\begin{align*}\n        6x-3y&=3\\\\\n        6(3-\\frac{1}{3}y)-3y&=3\\\\\n            18-2y-3y&=3\\\\\n            18-5y&=3\\\\\n            -5y&=-15\\\\\n            y&=3\\\\\n        \\end{align*}\\]\nNow that we know the value of one variable, plug it into either of the original equations to solve for the value of the other variable:\n\\[\\begin{align*}\n        12x+4y&=36\\\\\n        12x+4(3)&=36\\\\\n        12x+12&=36\\\\\n        12x&=24\\\\\n        x&=2\\\\\n        \\end{align*}\\]\nWe should verify that our variables are correct, so plug \\(x\\) and \\(y\\) into each equation and make sure it is true. Let’s start with the first equation:\n\\[\\begin{align*}\n        12x+4y&=36\\\\\n        12(2)+4(3)&=36\\\\\n        24+12&=36 \\checkmark \\\\\n        \\end{align*}\\]\nWe can do the same with the other equation:\n\\[\\begin{align*}\n        6x-3y&=3\\\\\n        6(2)-3(3)&=3\\\\\n        12-9&=3 \\checkmark \\\\\n        \\end{align*}\\]"
+  },
+  {
+    "objectID": "resources/math/equations.html#elimination",
+    "href": "resources/math/equations.html#elimination",
+    "title": "Solving Systems of (Linear) Equations",
+    "section": "Elimination",
+    "text": "Elimination\nWe will multiply the equations by constants to make the coefficients of one variable equal. Here, let us try to make the coefficients in front of each equation’s \\(x\\) equal.\n\\[\\begin{align*}\n        [12x+4y&=36]*6\\\\\n        [6x-3y&=3]*12\\\\\n    \\end{align*}\\]\nTo do so, we will multiply the first equation by 6, and the second equation by 12. (We multiply each equation by the coefficient in front of the other equation’s \\(x\\) variable):\n\\[\\begin{align*}\n        72x+24y&=216\\\\\n        72x-36y&=36\n    \\end{align*}\\]\nNow we subtract the second equation from the first, which should get rid of \\(x\\):\n\\[\\begin{align*}\n        72x+24y&=216\\\\\n        -[72x-36y&=36]\\\\    \n    \\end{align*}\\]\nBe careful to distribute the minus sign carefully:\n\\[\\begin{align*}\n        [72x-72x]+[24y-(-36y)]&=[216-36]\\\\\n        60y&=180\\\\\n        y&=3\\\\\n    \\end{align*}\\]\nNow that we have the value of one variable, plug it in to either equation.\n\\[\\begin{align*}\n        12x+4y&=36\\\\\n        12x+4(3)&=36\\\\\n        12x+12&=36\\\\\n        12x&=24\\\\\n        x&=2\\\\\n        \\end{align*}\\]\nNow that we have both variables, we can plug them in to each equation to double check them, same as before."
+  },
+  {
+    "objectID": "resources/math/exponents.html",
+    "href": "resources/math/exponents.html",
+    "title": "Exponents & Logarithms",
+    "section": "",
+    "text": "Exponents are defined as:\n\n\\(b^n=\\underbrace{b \\times b \\times ... \\times b}_{n}\\), where base \\(b\\) is multiplied by itself \\(n\\) times\n\\(b^0=1\\) (for \\(b \\neq 0\\))\n\nThere are some common rules for exponents, assuming \\(x\\) and \\(y\\) are real numbers, \\(m\\) and \\(n\\) are integers, and \\(a\\) and \\(b\\) are rational:\n\n\\(x^{-n}=\\frac{1}{x^n}\\)\n\ne.g. \\(x^{-3} = \\frac{1}{x^3}\\)\n\n\\(x^{\\frac{1}{n}}=\\sqrt[n]{x}\\)\n\ne.g. \\(x^{\\frac{1}{2}} = \\sqrt{x}\\)\n\n\\(x^{(\\frac{m}{n})}=(x^{\\frac{1}{n}})^m\\)\n\ne.g. \\(8^{\\frac{4}{3}} = (8^\\frac{1}{3})^4=2^4=16\\)\n\n\\(x^{a}x^b=x^{a+b}\\)\n\ne.g. \\(x^2x^3=x^5\\)\n\n\\(\\frac{x^a}{x^b}=x^{a-b}\\)\n\ne.g. \\(\\frac{x^2}{x^3}=x^{-1}=\\frac{1}{x}\\)\n\n\\((\\frac{x}{y})^a=\\frac{x^a}{y^a}\\)\n\ne.g. \\((\\frac{x}{y})^2=\\frac{x^2}{y^2}\\)\n\n\\((xy)^a=x^ay^a\\)\n\ne.g. \\((xy)^2=x^2y^2\\)\n\n\nLogarithms are the exponents in the expressions above, the inverse of exponentiation\n\nIf \\(b^y=x\\), then \\(log_b(x)= y\\)\n\n\\(y\\) is the number you must raise \\(b\\) to in order to get \\(x\\)\ne.g. \\(2^6=64 = \\underbrace{(2*2*2*2*2*2)}_{\\text{6 times}}\\) so \\(log_2(64)=6\\)\n\n\nWe often use the natural logarithm (ln) with base \\(e=2.718...\\) in many math, statistics, and economic applications\n\nIf \\(e^y=x\\), then \\(\\ln(x) = y\\)\n\nThere are a number of highly useful rules for natural logs:\n\n\\(\\ln(xy)=\\ln(x)+\\ln(y)\\)\n\ne.g. \\(\\ln(2*3)=\\ln(2)+\\ln(3)\\)\n\n\\(\\ln(\\frac{x}{y})=\\ln(x)-\\ln(y)\\)\n\ne.g. \\(\\ln(\\frac{2}{3})=\\ln(2)-\\ln(3)\\)\n\n\\(\\ln(x^a)=a*\\ln(x)\\)\n\ne.g. \\(\\ln(x^2)=2\\ln(x)\\)"
+  },
+  {
+    "objectID": "resources/math/functions.html#functions",
+    "href": "resources/math/functions.html#functions",
+    "title": "Functions",
+    "section": "Functions",
+    "text": "Functions\nA function is simply a rule that assigns a unique value of a dependent variable (e.g. \\(f(x)\\)) to each value of an independent variable (e.g. \\(x\\)): \\(x \\rightarrow f(x)\\)\n\nSomething is not a function if it assigns multiple values of \\(y\\) for the same value of \\(x\\) (e.g. on a graph, a vertical line)\nWe can relate any independent variable (e.g. \\(x\\)) to any dependent variable (e.g. \\(y\\)) so get comfortable using variables other than \\(x\\) and \\(y\\)!\n\nIn its general form a function can be written as:\n\\[q = q(p)\\]\n\n“Quantity (\\(q\\)) is a function of price (\\(p\\))”\nThis expresses that there is a relationship between \\(q\\) and \\(p\\), it doesn’t tell us the specific form of that relationship\n\n\\(q\\) is the dependent or “endogenous” variable, its value is determined by \\(p\\)\n\\(p\\) is the independent or “exogenous” variable, its value is given and not dependent on other variables\nThe specific form of this function might be:\n\n\n\\[q = 100-6p\\]\n\nThe numbers 100 and 6 are known as parameters, they are parts of the quantitative relationship between quantity and price (the variables) that do not change\nIf we have values of \\(p\\), we can find the value of \\(q(p)\\):\n\nWhen \\(p=10\\) \\[\\begin{align*}\n  q(p)&=100-6p\\\\\n  q(10)&=100-6(10)\\\\\n  q(10)&=100-60\\\\\n  q(10)&=40\\\\\n\\end{align*}\\]\nWhen \\(p=5\\): \\[\\begin{align*}\n  q(p)&=100-6p\\\\\n  q(5)&=100-6(5)\\\\\n  q(5)&=100-30\\\\\n  q(5)&=70\\\\  \n\\end{align*}\\]\n\n\nMultivariate functions have multiple independent variables, such as:\n\\[q=f(k,l)\\]\n\n“Output (\\(q\\)) is a function of both capital (\\(k\\)) and labor (\\(l\\))”\nIn economics, we often restrict the domain and range of functions to positive real numbers, \\(\\mathbb{R}_+\\), since prices and quantities are never negative in the real world\n\nDomain: the set of \\(x\\)-values\nRange: the set of \\(y\\)-values determined by the function"
+  },
+  {
+    "objectID": "resources/math/functions.html#inverse-functions",
+    "href": "resources/math/functions.html#inverse-functions",
+    "title": "Functions",
+    "section": "Inverse Functions",
+    "text": "Inverse Functions\n\nMany functions have a useful inverse, where we switch the independent variable and dependent variable\n\nFor example, if we have the demand function:\n\n\n\\[q=100-6p\\]\nwe may want find the inverse demand function, an equation where \\(p\\) is the dependent variable, rather than \\(q\\) (this is how we normally graph Supply and Demand functions!) - To do this, we need to solve the above equation for \\(p\\):\n\\[\n\\begin{align*}\n            q&=100-6p &&\\text{The original equation}\\\\\n            q+6p&=100 && \\text{Add } 6p \\text{ to both sides}\\\\\n            6p&=100-q && \\text{Subtract } q \\text{ from both sides}\\\\\n            p&=\\frac{100}{6}-\\frac{1}{6}q && \\text{Divide both sides by 6}\\\\\n\\end{align*}\n\\]"
+  },
+  {
+    "objectID": "resources/math/functions.html#functions-with-fractions",
+    "href": "resources/math/functions.html#functions-with-fractions",
+    "title": "Functions",
+    "section": "Functions with Fractions",
+    "text": "Functions with Fractions\n\nMany people are rusty on a few useful algebra rules we will need, one being how to deal with fractions in equations\nTo get rid of a fraction, multiply both sides of the equation by the fraction’s reciprocal (swap the numerator and denominator), which will yield just 1\n\n\\[\\begin{align*}\n        100&=\\frac{1}{4}x & & \\text{The equation to be solved for} x\\\\\n        \\frac{4}{1} \\big(\\frac{100}{1}\\big) &=\\frac{4}{1}\\bigg(\\frac{1}{4}x\\bigg) && \\text{Multiplying by the reciprocal of } \\frac{1}{4} \\text{, which is } \\frac{4}{1} \\\\\n        \\frac{400}{1}&=\\frac{4}{4}x & & \\text{Cross multiplying fractions}\\\\\n        400 & = x & & \\text{Simplifying}\\\\  \n        \\end{align*}\\]\n\nAlternatively (if possible), re-imagining the fraction as a decimal may help:\n\n\\[\\begin{align*}\n        100&=\\frac{1}{4}x && \\text{The original equation}\\\\\n        100&=0.25x && \\text{Converting to a decimal}\\\\\n        400 & = x && \\text{Dividing both sides by }0.25\\\\   \n        \\end{align*}\\]\n\nAdd fractions by finding a common denominator:\n\n\\[\\begin{align*}\n    \\frac{4}{3} &+ \\frac{2}{5}\\\\\n    \\bigg(\\frac{4 \\times 5}{3 \\times 5}\\bigg) &+ \\bigg(\\frac{2 \\times 3}{5 \\times 3}\\bigg)\\\\\n     \\frac{20}{15}&+\\frac{6}{15}\\\\\n    &= \\frac{26}{15}\\\\\n    \\end{align*}\\]\n\nMultiply fractions straight across the numerator and denominator\n\n\\[\n\\frac{4}{3} \\times \\frac{2}{5}=\\frac{4 \\times 2}{3 \\times 5}=\\frac{8}{15}\n\\]"
+  },
+  {
+    "objectID": "resources/math/graphing.html#slope-intercept-form",
+    "href": "resources/math/graphing.html#slope-intercept-form",
+    "title": "Graphing Linear Equations",
+    "section": "Slope-Intercept Form",
+    "text": "Slope-Intercept Form\n\n\n\n\n\n\nA linear function of two variables can be written in slope-intercept form:\n\n\\[y=ax+b\\]\n\n\\(y\\) is the dependent variable (on the vertical axis)\n\\(x\\) is the independent variable (on the horizontal axis)\n\\(a\\) is the slope of the line\n\n\\(a = \\frac{\\text{rise}}{\\text{run}} = \\frac{\\text{change in }y}{\\text{change in }x} = \\frac{\\Delta x}{\\Delta y}\\)\nyou may have been taught the slope as “\\(m\\)”, this is just personal taste, but again, get used to using different letters!\n\n\\(b\\) is the vertical-intercept, a constant number where the line crosses the vertical axis\n\nif \\(y\\) is the dependent variable, this is the “\\(y\\)-intercept”, \\(y\\) where \\(x=0\\)\n\nAny point on the line has an \\(x\\)-coordinate and \\(y\\)-coordinate \\((x_i,y_i)\\)"
+  },
+  {
+    "objectID": "resources/math/graphing.html#other-forms",
+    "href": "resources/math/graphing.html#other-forms",
+    "title": "Graphing Linear Equations",
+    "section": "Other Forms",
+    "text": "Other Forms\n\nA linear function can equivalently be expressed in the following form:\n\n\\[a_1x_1+a_2x_2=c\\]\n\n\\(x_2\\) is the dependent variable (on the vertical axis)\n\\(x_1\\) is the independent variable (on the horizontal axis)\n\\(c\\) is a constant\nThis is a valid equation, but is difficult to visualize in the traditional graph as above. Simply solve for the dependent variable on the vertical axis \\((x_2\\) as if you were solving for \\(y)\\):\n\n\n\n\n\n\n\\[\\begin{align*}\na_1x_1+a_2x_2=c && \\text{Original}\\\\\na_2x_2=c-a_1x_1  && \\text{Subtracting }x_1 \\text{ term}\\\\\nx_2 = \\frac{c}{a_2}-\\frac{a_1}{a_2}x_1 && \\text{Dividing by }a_2 \\\\\n\\end{align*}\\]\n\nThe vertical intercept is \\(\\frac{c}{a_2}\\)\nThe horizontal intercept is \\(\\frac{c}{a_1}\\)\nThe slope is \\(-\\frac{a_1}{a_2}\\)\nThis is extremely useful for dealing with constraints in constrained optimization problems: budget constraints and isocost lines"
+  },
+  {
+    "objectID": "resources/math/graphing.html#drawing-a-graph-from-an-equation",
+    "href": "resources/math/graphing.html#drawing-a-graph-from-an-equation",
+    "title": "Graphing Linear Equations",
+    "section": "Drawing a Graph From an Equation",
+    "text": "Drawing a Graph From an Equation\nIf we already have a linear equation that we would like to graph, we can follow these steps:\n\nTake the equation and plug in two values, e.g. if we have:\n\n\\[p = \\frac{1}{2}q + 4\\]\n\nWe can find two points on the graph. The easiest one to find is the vertical-intercept, where the line crosses the vertical axis, where \\(q=0\\), so plug in \\(q=0\\):\n\n\\[\\begin{align*}\np &= \\frac{1}{2}(0)+4\\\\\np &= 4 \\\\ \\end{align*}\\]\nThus, one point is \\((0,4)\\). Note that the constant in the function itself is the \\(p-intercept\\)! So one valid point will always be \\((0,b)\\)!\n\nFor our second point, let’s plug in \\(q=2\\):\n\n\\[\\begin{align*}\np &= \\frac{1}{2}(2)+4\\\\\np &= 5 \\\\ \\end{align*}\\]\nThus, another point is \\((2,5)\\)\n\nNow, plot the two points on the graph, and connect them with a line\n\n\n\n\n\n\nNote: A quick shortcut to plot a line is to find the vertical intercept and plot that, and then find the next point using the slope. Here, start our line at 4 on the vertical axis, and then, as the slope is \\(\\frac{1}{2}\\), for every one unit increase in \\(q\\), \\(p\\) increases by \\(\\frac{1}{2}\\). Our second point, (2,5), is a 2 unit increase in \\(q\\) resulting in a \\(1\\) unit increase in \\(p\\)."
+  },
+  {
+    "objectID": "resources/math/graphing.html#finding-an-equation-from-a-graph",
+    "href": "resources/math/graphing.html#finding-an-equation-from-a-graph",
+    "title": "Graphing Linear Equations",
+    "section": "Finding an Equation from a Graph",
+    "text": "Finding an Equation from a Graph\n\n\n\n\n\nIn order to find the equation of an existing line, we follow these steps:\n\nFirst, take two points on the line and find the slope, \\(a\\), between them. Let’s pick \\((1,6)\\) and \\((3,2)\\).\n\n\\[\\begin{align*}\n\\text{Slope} &= \\frac{rise}{run} \\\\\n&= \\frac{(p_2-p_1)}{(q_2-q_1)}\\\\\n&= \\frac{(2-6)}{(3-1)}\\\\\n&= \\frac{-4}{2}\\\\\n&= -2\\\\ \\end{align*}\\]\nThere is a shortcut that we can use to find the slope faster by eye-balling the graph: When \\(q\\) changes by 1, how many units does \\(p\\) change? If we move from (1,6) to (2,5), \\(q\\) increases by 1, but \\(p\\) falls by 2. So the slope is \\(-2\\). For every one unit increase in \\(q\\), \\(p\\) changes by -2.\n\nNow with the slope, we need to find the vertical intercept, or \\(b\\), we solve this by plugging in the slope and any point on the graph, we will use (1,6):\n\n\\[\\begin{align*}\n        p &= aq+b\\\\\n        (6) &= -2(1)+b\\\\\n        6 &= -2+b\\\\\n        8 &= b\\\\\n    \\end{align*}\\]\nNote, there is another easy way to eye-ball what this value is. It is simply that \\(p\\) value where \\(q=0\\), or at what \\(p\\) value the graph crosses the vertical axis. We can see it is at 8.\n\nThus, we have the slope and the intercept, so our equation is:\n\n\\[\np = -2q+8   \n\\]"
+  },
+  {
+    "objectID": "resources/math/nonlinear.html",
+    "href": "resources/math/nonlinear.html",
+    "title": "Nonlinear Functions & Optimization",
+    "section": "",
+    "text": "A function is non-linear if it is curved, i.e. not a straight line. Nonlinear functions’ slopes may be different for different values of the independent variable.\nThe slope at any particular point of the function is is its first derivative, the rate of instantaneous change.\nMost applications in economics pertain to marginal magnitudes\nWe can describe a curved function as being either convex or concave with respect to the origin (0,0)\nIn simplest terms, a function is concave between two points \\(a, b\\) if a straight line connecting \\(a\\) and \\(b\\) lies beneath the function itself\n\\[\\color{red}{f[(t a)+(1-t)b]} > t f(a) + (1-t) f(b)\\text{ for }0 < t < 1\\]\n\\[\\color{blue}{f[(w a)+(1-w)b]} < w f(a) + (1-w) f(b) \\quad\\text{ for }0 < w < 1\\]\nIn simplest terms, a function is convex between two points \\(a, b\\) if a straight line connecting \\(a\\) and \\(b\\) lies above the function itself\n\\[\\color{blue}{f[(w a)+(1-w)b]} < w f(a) + (1-w) f(b) \\quad \\text{ for }0 < w < 1\\]\nA function switches between convex and concave at an inflection point (point C in the example above) - Here, the second derivative (in addition to the first) is equal to 0"
+  },
+  {
+    "objectID": "resources/math/nonlinear.html#optimization",
+    "href": "resources/math/nonlinear.html#optimization",
+    "title": "Nonlinear Functions & Optimization",
+    "section": "Optimization",
+    "text": "Optimization\nFor most curves, we often want to find the value where the function reaches its maximum or minimum (in general, these are types of “extrema”) along some interval\n\n\n\n\n\nFormally, a function reaches a maximum at \\(x^*\\) if \\(f(x^*) \\geq f(x)\\) for all \\(x\\); or a minimum at \\(x^*\\) if \\(f(x^*) \\leq f(x)\\) for all \\(x\\) - In the graph above, the function reaches a maximum at \\(x_1\\) and a minimum at \\(x_2\\)\nThe maximum or minimum of a function occurs where the slope (first derivative) is zero, known in calculus as the “first-order condition”\n\\[\\frac{df(x^*)}{dx} = 0\\]\n\nTo distinguish between maxima and minima, we have the “second-order condition”\n\nA minimum occurs when the second derivative of the function is positive, and the curve is convex\n\n\n\\[\\frac{d^2f(x^*)}{dx^2} > 0\\]\n\nA maximum occurs when the second derivative of the function is negative, and the curve is concave\n\n\\[\\frac{d^2f(x^*)}{dx^2} < 0\\]\n\nAn inflection point occurs where the second derivative of the function is zero\nAll three are known as “critical points”\n\nThis is often useful for unconstrained optimization, e.g. finding the quantity of output that maximizes profits\nNote, if we have a multivariate function \\(y=f(x_1, x_2)\\) and want to find the maximum or minimum (\\(x_1^\\star, x_2^\\star\\)), the first order conditions (FOC, plural) are where all the partial derivatives (derivative with respect to \\(x_1\\) and derivative with respect to \\(x_2\\)) are zero\n\\[\\begin{align*}\n\\frac{\\partial f(x_1^*, x_2^*)}{\\partial x_1} &= 0 \\\\\n\\frac{\\partial f(x_1^*, x_2^*)}{\\partial x_2} &= 0 \\\\\n\\end{align*}\\] There are second order conditions as well, to demonstrate whether an extremum is a maximum or minimum, but they are too complex to discuss here.\nOften we want to find the maximum or minimum of a function over some restricted values of \\((x_1, x_2)\\), known as constrained optimization. This is one of the most important modeling tools in microeconomics, and will show up in many contexts.\n\nWe want to find the maximum of some function:\n\n\\[\\begin{align*}\n\\max_{x_1, x_2} f(x_1, x_2)\\\\\n\\text{subject to } g(x_1, x_2)=c \\\\\n\\end{align*}\\]\n\n\\(f(x_1, x_2)\\) is the “objective function” we wish to maximize (or minimize)\n\\(g(x_1, x_2)=c\\) is the “constraint” that limits us within some specified set of \\(x_1\\) and \\(x_2\\) values\n\nMuch of microeconomic modeling is about figuring out what an agent’s objective is (e.g. maximize profits, maximize utility, minimize costs) and what their constraints are (e.g. budget, time, output).\nThere are several ways to solve a constrained optimization problem (see Appendix to Ch. 5 in textbook), the most frequent (but requiring calculus) is Lagrangian multiplier method.\nGraphically, the solution to a constrained optimization problem is the point where a curve (objective function) and a line (constraint) are tangent to one another: they just touch, but do not intersect (e.g. at point A below).\n\n\n\n\n\nAt the point of tangency (A), the slope of the curve (objective function) is equal to the slope of the line (constraint)\n\nThis is extremely useful and is always the solution to simple constrained optimization problems, e.g.\n\ne.g. maximizing utility subject to income\ne.g. minimizing cost subject to a certain level of output\n\nWe can find the equation of the tangent line using point slope form\n\n\\[y-y_1=m(x-x_1)\\]\n\nWe need to know the slope \\(m\\), which we would know from the slope of the function at that point\nWe know \\((x_1, y_1\\)) is the point of tangency"
   },
   {
     "objectID": "resources/pdfs.html",

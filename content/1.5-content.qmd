@@ -8,9 +8,9 @@ source(here::here("slides", "slide-links.R"))
 
 ::: {.callout-note appearance=minimal}
 # Meeting Dates
-*Section 1: Wednesday, September 7, 2022*
+*Section 1: Monday, September 12, 2022*
 
-*Section 2: Tuesday, September 6, 2022*
+*Section 2: Tuesday, September 13, 2022*
 :::
 
 ::: callout-warning
