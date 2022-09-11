@@ -66,6 +66,6 @@ I suggest printing the slides beforehand and using them to take additional notes
 #| echo: false
 #| output: asis
 
-slide_links("1.5-slides")
+slide_links("1.6-slides")
 ```
 
