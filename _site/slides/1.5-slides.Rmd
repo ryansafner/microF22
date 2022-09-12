@@ -564,7 +564,7 @@ $$\begin{align*}
 
 .bg-washed-green.b--dark-green.ba.bw2.br3.shadow-5.ph4.mt5[
 .green[**Example**:]
-A country's GDP is $100bn in 2022, and $120bn in 2021 Calculate the country's GDP growth rate for 2022:
+A country's GDP is $100bn in 2021, and $120bn in 2022 Calculate the country's GDP growth rate for 2022:
 ]
 
 ---
