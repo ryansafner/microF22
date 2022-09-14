@@ -166,7 +166,7 @@ class: inverse, center, middle
 
 .pull-left[
 
-- .hi[Real income effect]: your consumption mix changes because of the change in the price of $x$ changes your .hi-purple[real income] or .hi-purple[purchasing power] (the amount of goods you can buy)
+- .hi-green[Real income effect]: your consumption mix changes because of the change in the price of $x$ changes your .hi-green[real income] or .hi-green[purchasing power] (the amount of goods you can buy)
 
 - Note your **_actual_ (nominal) income** ($100) **never changed!**
 ]
@@ -284,16 +284,16 @@ class: inverse, center, middle
 
 # Putting the Effects Together
 
-- .hi-green[Real income effect]: change in consumption due to change in real purchasing power
-    - **Different directions**: positive (**normal goods**) or negative (**inferior goods**)
+- .hi-green[Real income effect]: change in consumption due to .green[change in real purchasing power]
+    - **Could go in different directions**: positive (**normal goods**) or negative (**inferior goods**)
     - Higher price of $x$ means you must buy less $x$, $y$, or *both* (depending on your preferences)
 
 --
 
-- .hi-orange[Substitution effect]: change in consumption due to change in relative prices
+- .hi-orange[Substitution effect]: change in consumption due to .orange[change in relative prices]
     - If $x$ gets more expensive relative to $y$, consume $\downarrow x$ (and $\uparrow y$)
-    - Always the same direction: $(\downarrow$ relatively expensive goods, $uparrow$ relatively cheaper goods)
-    - This is why demand curves slope downwards!
+    - **Always the same direction:** $(\downarrow$ relatively expensive goods, $\uparrow$ relatively cheaper goods)
+    - **This is why demand curves slope downwards!**
     
 --
 
@@ -436,7 +436,7 @@ opt2
 
 - Graphically: shift *new* budget constraint inwards until tangent with *old* indifference curve
 
-- $A \rightarrow B$ on same I.C. $(\udownarrow$ $x$, $\uparrow$ $y)$
+- $A \rightarrow B$ on same I.C. $(\downarrow$ $x$, $\uparrow$ $y)$
   - .slate[Note: Point B *must* be a *different* point on the original curve! Why?]
 
 ]
@@ -492,7 +492,7 @@ se_dom
 
 .pull-left[
 
-- .green[**(Real) income effect:**] change in consumption due to the **change in purchasing power** from the change in price
+- .green[**(Real) income effect:**] change in consumption due to the **change in purchasing power** from the price change
 
 ]
 
@@ -510,7 +510,7 @@ se_dom
 
 .pull-left[
 
-- .green[**(Real) income effect:**] change in consumption due to the **change in purchasing power** from the change in price
+- .green[**(Real) income effect:**] change in consumption due to the **change in purchasing power** from the price change
 
 - $B \rightarrow C$ to new budget constraint (can buy less of $x$ and/or $y$)
 ]
@@ -639,7 +639,7 @@ se_dom+
 
 ---
 
-```{r, fig.width=8, fig.asp=1.068}
+```{r, fig.width=15}
 se_dom+
   annotate("segment", x = 9, xend = 6, y = 6, yend = 6, colour = "#047806", size=2, alpha=1, arrow=arrow(length=unit(0.5,"cm"), ends="last", type="closed"))+
     annotate("segment", x = 12, xend = 6, y = 2, yend = 2, colour = "purple", size=2, alpha=1, arrow=arrow(length=unit(0.5,"cm"), ends="last", type="closed"))+
@@ -655,7 +655,7 @@ class: inverse, center, middle
 
 ---
 
-# Real Income and Substitution Effects, Graphically I
+# Inferior Goods, Graphically I
 
 .pull-left[
 
@@ -672,7 +672,7 @@ opt
 
 ---
 
-# Real Income and Substitution Effects, Graphically I
+# Inferior Goods, Graphically I
 
 .pull-left[
 
@@ -741,7 +741,7 @@ opt_inf
 
 ---
 
-# Real Income and Substitution Effects, Graphically II
+# Inferior Goods, Graphically II
 
 .pull-left[
 
@@ -759,7 +759,7 @@ opt_inf
 
 ---
 
-# Real Income and Substitution Effects, Graphically II
+# Inferior Goods, Graphically II
 
 .pull-left[
 
@@ -817,11 +817,11 @@ se_dom_inf
 
 ---
 
-# Real Income and Substitution Effects, Graphically III
+# Inferior Goods, Graphically III
 
 .pull-left[
 
-- .green[**(Real) income effect:**] change in consumption due to the **change in purchasing power** from the change in price
+- .green[**(Real) income effect:**] change in consumption due to the **change in purchasing power** from the price change
 
 ]
 
@@ -835,11 +835,11 @@ se_dom_inf
 
 ---
 
-# Real Income and Substitution Effects, Graphically III
+# Inferior Goods, Graphically III
 
 .pull-left[
 
-- .green[**(Real) income effect:**] change in consumption due to the **change in purchasing power** from the change in price
+- .green[**(Real) income effect:**] change in consumption due to the **change in purchasing power** from the price change
 
 - $B \rightarrow C$ to new budget constraint (can buy less of $x$ and/or $y$)
 ]
@@ -855,7 +855,7 @@ se_dom_inf+
 
 ---
 
-# Real Income and Substitution Effects, Graphically IV
+# Inferior Goods, Graphically IV
 
 .pull-left[
 
@@ -873,7 +873,7 @@ opt
 
 ---
 
-# Real Income and Substitution Effects, Graphically IV
+# Inferior Goods, Graphically IV
 
 .pull-left[
 
@@ -893,7 +893,7 @@ opt_inf
 
 ---
 
-# Real Income and Substitution Effects, Graphically IV
+# Inferior Goods, Graphically IV
 
 .pull-left[
 
@@ -915,7 +915,7 @@ se_dom_inf
 
 ---
 
-# Real Income and Substitution Effects, Graphically IV
+# Inferior Goods, Graphically IV
 
 .pull-left[
 
@@ -940,7 +940,7 @@ se_dom_inf+
 
 ---
 
-# Real Income and Substitution Effects, Graphically IV
+# Inferior Goods, Graphically IV
 
 .pull-left[
 
@@ -969,11 +969,12 @@ se_dom_inf+
 
 ---
 
-```{r, fig.width = 8, fig.asp=1.068}
+```{r, fig.width = 15}
 se_dom_inf+
   annotate("segment", x = 9, xend = 10, y = 6, yend = 6, colour = "#047806", size=2, alpha=1, arrow=arrow(length=unit(0.5,"cm"), ends="last", type="closed"))+
     annotate("segment", x = 12, xend = 10, y = 2, yend = 2, colour = "purple", size=2, alpha=1, arrow=arrow(length=unit(0.5,"cm"), ends="last", type="closed"))+
   labs(title = "Change in Consumption From an Increase in Price",
+       caption = "",
        subtitle = "Inferior Good")
 ```
 ---
@@ -993,8 +994,14 @@ se_dom_inf+
 - .hi-purple[Giffen good]: theoretical good that violates law of demand
 
 .smallest[
-  1. Inferior good (negative .green[real income effect])
-  2. .hi-green[real income effect] $>$ .hi-orange[substitution effect]
+.center[
+.hi-green[(negative) real income effect] $>$ .hi-orange[substitution effect]
+]
+
+
+1. Few substitutes (small .orange[substitution effect])
+2. An inferior good (negative .green[real income effect])
+3. A large portion of income spent on it (large .green[real income effect]) 
 ]
 
 - Price increase (decrease) causes person to buy *more* (less)
