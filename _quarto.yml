@@ -50,6 +50,8 @@ website:
               href: content/1.5-content.qmd
             - text: "1.6 — Income & Substitution Effects"
               href: content/1.6-content.qmd
+            - text: "1.7 — Price Elasticity"
+              href: content/1.7-content.qmd
               
     - title: "Assignments"
       style: "docked"
@@ -66,7 +68,12 @@ website:
               href: assignments/00-preliminary-survey.qmd
             - text: "Problem Set 1"
               href: assignments/01-problem-set.qmd
+            - text: "Problem Set 2"
+              href: assignments/02-problem-set.qmd
         - section: "Exams"
+          contents:
+            - text: "Exam 1"
+              href: assignments/01-exam.qmd
         - text: "Opinion-Editorial"
           href: assignments/op-ed.qmd
 

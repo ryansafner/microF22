@@ -7,6 +7,20 @@
     "text": "This is an ungraded and anonymous survey for me to evaluate the distribution of your math and statistics backgrounds. Please complete all problems to the best of your ability. Your responses will help me craft the course to see which material we need to focus on at greater length, especially review material.\n\n\n Download PDF  Answer Key\n\n\nQuestion 1\nDraw a graph of the following linear equation, \\(R=4-\\frac{1}{2}W\\). Plot \\(W\\) on the vertical axis and \\(R\\) on the horizontal axis.\n\n\nQuestion 2\nDraw a continuous function which begins at the origin, increases at a decreasing rate, reaches an inflection point, and then increases at an increasing rate. Show where each part of the function is concave or convex.\n\n\nQuestion 3\nSolve the system of equations for \\(x\\) and \\(y\\):\n\\[\\begin{align*}\n2x+y&=20\\\\\n4x-3y&=10\\\\\n\\end{align*}\\]\n\n\nQuestion 4\nSimplify the following equation:\n\\[Z=\\frac{0.5X^{-0.5} Y^{0.5}}{0.5X^{0.5}Y^{-0.5}}\\]\n\n\nQuestion 5\nFor the function \\(f(x) = 3x^2+2x-7\\):\n\nTake the derivative of \\(f(x)\\), i.e. \\(f'(x)\\).\nIn English, describe what the derivative of \\(f(x)\\) means.\nEvaluate \\(f'(4)\\). In English, describe what this means.\n\n\n\nQuestion 6\nFind the maximum value of the function:\n\\[f(x)=-2x^2+16x\\]\n\n\nQuestion 7\nExplain what a tangency on a curve means. What is true about the tangent line?\n\n\nQuestion 8\nOn a scale of 1 (worst) to 10 (best), rate your algebra skills (i.e. solving equations, graphing lines, working with fractions, etc.).\n\n\nQuestion 9\nHave you had any experience with calculus?\n\n\nQuestion 10\nOn a scale of 1 (least) to 10 (most), how anxious are you about this class? Feel free to elaborate any specific anxieties – it will make it more likely that I can specifically address them!"
   },
   {
+    "objectID": "assignments/01-exam.html",
+    "href": "assignments/01-exam.html",
+    "title": "Exam 1",
+    "section": "",
+    "text": "Exam 1 will be during class on:\n\nSection 1 (M/W): Monday, September 23\nSection 2 (Tu/Th): Tuesday, September 24"
+  },
+  {
+    "objectID": "assignments/01-exam.html#things-that-are-worth-memorizing",
+    "href": "assignments/01-exam.html#things-that-are-worth-memorizing",
+    "title": "Exam 1",
+    "section": "Things that are worth memorizing:",
+    "text": "Things that are worth memorizing:\n\nthe optimum consumption bundle is when the slopes (of indifference curve and budget constraint) are equal; marginal benefit = marginal cost; consumer’s & market’s exchange rate are equal (they all say the same thing, choose whatever resonates with you)\n\n\\[\\frac{MU_x}{MU_y}=\\frac{p_x}{p_y}\\]\n\nelasticity means “responsiveness” between variables\nwhat marginal rate of substitution, slopes of indifference curves & budget constraints, marginal utility, and various elasticities mean, in English"
+  },
+  {
     "objectID": "assignments/01-problem-set.html",
     "href": "assignments/01-problem-set.html",
     "title": "Problem Set 1",
@@ -68,6 +82,69 @@
     "title": "Problem Set 1",
     "section": "Part F",
     "text": "Part F\nHow much utility does the consumer earn at the optimum?"
+  },
+  {
+    "objectID": "assignments/02-problem-set.html",
+    "href": "assignments/02-problem-set.html",
+    "title": "Problem Set 2",
+    "section": "",
+    "text": "Due by 11:59 PM Friday September 23 via by Blackboard Assignments\nPlease read the instructions for completing homeworks.\nDownload as PDF"
+  },
+  {
+    "objectID": "assignments/02-problem-set.html#question-1",
+    "href": "assignments/02-problem-set.html#question-1",
+    "title": "Problem Set 2",
+    "section": "Question 1",
+    "text": "Question 1\nDescribe, in your own words, the (i) price effect, (ii) real income effect, and (iii) substitution effect from a price change."
+  },
+  {
+    "objectID": "assignments/02-problem-set.html#question-2",
+    "href": "assignments/02-problem-set.html#question-2",
+    "title": "Problem Set 2",
+    "section": "Question 2",
+    "text": "Question 2\nUnder what conditions can the law of demand be violated (however theoretical)?"
+  },
+  {
+    "objectID": "assignments/02-problem-set.html#question-3",
+    "href": "assignments/02-problem-set.html#question-3",
+    "title": "Problem Set 2",
+    "section": "Question 3",
+    "text": "Question 3\nFor each of the following pairs, which of the two goods is more likely to have a low price elasticity of demand (less elastic) and why?\n\nPart A\nDemand for tangerines vs. demand for fruit\n\n\nPart B\nDemand for beef next month vs. demand for beef over the next decade\n\n\nPart C\nDemand for Exxon gasoline at the corner of 7th and Grand vs. demand for gasoline in the entire city\n\n\nPart D\nDemand for insulin vs. demand for vitamins"
+  },
+  {
+    "objectID": "assignments/02-problem-set.html#question-4",
+    "href": "assignments/02-problem-set.html#question-4",
+    "title": "Problem Set 2",
+    "section": "Question 4",
+    "text": "Question 4\nSuppose that, holding prices constant, Alice has preferences over the number of books she purchases, illustrated in the table below.\n\n\n\n\n \n  \n    Income \n    Books \n  \n \n\n  \n    $5 \n    5 \n  \n  \n    $10 \n    6 \n  \n  \n    $15 \n    20 \n  \n  \n    $20 \n    25 \n  \n  \n    $25 \n    26 \n  \n  \n    $30 \n    10 \n  \n  \n    $35 \n    9 \n  \n  \n    $40 \n    8 \n  \n  \n    $45 \n    7 \n  \n  \n    $50 \n    6 \n  \n\n\n\n\n\nDraw a smooth approximation of Alice’s Engel curve for books, and indicate the range(s) of income over which books are normal and/or inferior goods."
+  },
+  {
+    "objectID": "assignments/02-problem-set.html#question-5",
+    "href": "assignments/02-problem-set.html#question-5",
+    "title": "Problem Set 2",
+    "section": "Question 5",
+    "text": "Question 5\nSteve spends his disposable income on meals at restaurants \\((r)\\) and paperback novels \\((n)\\). His usual restaurant meal costs $25, and paperback books cost $8. When Steve’s monthly income is $240, he goes out to eat 8 times and purchases 5 books. When his income rises to $282, he goes out to eat 10 times and purchases 4 books.\n\nPart A\nCalculate the income elasticity for meals at restaurants \\((r)\\). Is this an inferior, necessity, or luxury good?\n\n\nPart B\nCalculate the income elasticity for paperback novels \\((n)\\). Is this an inferior, necessity, or luxury good?"
+  },
+  {
+    "objectID": "assignments/02-problem-set.html#question-6",
+    "href": "assignments/02-problem-set.html#question-6",
+    "title": "Problem Set 2",
+    "section": "Question 6",
+    "text": "Question 6\nKendra buys eggs \\((e)\\), bagels \\((b)\\), and coffee \\((c)\\) for breakfast for the week.\n\nPart A\nWhen eggs are $2/carton, she buys 5 bagels. When the price of eggs falls to $1/carton, she buys 4 bagels. Calculate the cross-price elasticity between eggs and bagels. Are they complements or substitutes for Kendra?\n\n\nPart B\nWhen eggs are $2/carton, she buys 3 cups of coffee. When the price of eggs falls to $1/carton, she buys 6 cups of coffee. Calculate the cross-price elasticity between eggs and coffee. Are they complements or substitutes for Kendra?"
+  },
+  {
+    "objectID": "assignments/02-problem-set.html#question-7",
+    "href": "assignments/02-problem-set.html#question-7",
+    "title": "Problem Set 2",
+    "section": "Question 7",
+    "text": "Question 7\nSketch a graph showing an increase in the price of a good (on the horizontal axis, e.g. \\(x\\) if you want). Indicate (i) the (real) income effect, (ii) substitution effect, and (iii) price effect on the graph. Labeling points and merely describing each of the three effects as a movement between specific points is sufficient."
+  },
+  {
+    "objectID": "assignments/02-problem-set.html#question-8",
+    "href": "assignments/02-problem-set.html#question-8",
+    "title": "Problem Set 2",
+    "section": "Question 8",
+    "text": "Question 8\nThe demand for gym memberships is given by\n\\[q_D=500-5p\\]\n\nPart A\nWrite the inverse demand function.\n\n\nPart B\nCalculate the price elasticity of demand at a price of $80. Is this relatively elastic or relatively inelastic?\n\n\nPart C\nWhat is the total revenue at a price of $80?\n\n\nPart D\nCalculate the price elasticity of demand at a price of $10. Is this relatively elastic or relatively inelastic?\n\n\nPart E\nWhat is the total revenue at $10?\n\n\nPart F\nAt what price is demand unit elastic, i.e. \\(\\epsilon_D=-1\\)?\n\n\nPart G\nWhat is the total revenue at the price you find in part (f)?"
   },
   {
     "objectID": "assignments/index.html",
@@ -392,6 +469,34 @@
     "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
   },
   {
+    "objectID": "content/1.7-content.html#overview",
+    "href": "content/1.7-content.html#overview",
+    "title": "1.7 — Price Elasticity — Class Content",
+    "section": " Overview",
+    "text": "Overview\nToday we wrap up Unit 1 by talking more extensively about demand curves and simple demand functions (relating price and quantity demanded of a good, ceterus paribus). We also (re-)introduce the idea of price elasticity of demand that measures a person’s responsiveness in consumption to a change in that good’s price. However, unlike what you learned in principles1 we look at the elasticity of any point on the demand curve using a more useful formula:\n\\[\\epsilon_{q,p}=\\frac{1}{slope} \\times \\frac{p}{q}\\]\nwhere slope refers to the slope of the inverse demand curve (the one that we graph).\nWe will look at the key relationship between price elasticity of demand and total revenue, (Total expenditure, from the perspective of the buyer.) and work on some practice problems.\nNext class will be a review session for Exam 1, and you can mind more information about on the exam that page."
+  },
+  {
+    "objectID": "content/1.7-content.html#readings",
+    "href": "content/1.7-content.html#readings",
+    "title": "1.7 — Price Elasticity — Class Content",
+    "section": " Readings",
+    "text": "Readings\n\n Ch. 2.2, 2.5, 5.5, in Goolsbee, Levitt, and Syverson, 2019"
+  },
+  {
+    "objectID": "content/1.7-content.html#assignments",
+    "href": "content/1.7-content.html#assignments",
+    "title": "1.7 — Price Elasticity — Class Content",
+    "section": " Assignments",
+    "text": "Assignments\n\nProblem Set 1 Due Friday September 23\nProblem Set 1 (on classes 1.5-1.7) is due by 11:59 PM Friday September 23 on Blackboard Assignments."
+  },
+  {
+    "objectID": "content/1.7-content.html#slides",
+    "href": "content/1.7-content.html#slides",
+    "title": "1.7 — Price Elasticity — Class Content",
+    "section": " Slides",
+    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
+  },
+  {
     "objectID": "content/index.html",
     "href": "content/index.html",
     "title": "Overview",
@@ -508,7 +613,63 @@
     "href": "practice/1.5-practice.html",
     "title": "1.5 — Demand — Practice",
     "section": "",
-    "text": "Download PDF\n\nYou can spend your income on apples and oranges. Apples currently cost $0.25 and oranges cost $0.50. When your income is $40, you buy 10 apples and 8 oranges. When your income increases to $80, you buy 12 apples and 6 oranges\n\nQuestion 1\nWhat type of good are apples (inferior, necessity, luxury)? Calculate the income elasticity of demand.\n\n\nQuestion 2\nWhat type of good are oranges (inferior, necessity, or luxury)? Calculate the income elasticity of demand.\nYou can can have cereal and milk for breakfast. When milk is $2/gallon, you consume 5 bowls of cereal per week. When milk increases to $4/gallon, you consume 4 bowls of cereal per week.\n\nQuestion 3\nWhat is the relationship between these two goods?\n\n\nQuestion 4\nCalculate the cross-price elasticity of demand."
+    "text": "You can spend your income on apples and oranges. Apples currently cost $0.25 and oranges cost $0.50. When your income is $40, you buy 10 apples and 8 oranges. When your income increases to $80, you buy 12 apples and 6 oranges\n\nQuestion 1\nWhat type of good are apples (inferior, necessity, luxury)? Calculate the income elasticity of demand.\n\n\nQuestion 2\nWhat type of good are oranges (inferior, necessity, or luxury)? Calculate the income elasticity of demand.\nYou can can have cereal and milk for breakfast. When milk is $2/gallon, you consume 5 bowls of cereal per week. When milk increases to $4/gallon, you consume 4 bowls of cereal per week.\n\nQuestion 3\nWhat is the relationship between these two goods?\n\n\nQuestion 4\nCalculate the cross-price elasticity of demand."
+  },
+  {
+    "objectID": "practice/1.7-practice.html",
+    "href": "practice/1.7-practice.html",
+    "title": "1.7 — Price Elasticity — Practice",
+    "section": "",
+    "text": "Download PDF\nThe demand for monthly cell phone plans is given by:\n\\[q_D =  50-0.5p\\]"
+  },
+  {
+    "objectID": "practice/1.7-practice.html#question-1",
+    "href": "practice/1.7-practice.html#question-1",
+    "title": "1.7 — Price Elasticity — Practice",
+    "section": "Question 1",
+    "text": "Question 1\nWrite the inverse demand function."
+  },
+  {
+    "objectID": "practice/1.7-practice.html#question-2",
+    "href": "practice/1.7-practice.html#question-2",
+    "title": "1.7 — Price Elasticity — Practice",
+    "section": "Question 2",
+    "text": "Question 2\nCalculate the price elasticity of demand when the price is $10. Is this relatively elastic or inelastic?"
+  },
+  {
+    "objectID": "practice/1.7-practice.html#question-3",
+    "href": "practice/1.7-practice.html#question-3",
+    "title": "1.7 — Price Elasticity — Practice",
+    "section": "Question 3",
+    "text": "Question 3\nCalculate the price elasticity of demand when the price is $70. Is this relatively elastic or inelastic?"
+  },
+  {
+    "objectID": "practice/1.7-practice.html#question-4",
+    "href": "practice/1.7-practice.html#question-4",
+    "title": "1.7 — Price Elasticity — Practice",
+    "section": "Question 4",
+    "text": "Question 4\nAt what price is demand unit elastic \\((\\epsilon=-1)\\)?"
+  },
+  {
+    "objectID": "practice/1.7-practice.html#question-5",
+    "href": "practice/1.7-practice.html#question-5",
+    "title": "1.7 — Price Elasticity — Practice",
+    "section": "Question 5",
+    "text": "Question 5\nCalculate the total revenue at $10."
+  },
+  {
+    "objectID": "practice/1.7-practice.html#question-6",
+    "href": "practice/1.7-practice.html#question-6",
+    "title": "1.7 — Price Elasticity — Practice",
+    "section": "Question 6",
+    "text": "Question 6\nCalculate the total revenue at $70."
+  },
+  {
+    "objectID": "practice/1.7-practice.html#question-7",
+    "href": "practice/1.7-practice.html#question-7",
+    "title": "1.7 — Price Elasticity — Practice",
+    "section": "Question 7",
+    "text": "Question 7\nCalculate the total revenue at the price you found for question 4."
   },
   {
     "objectID": "resources/appendices/1.2-appendix.html",
@@ -760,7 +921,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Content materials contains suggested readings, more details about assignments, math appendices, and other helpful resources. I suggest you view these before each class.\n Slides are “Xaringan” presentations that can be opened in any browser (You can find a downloadable PDF in each content page)\n Practice problems we work on together in class to prepare for homeworks and exams\n Assignments are listed with due dates\n\nPlease note that the lesson numbers, topics, and titles (e.g. 1.1) are my design, and do not match up with the textbook!\nRelevant materials, if applicable will be posted before class meets and become colored links.\n\n\n\n\n\n\n\n\n\n\n\n\n\nI. Rational Choice Theory: Consumers\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\nPreliminary Survey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.1 — The Tools of Microeconomics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.2 — Budget Constraint\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.3 — Preferences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.4 — Utility Maximization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 1 due Fri Sep 16\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.5 — Demand\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.6 — Income and Substitution Effects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.7 — Price Elasticity of Demand\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExam 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nII. Rational Choice Theory: Producers\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n2.1 — Production, Specialization, and Firms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 — Production in the Short Run & Long Run\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.3 — Cost Minimization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.4 — Costs of Production\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.5 — Short Run Profit Maximization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.6 — Long Run Industry Equilibrium\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.7 — External Economies and Industry Supply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExam 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIII. Market Equilibrium\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n3.1 — The Supply and Demand Model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 — Market Competition and Surpluses\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 — The Static Benefits of Markets: Welfare Economics & Market Failure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 — The Dynamic Benefits of Markets: Entrepreneurship, Profits, & Prices\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 — The Division of Labor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 — Introduction to Political Economy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIV. Imperfect Competition\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n4.1 — Modeling Firms with Market Power\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.2 — Consequences and Sources of Market Power\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.3 — Pricing Strategies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.4 — Factor Markets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.5 — Monopolistic Competition and Oligopoly\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.6 — Contestable Markets and Wrap Up\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Exam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOp-Ed"
+    "text": "Content materials contains suggested readings, more details about assignments, math appendices, and other helpful resources. I suggest you view these before each class.\n Slides are “Xaringan” presentations that can be opened in any browser (You can find a downloadable PDF in each content page)\n Practice problems we work on together in class to prepare for homeworks and exams\n Assignments are listed with due dates\n\nPlease note that the lesson numbers, topics, and titles (e.g. 1.1) are my design, and do not match up with the textbook!\nRelevant materials, if applicable will be posted before class meets and become colored links.\n\n\n\n\n\n\n\n\n\n\n\n\n\nI. Rational Choice Theory: Consumers\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\nPreliminary Survey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.1 — The Tools of Microeconomics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.2 — Budget Constraint\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.3 — Preferences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.4 — Utility Maximization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 1 due Fri Sep 16\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.5 — Demand\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.6 — Income and Substitution Effects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.7 — Price Elasticity of Demand\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 2 due Fri Sep 23\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExam 1 on Mon/Tue Sep 26/27\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nII. Rational Choice Theory: Producers\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n2.1 — Production, Specialization, and Firms\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 — Production in the Short Run & Long Run\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.3 — Cost Minimization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.4 — Costs of Production\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.5 — Short Run Profit Maximization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.6 — Long Run Industry Equilibrium\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.7 — External Economies and Industry Supply\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExam 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIII. Market Equilibrium\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n3.1 — The Supply and Demand Model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 — Market Competition and Surpluses\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 — The Static Benefits of Markets: Welfare Economics & Market Failure\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 — The Dynamic Benefits of Markets: Entrepreneurship, Profits, & Prices\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 — The Division of Labor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 — Introduction to Political Economy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIV. Imperfect Competition\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nPractice\n\n\nAssignment\n\n\n\n\n\n\n\n\n4.1 — Modeling Firms with Market Power\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.2 — Consequences and Sources of Market Power\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.3 — Pricing Strategies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.4 — Factor Markets\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.5 — Monopolistic Competition and Oligopoly\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.6 — Contestable Markets and Wrap Up\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProblem Set 6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinal Exam\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOp-Ed"
   },
   {
     "objectID": "syllabus.html",
