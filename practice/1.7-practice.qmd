@@ -4,11 +4,7 @@ execute:
   freeze: auto
 ---
 
-<p style="text-align:center">
-
-<a target="_blank" href="/files/practice/1.7-practice-pdf.pdf"><i class="fas fa-file-pdf"></i>[Download PDF</a>]{.btn .btn-primary .btn-lg}
-
-</p>
+<p style="text-align:center"><a target="_blank" href="/files/practice/1.7-practice-pdf.pdf"><span class="btn btn-primary btn-lg"><i class="fas fa-file-pdf"></i> Download PDF</a></span></p>
 
 The demand for monthly cell phone plans is given by:
 
