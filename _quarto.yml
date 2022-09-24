@@ -52,7 +52,10 @@ website:
               href: content/1.6-content.qmd
             - text: "1.7 — Price Elasticity"
               href: content/1.7-content.qmd
-              
+        - section: "II. Rational Choice Theory: Producers"
+          contents:
+            - text: "2.1 — Production, Specialization, & Firms"
+              href: content/2.1-content.qmd
     - title: "Assignments"
       style: "docked"
       search: false
