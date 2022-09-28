@@ -1,5 +1,7 @@
 ---
 title: "1.7 — Price Elasticity — Class Content"
+execute:
+  freeze: auto
 ---
 
 ```{r, echo = F}

@@ -1,5 +1,8 @@
 ---
 title: "1.2 — Budget Constraint — Class Content"
+execute:
+  freeze: auto
+
 ---
 
 ```{r, echo = F}

@@ -1,5 +1,8 @@
 ---
 title: "1.4 — Utility Maximization — Class Content"
+execute:
+  freeze: auto
+
 ---
 
 ```{r, echo = F}

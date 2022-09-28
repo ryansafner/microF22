@@ -44,7 +44,7 @@ set.seed(256)
 
 class: title-slide
 
-# 2.1 — Production, Specialization, Frims
+# 2.1 — Production, Specialization, & Firms
 
 ## ECON 306 • Microeconomic Analysis • Fall 2022
 
@@ -857,7 +857,7 @@ Adam Smith
   - buy (import) **everything else**!
   - can be comparatively good at something, or comparatively bad at everything else!
 
-- Learn much more in my [international trade](https://tradef20.classes.ryansafner.com) course
+- Learn much more in my [international trade](https://tradef20.classes.ryansafner.com) course; and my [new substack](https://increasingreturns.substack.com)
 ]
 ]
 .pull-right[
@@ -877,6 +877,7 @@ Adam Smith
 3. .hi-purple[Price differences imply gains from trade]
   - different price lines in “autarky” vs. with trade
   - **the more different his price is vs. market, the better off he will be**!
+  - In general: .hi-purple[the more different we are, the more gains from trade!]
 ]
 ]
 
@@ -1121,7 +1122,6 @@ tribble(
 ]
 .smallest[
 - $A$: .b["total factor productivity"] (ideas/knowledge/institutions)
-- and Entrepreneurs/Owners who earn .b[Profit]
 
 ]
 ]
@@ -1166,12 +1166,12 @@ tribble(
 
 .pull-left[
 
-- We will assume firms .hi-purple[maximize profit `\\((\pi)\\)`]
+- We assume firms .hi-purple[maximize profit `\\((\pi)\\)`]
 
 - Not true for all firms
     - <span class="green">**Examples**: non-profits, charities, civic associations, government agencies, criminal organizations, etc</span>
 
-- Even profit-seeking firms may also want to maximize additional things
+- Even profit-seeking firms may also want to maximize *additional* things
     - <span class="green">**Examples**: goodwill, sustainability, social responsibility, etc </span>
 
 ]
@@ -1197,7 +1197,7 @@ tribble(
 
 .pull-left[
 
-- In economics, profit is simply **benefits minus (opportunity) costs**
+- In economics, .hi-purple[profit] is simply **benefits minus (opportunity) costs**
 
 ]
 
@@ -1213,7 +1213,7 @@ tribble(
 
 .pull-left[
 
-- In economics, profit is simply **benefits minus (opportunity) costs**
+- In economics, .hi-purple[profit] is simply **benefits minus (opportunity) costs**
 
 - Suppose firm sells **output** $q$ at price $p$
 
@@ -1232,11 +1232,11 @@ tribble(
 
 .pull-left[
 
-- In economics, profit is simply **benefits minus (opportunity) costs**
+- In economics, .hi-purple[profit] is simply **benefits minus (opportunity) costs**
 
 - Suppose firm sells **output** $q$ at price $p$
 
-- It can buy each **input** $x_i$ at an associated price $p_i$
+- It can buy each **input** $x_i$ at an associated price $p_i$, i.e.
     - labor $l$ at wage rate $w$
     - capital $k$ at rental rate $r$
 
@@ -1254,11 +1254,11 @@ tribble(
 
 .pull-left[
 
-- In economics, profit is simply **benefits minus (opportunity) costs**
+- In economics, .hi-purple[profit] is simply **benefits minus (opportunity) costs**
 
 - Suppose firm sells **output** $q$ at price $p$
 
-- It can buy each **input** $x_i$ at an associated price $p_i$
+- It can buy each **input** $x_i$ at an associated price $p_i$, i.e.
     - labor $l$ at wage rate $w$
     - capital $k$ at rental rate $r$
 

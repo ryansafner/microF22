@@ -1,5 +1,8 @@
 ---
 title: "1.5 — Demand — Class Content"
+execute:
+  freeze: auto
+
 ---
 
 ```{r, echo = F}
