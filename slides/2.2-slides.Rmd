@@ -57,9 +57,9 @@ class: inverse
 # Outline
 
 ### [Production in the Short Run](#5)
-### [The Firm's Problem: Long Run](#16)
-### [Isoquants and MRTS](#23)
-### [Isocost Lines](#36)
+### [The Firm's Problem: Long Run](#14)
+### [Isoquants and MRTS](#21)
+### [Isocost Lines](#34)
 
 
 ---
