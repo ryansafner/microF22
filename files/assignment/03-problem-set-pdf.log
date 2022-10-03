@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.24)  2 OCT 2022 09:53
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.24)  2 OCT 2022 21:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1141,26 +1141,24 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/FiraSansCondensed(0)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 270.
+(Font)              scaled to size 7.665pt on input line 275.
 LaTeX Font Info:    Font shape `TU/FiraSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 270.
+(Font)              scaled to size 9.0pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.98372pt on input line 270.
+(Font)              scaled to size 10.98372pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.10207pt on input line 270.
+(Font)              scaled to size 6.10207pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.98482pt on input line 270.
+(Font)              scaled to size 10.98482pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.10268pt on input line 270.
+(Font)              scaled to size 6.10268pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.98262pt on input line 270.
+(Font)              scaled to size 10.98262pt on input line 276.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.10146pt on input line 270.
+(Font)              scaled to size 6.10146pt on input line 276.
 LaTeX Font Info:    Font shape `TU/FiraSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 270.
+(Font)              scaled to size 6.0pt on input line 276.
 [6
-
-] [7
 
 ] (./03-problem-set-pdf.aux) ) 
 Here is how much of TeX's memory you used:
@@ -1172,4 +1170,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  86i,8n,122p,1015b,334s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 03-problem-set-pdf.pdf (7 pages).
+Output written on 03-problem-set-pdf.pdf (6 pages).

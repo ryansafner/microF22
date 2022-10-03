@@ -120,24 +120,6 @@ Suppose the farm can choose between input combinations of $a = (4,1)$, $b=(2,2)$
 Sketch a graph, plotting bundles $a, b, c$, and $d$. Indicate any isoquant curve(s) they are on, and how much output each provides.
 
 ## Question 8
-Your firm builds aircraft engines using both labor (L) and power tools (K). The production function for aircraft engines is $q=10 L^{0.5}K^{0.5}$
-
-### Part A
-Can you completely mechanize the production of aircraft engines (i.e. produce using all capital, no labor)?
-
-### Part B
-Suppose you currently have 100 power tools. In the short run, you cannot buy or sell power tools. Derive your short run production function.
-
-### Part C
-Find the (i) total product of labor, (ii) average product of labor, and (iii) marginal product of labor for using 0, 1, 2, 3, 4, and 5 workers. [Hint: make a table!] Round to the nearest engine. Does labor experience diminishing returns?
-
-### Part D
-Using your answer from Part C, sketch two graphs (roughly), one of total product, and one of marginal and average product, each with labor on the horizontal axis.
-
-### Part E
-In the long run, does the production function exhibit constant returns to scale, increasing returns to scale, or decreasing returns to scale?
-
-## Question 9
 Dunder Mifflin paper company produces reams of paper each week according to the production function:
 \begin{align*}q &=10 l^{0.5} k^{0.5}\\
 MP_l& = 5l^{-0.5}k^{0.5}\\
