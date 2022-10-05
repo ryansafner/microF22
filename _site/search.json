@@ -634,7 +634,7 @@
     "href": "content/2.3-content.html#readings",
     "title": "2.3 — Cost Minimization — Class Content",
     "section": " Readings",
-    "text": "Readings\n\n Ch. 6.4-6.7 in Goolsbee, Levitt, and Syverson, 2019"
+    "text": "Readings\n\n Ch. 6.4-6.7 in Goolsbee, Levitt, and Syverson, 2019\n\n\nOptional/Recommended Reading\n\nIncreasing Returns — my newsletter with the theme of increasing returns"
   },
   {
     "objectID": "content/2.3-content.html#appendix",
@@ -642,6 +642,13 @@
     "title": "2.3 — Cost Minimization — Class Content",
     "section": " Appendix",
     "text": "Appendix\nSee the online appendix for today’s content:\n\nA Change in Relative Factor Prices\nImprovements in Technology\nReturns to Scale: Proof of Exponents Trick"
+  },
+  {
+    "objectID": "content/2.3-content.html#assignments",
+    "href": "content/2.3-content.html#assignments",
+    "title": "2.3 — Cost Minimization — Class Content",
+    "section": " Assignments",
+    "text": "Assignments\n\nProblem Set 3 Due Friday October 14\nProblem Set 1 (on classes 2.1=2.3) is due by 11:59 PM Friday October 14 on Blackboard Assignments."
   },
   {
     "objectID": "content/2.3-content.html#slides",
@@ -824,6 +831,34 @@
     "title": "1.7 — Price Elasticity — Practice",
     "section": "Question 7",
     "text": "Question 7\nCalculate the total revenue at the price you found for question 4."
+  },
+  {
+    "objectID": "practice/2.3-practice.html",
+    "href": "practice/2.3-practice.html",
+    "title": "2.3 — Cost Minimization — Practice",
+    "section": "",
+    "text": "Download PDF\nYour firm can use labor \\(l\\) and capital \\(k\\) to produce output according to the production function:\n\\[q=4lk\\]\nThe marginal products are:\n\\[\\begin{align*}\nMP_l &=4k \\\\\nMP_k &=4l \\\\ \\end{align*}\\]\nSuppose you need to produce 144 units, the price of labor is $10, and the price of capital is $40."
+  },
+  {
+    "objectID": "practice/2.3-practice.html#section",
+    "href": "practice/2.3-practice.html#section",
+    "title": "2.3 — Cost Minimization — Practice",
+    "section": "1.",
+    "text": "1.\nWhat is the least-cost combination of labor and capital that produces 144 units of output?"
+  },
+  {
+    "objectID": "practice/2.3-practice.html#section-1",
+    "href": "practice/2.3-practice.html#section-1",
+    "title": "2.3 — Cost Minimization — Practice",
+    "section": "2.",
+    "text": "2.\nHow much does this combination cost?"
+  },
+  {
+    "objectID": "practice/2.3-practice.html#section-2",
+    "href": "practice/2.3-practice.html#section-2",
+    "title": "2.3 — Cost Minimization — Practice",
+    "section": "3.",
+    "text": "3.\nDoes this technology experience constant returns, increasing returns, or decreasing returns to scale?"
   },
   {
     "objectID": "resources/appendices/1.2-appendix.html",

@@ -15,6 +15,12 @@ source(here::here("slides", "slide-links.R"))
 *Section 2: Thursday, October 6, 2022*
 :::
 
+::: callout-warning
+# Upcoming Assignment
+[Problem Set 3](/assignments/03-problem-set) (on classes 2.1-2.3) is due by 11:59 PM Friday October 14 on Blackboard Assignments.
+:::
+
+
 ## <i class="fas fa-info-circle fa-lg"></i> Overview
 
 Today we put our tools together (production functions/isoquants and isocost lines) to solve the firm's cost minimization problem. Again, we do not solve this constrained optimization problem with calculus, but by looking graphically, and using an algebraic rule that should make intuitive sense. 
@@ -39,6 +45,9 @@ We finally wrap up with a discussion of *returns to scale*.
 
 - <i class="fas fa-book"></i> Ch. 6.4-6.7 in Goolsbee, Levitt, and Syverson, 2019
 
+### Optional/Recommended Reading
+- [Increasing Returns](https://increasingreturns.substack.com) — my newsletter with the theme of increasing returns
+
 ## <i class="fas fa-sigma"></i> Appendix
 
 See the online appendix for today's content:
@@ -46,6 +55,13 @@ See the online appendix for today's content:
 - [A Change in Relative Factor Prices](/resources/appendices/2.3-appendix.html#a-change-in-relative-factor-prices)
 - [Improvements in Technology](/resources/appendices/2.3-appendix.html#improvements-in-technology)
 - [Returns to Scale: Proof of Exponents Trick](/resources/appendices/2.3-appendix.htmll#returns-to-scale-proof-of-exponents-trick)
+
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Problem Set 3 Due Friday October 14
+
+[Problem Set 1](/assignments/03-problem-set) (on classes 2.1=2.3) is due by 11:59 PM Friday October 14 on Blackboard Assignments.
 
 
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
