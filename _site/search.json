@@ -658,6 +658,41 @@
     "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
   },
   {
+    "objectID": "content/2.4-content.html#overview",
+    "href": "content/2.4-content.html#overview",
+    "title": "2.3 — Cost Minimization — Class Content",
+    "section": " Overview",
+    "text": "Overview\nToday we cover costs before we put them together next class with revenues to solve the firm’s (first stage) profit maximization problem. While it seems we are adding quite a bit, and learning some new math problems with calculating costs, we will practice it more next class, when put together with revenues."
+  },
+  {
+    "objectID": "content/2.4-content.html#readings",
+    "href": "content/2.4-content.html#readings",
+    "title": "2.3 — Cost Minimization — Class Content",
+    "section": " Readings",
+    "text": "Readings\n\n Ch. 7 in Goolsbee, Levitt, and Syverson, 2019"
+  },
+  {
+    "objectID": "content/2.4-content.html#appendix",
+    "href": "content/2.4-content.html#appendix",
+    "title": "2.3 — Cost Minimization — Class Content",
+    "section": " Appendix",
+    "text": "Appendix\nSee the online appendix for today’s content:\n\nMarginal Cost and Variable Cost\nThe Relationship Between Returns to Scale and Costs\nCobb-Douglas Cost Functions"
+  },
+  {
+    "objectID": "content/2.4-content.html#assignments",
+    "href": "content/2.4-content.html#assignments",
+    "title": "2.3 — Cost Minimization — Class Content",
+    "section": " Assignments",
+    "text": "Assignments\n\nProblem Set 3 Due Friday October 14\nProblem Set 1 (on classes 2.1-2.3) is due by 11:59 PM Friday October 14 on Blackboard Assignments."
+  },
+  {
+    "objectID": "content/2.4-content.html#slides",
+    "href": "content/2.4-content.html#slides",
+    "title": "2.3 — Cost Minimization — Class Content",
+    "section": " Slides",
+    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
+  },
+  {
     "objectID": "content/index.html",
     "href": "content/index.html",
     "title": "Overview",
@@ -1006,6 +1041,27 @@
     "title": "2.3 — Cost Minimization — Appendix",
     "section": "Returns to Scale: Proof of Exponents Trick",
     "text": "Returns to Scale: Proof of Exponents Trick\nConsider a Cobb-Douglas production function\n\\[f(k,l) =k^\\alpha l^\\beta\\]\nNow scale this function by some scalar \\(t>0\\), by multiplying both \\(l\\) and \\(k\\), and also output \\(q\\), by \\(t\\): \\[\\begin{align*}\ntq& \\lesseqgtr (tk)^\\alpha (tl)^\\beta \\\\\ntq& \\lesseqgtr t^{\\alpha+\\beta}k^\\alpha l^\\beta \\\\\ntq& \\lesseqgtr t^{\\alpha+\\beta}f(l,k) \\\\\n\\end{align*}\\]\nThis implies that:\n\\[\\begin{cases}\ntq>t^{\\alpha+\\beta}f(l,k) & \\iff \\alpha+\\beta < 1 & \\text{Decreasing returns to scale}\\\\\ntq=t^{\\alpha+\\beta}f(l,k) & \\iff \\alpha+\\beta = 1 & \\text{Constant returns to scale}\\\\\ntq<t^{\\alpha+\\beta}f(l,k) & \\iff \\alpha+\\beta > 1 & \\text{Increasing returns to scale}\\\\\n\\end{cases}\\]"
+  },
+  {
+    "objectID": "resources/appendices/2.4-appendix.html#marginal-cost-and-variable-cost",
+    "href": "resources/appendices/2.4-appendix.html#marginal-cost-and-variable-cost",
+    "title": "2.4 — Costs of Production — Appendix",
+    "section": "Marginal Cost and Variable Cost",
+    "text": "Marginal Cost and Variable Cost\nMarginal cost is defined as the change in total costs from a change in output:\n\\[MC(q)=\\frac{\\Delta C(q)}{\\Delta q}\\]\nRecall that total cost is the sum of fixed and variable costs\n\\[C(q)=f+VC(q)\\]\nHowever, since fixed costs never change, any change in total cost is a change in variable cost\n\\[\\Delta C(q) = \\Delta VC(q)\\]\nThus, marginal cost actually measures the change in variable costs from a change in output:\n\\[MC(q)=\\frac{\\Delta C(q)}{\\Delta q}=\\frac{\\Delta VC(q)}{\\Delta q}\\]\nThus, fixed cost has no effect on marginal cost, and marginal cost is always measuring the change in variable costs with additional output.\nFurthermore, because of this relationship with marginal cost measuring the change in variable cost from additional output, for any specific quantity of output, e.g. \\(q_1\\), the variable cost of producing \\(q_1\\) can be seen on the graph below as the total area under the marginal cost curve to the left of \\(q_1\\):"
+  },
+  {
+    "objectID": "resources/appendices/2.4-appendix.html#the-relationship-between-returns-to-scale-and-costs",
+    "href": "resources/appendices/2.4-appendix.html#the-relationship-between-returns-to-scale-and-costs",
+    "title": "2.4 — Costs of Production — Appendix",
+    "section": "The Relationship Between Returns to Scale and Costs",
+    "text": "The Relationship Between Returns to Scale and Costs\nThere is a direct relationship between a technology’s returns to scale1 and its cost structure: the rate at which its total costs increase2 and its marginal costs change3. This is easiest to see for a single input, such as our assumptions of the short run (where firms can change \\(l\\) but not \\(\\bar{k})\\):\n\\[q=f(\\bar{k},l)\\]\n\nConstant Returns to Scale:\n\n\n\n\n\n\n\n\n\n\n\nDecreasing Returns to Scale\n\n\n\n\n\n\n\n\n\n\n\nIncreasing Returns to Scale"
+  },
+  {
+    "objectID": "resources/appendices/2.4-appendix.html#cobb-douglas-cost-functions",
+    "href": "resources/appendices/2.4-appendix.html#cobb-douglas-cost-functions",
+    "title": "2.4 — Costs of Production — Appendix",
+    "section": "Cobb-Douglas Cost Functions",
+    "text": "Cobb-Douglas Cost Functions\nThe total cost function for Cobb-Douglas production functions of the form\n\\[q=l^{\\alpha}k^{\\beta}\\]\ncan be shown with some very tedious algebra to be:\n\\[C(w,r,q)=\\left[\\left(\\frac{\\alpha}{\\beta}\\right)^{\\frac{\\beta}{\\alpha+\\beta}} + \\left(\\frac{\\alpha}{\\beta}\\right)^{\\frac{-\\alpha}{\\alpha+\\beta}}\\right] w^{\\frac{\\alpha}{\\alpha+\\beta}} r^{\\frac{\\beta}{\\alpha+\\beta}} q^{\\frac{1}{\\alpha+\\beta}}\\]\nIf you take the first derivative of this (to get marginal cost), it is:\n\\[\\frac{\\partial C(w,r,q)}{\\partial q}= MC(q) = \\frac{1}{\\alpha+\\beta} \\left(w^{\\frac{\\alpha}{\\alpha+\\beta}} r^{\\frac{\\beta}{\\alpha+\\beta}}\\right) q^{\\left(\\frac{1}{\\alpha+\\beta}\\right)-1}\\]\nHow does marginal cost change with increased output? Take the second derivative:\n\\[\\frac{\\partial^2 C(w,r,q)}{\\partial q^2}= \\frac{1}{\\alpha+\\beta} \\left(\\frac{1}{\\alpha+\\beta} -1 \\right) \\left(w^{\\frac{\\alpha}{\\alpha+\\beta}} r^{\\frac{\\beta}{\\alpha+\\beta}}\\right) q^{\\left(\\frac{1}{\\alpha+\\beta}\\right)-2}\\]\nThree possible cases:\n\nIf \\(\\frac{1}{\\alpha+\\beta} > 1\\), this is positive \\(\\implies\\) decreasing returns to scale\n\n\nProduction function exponents \\(\\alpha+\\beta < 1\\)\n\n\nIf \\(\\frac{1}{\\alpha+\\beta} < 1\\), this is negative \\(\\implies\\) increasing returns to scale\n\n\nProduction function exponents \\(\\alpha+\\beta > 1\\)\n\n\nIf \\(\\frac{1}{\\alpha+\\beta} = 1\\), this is constant \\(\\implies\\) constant returns to scale\n\n\nProduction function exponents\\(\\alpha+\\beta = 1\\)\n\n\nExample (Constant Returns)\nLet \\(q=l^{0.5}k^{0.5}\\).\n\\[\\begin{align*}\nC(w,r,q)&=\\left[\\left(\\frac{0.5}{0.5}\\right)^{\\frac{0.5}{0.5+0.5}} + \\left(\\frac{0.5}{0.5}\\right)^{\\frac{-0.5}{0.5+0.5}}\\right] w^{\\frac{0.5}{0.5+0.5}} r^{\\frac{0.5}{0.5+0.5}} q^{\\frac{1}{0.5+0.5}}\\\\\nC(w,r,q)&= \\left[1^{0.5}+1^{-0.5} \\right]w^{0.5}r^{0.5}q^{0.5}\\\\\nC(w,r,q)&= w^{0.5}r^{0.5}q^{1}\\\\\n\\end{align*}\\]\nConsider input prices of \\(w=\\$9\\) and \\(r=\\$25\\):\n\\[\\begin{align*}C(w=9,r=25,q)&=9^{0.5}25^{0.5}q \\\\\n& =3*5*q\\\\\n& =15q\\\\\\end{align*}\\]\nThat is, total costs (at those given input prices, and technology) is equal to 15 times the output level, \\(q\\):\n\n\n\n\n\n\n\n\n\nMarginal costs would be\n\\[MC(q) = \\frac{\\partial C(q)}{\\partial q} = 15\\]\nAverage costs would be\n\\[MC(q) = \\frac{C(q)}{q} = \\frac{15q}{q} = 15\\]\n\n\n\n\n\n\n\n\n\n\n\nExample (Decreasing Returns)\nLet \\(q=l^{0.25}k^{0.25}\\).\n\\[\\begin{align*}\nC(w,r,q)&=\\left[\\left(\\frac{0.25}{0.25}\\right)^{\\frac{0.25}{0.25+0.25}} + \\left(\\frac{0.25}{0.25}\\right)^{\\frac{-0.25}{0.25+0.25}}\\right] w^{\\frac{0.25}{0.25+0.25}} r^{\\frac{0.25}{0.25+0.25}} q^{\\frac{1}{0.25+0.25}}\\\\\nC(w,r,q)&= \\left[1^{0.5}+1^{-0.5} \\right]w^{0.5}r^{0.5}q^{2}\\\\\nC(w,r,q)&= w^{0.5}r^{0.5}q^{2}\\\\\n\\end{align*}\\]\nIf \\(w=9\\), \\(r=25\\):\n\\[\\begin{align*}C(w=9,r=25,q)&=9^{0.5}25^{0.5}q^2 \\\\\n& =3*5*q^2\\\\\n& =15q^2\\\\\\end{align*}\\]\n\n\n\n\n\n\n\n\n\nMarginal costs would be\n\\[MC(q) = \\frac{\\partial C(q)}{\\partial q} = 30q\\]\nAverage costs would be\n\\[AC(q) = \\frac{C(q)}{q} = \\frac{15q^2}{q} = 15q\\]"
   },
   {
     "objectID": "resources/appendices/index.html",
