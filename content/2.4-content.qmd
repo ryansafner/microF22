@@ -41,7 +41,7 @@ See the online appendix for today's content:
 
 ### Problem Set 3 Due Friday October 14
 
-[Problem Set 1](/assignments/03-problem-set) (on classes 2.1-2.3) is due by 11:59 PM Friday October 14 on Blackboard Assignments.
+[Problem Set 3](/assignments/03-problem-set) (on classes 2.1-2.3) is due by 11:59 PM Friday October 14 on Blackboard Assignments.
 
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
 
@@ -57,6 +57,6 @@ I suggest printing the slides beforehand and using them to take additional notes
 #| echo: false
 #| output: asis
 
-slide_links("2.3-slides")
+slide_links("2.4-slides")
 ```
 
