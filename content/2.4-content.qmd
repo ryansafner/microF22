@@ -33,6 +33,7 @@ Today we cover costs before we put them together next class with revenues to sol
 
 See the online appendix for today's content:
 
+- [From Total Product to Total Cost: Output Expansion Paths](/resources/appendices/2.4-appendix.html)
 - [Marginal Cost and Variable Cost](/resources/appendices/2.4-appendix.html#marginal-cost-and-variable-cost)
 - [The Relationship Between Returns to Scale and Costs](/resources/appendices/2.4-appendix.html#the-relationship-between-returns-to-scale-and-costs)
 - [Cobb-Douglas Cost Functions](/resources/appendices/2.4-appendix.html#cobb-douglas-cost-functions)
