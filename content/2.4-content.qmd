@@ -1,5 +1,5 @@
 ---
-title: "2.3 — Cost Minimization — Class Content"
+title: "2.4 — Costs of Production — Class Content"
 execute:
   freeze: auto
 ---
