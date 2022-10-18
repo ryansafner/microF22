@@ -391,3 +391,67 @@ In other words, economic rent is the difference between revenues $(p^\star q^\st
 This shows that rent is also precisely the same thing as producer surplus (discussed above). That means you can also calculate the economic rent as the area to the left of the marginal cost curve, etc.
 
 Given what we said in the equations above, it is now easier to see the truth of what we said earlier: **it is the market equilibrium price that determines economic rents**, not the reverse. The firm supplies along its marginal cost curve — which is independent of the cost of the fixed factors. **Rents will adjust to drive profits to zero.**
+
+# The Shape of the Long Run Industry Supply Curve: External Economies
+
+When all firms produce more/less or firms enter or exit an industry due to profits or losses, this affects the equilibrium market price, and is commonly called the "entry price effect".
+
+The simplest way to see this is to simply consider a series of supply and demand graphs where there are profits or losses that cause a change in supply:
+
+1. **Entry** of new firms into a profitable industry will cause *an increase in supply* (supply curve shifts to the right), and thus a **decrease in market price**
+  - In the graph below, Supply 1 to Supply 2
+
+2. **Exit** of firms out of an industry suffering losses will cause *a decrease in supply* (supply curve shifts to the left), and thus an **increase in market price**
+  - In the graph below, Supply 1 to Supply 3
+
+```{r}
+demand_1=function(x){10-x}
+supply_1=function(x){x}
+
+changes<-ggplot(data.frame(x=c(0,10)), aes(x=x))+
+  stat_function(fun=demand_1, geom="line", size=2, color = "blue")+
+    geom_label(aes(x=9,y=demand_1(9)), color = "blue", label="Demand 1", size = 5)+
+  stat_function(fun=supply_1, geom="line", size=2, color = "red")+
+    geom_label(aes(x=9,y=supply_1(9)), color = "red", label="Supply 1", size = 5)+
+  geom_segment(x=0, xend=5, y=5, yend=5, size=1, linetype="dotted")+
+  geom_segment(x=5, xend=5, y=0, yend=5, size=1, linetype="dotted")+
+    scale_x_continuous(breaks=seq(0,10,1),
+                     limits=c(0,10),
+                     expand=expand_scale(mult=c(0,0.1)))+
+  scale_y_continuous(breaks=seq(0,10,1),
+                     limits=c(0,10),
+                     expand=expand_scale(mult=c(0,0.1)),
+                     labels = function(x){paste("$", x, sep="")})+
+  labs(x = "Quantity (q)",
+       y = "Price (p)")+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=20)
+
+supply_up=function(x){-2+x}
+supply_down=function(x){x+2}
+
+changes+
+  stat_function(fun=supply_up, geom="line", size=2, color = "pink")+
+    geom_label(aes(x=9,y=supply_up(9)), color = "pink", label="Supply 2", size = 5)+
+  stat_function(fun=supply_down, geom="line", size=2, color = "darkred")+
+    geom_label(aes(x=7,y=supply_down(7)), color = "darkred", label="Supply 3", size = 5)
+
+```
+
+Exactly *how large* this effect will be depends on the idea of **external economies of scale**^[Often referred to simply as "external economies."]: how the scale of *industry* output affects costs for *all firms* in the industry. 
+
+Recall that [“economies of scale”](https://microf22.classes.ryansafner.com/slides/2.4-slides.html#48) refer to how a firm’s average costs change with its output — and is often referred to as “internal economies of scale” since the economic effect is captured by the individual firm: e.g. under economies of scale, if it produces more, its average costs decrease.
+
+What we are considering now is a form of *externality*: how the size and output of an entire industry “spills over” to all the firms by affecting their costs. An increase in the size of an industry (in terms of firms and total output) might have *no effect* on costs for all the firms in the industry, *raise* costs for all the firms, or *lower* costs for all the firms. As such, these are the three possibilities:
+
+1. Constant Cost Industry (no external economies) — horizontal LR supply curve
+2. Increasing Cost Industry (external *dis*economies) — upward sloping LR supply curve
+3. Decreasing Cost Industry (external economies) — downward sloping LR supply curve (!)
+
+<!--We consider each in turn, and discuss the effects of an increase in demand on the long run equilibrium, in order to derive the long run supply curve for each type of industry.
+
+## Constant Cost Industry (No External Economies)
+
+
+## Increasing Cost Industry
+
+## Decreasing Costs Industry-->
