@@ -45,6 +45,7 @@ See the online appendix for today's content:
 - [Producer Surplus](/resources/appendices/2.6-appendix.html#producer-surplus)
 - [What’s the Difference Between Producer Surplus and Profit?](/resources/appendices/2.6-appendix.html#whats-the-difference-between-producer-surplus-and-profit)
 - [Economic Rents](/resources/appendices/2.6-appendix.html#economic-rents)
+- [The Shape of the Long Run Industry Supply Curve: External Economies](/resources/appendices/2.6-appendix.html#the-shape-of-the-long-run-industry-supply-curve-external-economies)
 
 ## <i class="fas fa-laptop-code"></i> Assignments
 
@@ -66,6 +67,6 @@ I suggest printing the slides beforehand and using them to take additional notes
 #| echo: false
 #| output: asis
 
-slide_links("2.5-slides")
+slide_links("2.6-slides")
 ```
 
