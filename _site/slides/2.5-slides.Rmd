@@ -205,7 +205,7 @@ $$AR(q)=\frac{R}{q}$$
 --
 
 - .hi[Marginal Revenue]: change in revenues for each additional unit of output sold:
-$$\color{#e64173}{MR(q) = \frac{\Delta R(q)}{\Delta q}$$
+$$\color{#e64173}{MR(q) = \frac{\Delta R(q)}{\Delta q}}$$
   - Calculus: first derivative of the revenues function
   - .hi-purple[For a .ul[*competitive*] firm (only), MR(q) = p, i.e. the price!]
 

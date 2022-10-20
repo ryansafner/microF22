@@ -1598,7 +1598,7 @@ $$\epsilon_{q_S,p} = \frac{\% \Delta q_S}{\% \Delta p}$$
 |                 | .hi[“Elastic”] | “Unit Elastic” | .hi[“Inelastic”] |
 |-----------------|-----------|----------------|------------|
 | **Intuitively**:    | **Large** response | Proportionate response | **Little** response |
-| **Mathematically**: | $ \epsilon_{q_s,p} > 1$ | $ \epsilon_{q_s,p} = 1$ | $ \epsilon_{q_s,p}  < 1$ |
+| **Mathematically**: | $\epsilon_{q_s,p} > 1$ | $\epsilon_{q_s,p} = 1$ | $\epsilon_{q_s,p}  < 1$ |
 |                 | Numerator $>$ Denominator | Numerator $=$ Denominator | Numerator $<$ Denominator |
 | **1% change in $p$ causes** | **More than 1%** change in $q_s$ | **Exactly 1%** change in $q_s$ | **Less than 1%** change in $q_s$ | 
 
