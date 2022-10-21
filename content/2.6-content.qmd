@@ -30,6 +30,10 @@ We also talk about the hard to understand, but extremely important, idea of econ
 
 Next class we will have a **review session** for [**Exam 2**](/assignments/02-exam).
 
+**Update**: I have added the answers to the price elasticity of supply question [in the slides](https://microf22.classes.ryansafner.com/slides/2.6-slides.html#63) (that I had to skip for time):
+
+<p style="text-align:center"><a target="_blank" href="/files/practice/2.6-practice-answers.html"><span class="btn btn-primary btn-lg"><i class="far fa-life-ring"></i> Price Elasticity of Supply Question Answers</a></span></p>
+
 ## <i class="fas fa-book-reader fa-lg"></i> Readings
 
 - <i class="fas fa-book"></i> Ch. 8.4-8.5 in Goolsbee, Levitt, and Syverson, 2019
