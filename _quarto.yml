@@ -91,6 +91,8 @@ website:
           contents:
             - text: "Exam 1"
               href: assignments/01-exam.qmd
+            - text: "Exam 2"
+              href: assignments/02-exam.qmd
         - text: "Opinion-Editorial"
           href: assignments/op-ed.qmd
 
