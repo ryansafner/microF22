@@ -69,9 +69,9 @@ website:
         - section: "III. Market Equilibrium"
           contents:
             - text: "3.1 — The Supply and Demand Model"
-              href: content/3.1-content
+              href: content/3.1-content.qmd
             - text: "3.2 — Market Competition and Surpluses"
-              href: content/3.2-content
+              href: content/3.2-content.qmd
     - title: "Assignments"
       style: "docked"
       search: false

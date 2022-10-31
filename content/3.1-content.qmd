@@ -17,7 +17,7 @@ source(here::here("slides", "slide-links.R"))
 
 ## <i class="fas fa-info-circle fa-lg"></i> Overview
 
-Today we bring supply and demand together to talk about equilibrium, and begin to discuss how markets work in the real world. In doing so, we will run a demonstration in class using the [kiviq](kiviq.us) software ([see instructions here](/slides/using-kiviq.pdf)).
+Today we bring supply and demand together to talk about equilibrium, and begin to discuss how markets work in the real world. In doing so, we will run a demonstration in class using the [kiviq](kiviq.us) software ([see instructions here](/files/slides/using-kiviq.pdf)).
 
 ## <i class="fas fa-book-reader fa-lg"></i> Readings
 
