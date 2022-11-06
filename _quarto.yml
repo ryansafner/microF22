@@ -72,6 +72,11 @@ website:
               href: content/3.1-content.qmd
             - text: "3.2 — Market Competition and Surpluses"
               href: content/3.2-content.qmd
+            - text: "3.3 — The Static Benefits of Markets: Welfare Economics & Market Failure"
+              href: content/3.3-content.qmd
+            - text: "3.4 — The Dynamic Benefits of Markets: Entrepreneurship, Profits, & Prices"
+              href: content/3.4-content.qmd
+
     - title: "Assignments"
       style: "docked"
       search: false

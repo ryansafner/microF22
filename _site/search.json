@@ -903,6 +903,48 @@
     "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
   },
   {
+    "objectID": "content/3.3-content.html#overview",
+    "href": "content/3.3-content.html#overview",
+    "title": "3.3 — The Static Benefits of Markets: Welfare Economics & Market Failure — Class Content",
+    "section": " Overview",
+    "text": "Overview\nToday we consider how markets work and why (and when) they are so efficient at allocating resources and solving social problems. We take a crack at defining efficiency in a few ways: allocative, productive, Pareto, and Kaldor-Hicks efficiency. We then discuss Welfare Economics and I summarize three conditions about when markets are good & efficient: 1. Markets are competitive 2. Markets reach equilibrium 3. Markets do not have externalities\nThis leads us into a discussion of market failure, when markets aren’t efficient because something prevents the price system from working properly. We talk about several types of market failures: collective action problems, public goods, and externalities."
+  },
+  {
+    "objectID": "content/3.3-content.html#readings",
+    "href": "content/3.3-content.html#readings",
+    "title": "3.3 — The Static Benefits of Markets: Welfare Economics & Market Failure — Class Content",
+    "section": " Readings",
+    "text": "Readings\n\n Ch. 14.2-14.7, Ch. 16 in Goolsbee, Levitt, and Syverson, 2019\n\nYour textbook does cover efficiency and welfare economics in Chapter 14, in the context of general equilibrium theory, which is a bit too advanced for us to spend sufficient time to cover. Thus, I would not recommend reading that chapter unless you are prepared to dive into new tools (Edgeworth diagrams, production possibilities frontiers) that I will not cover in this course.\nChapter 16, however, is a pretty accessible discussion of externalities and public goods.\n\nOptional/Recommended Reading\n\n Safner, 2020, “‘Public Good,’ or ‘Good for the Public?’ Political Entrepreneurship and the Public Funding of Scientific Research”\n Safner, 2016, “Institutional Entrepreneurship, Wikipedia, and the Opportunity of the Commons”\n Freakonomics Radio ep. 115: “Parking is Hell”\n MR University: “Trading Pollution: How Pollution Permits Paradoxically Reduce Emissions”\n MR University: “Externalities and Incentives: The Economics of COVID (Vaccines)”\n The Lorax (Dr. Seuss: “How Bad Can I Be?”\n NPR: “The Nobel Laureate Who Figured Out How To Deal With Annoying People”\n MR University: “Women in Economics: Elinor Ostrom” (solving tragedy of the commons)1\n Iannaconne, 1992, “Sacrifice and Stigma: Reducing Free-riding in Cults, Communes, and Other Collectives”\n Econtalk: Iannaconne on the Economics of Religion\n\nThe following Wikipedia entries can also provide more background on today’s concepts (which are well known and standard among economists):\n\n\nOn Efficiency & Welfare:\n\n Allocative efficiency\n Productive efficiency\n Pareto efficiency\n Kaldor-Hicks efficiency\n Eminent domain\n Welfare economics\n\n\n\nOn Market Failures (and their Solutions):\n\n Market Failure\n Public good\n Externality\n Tragedy of the Commons\n The Logic of Collective Action\n Coase Theorem"
+  },
+  {
+    "objectID": "content/3.3-content.html#slides",
+    "href": "content/3.3-content.html#slides",
+    "title": "3.3 — The Static Benefits of Markets: Welfare Economics & Market Failure — Class Content",
+    "section": " Slides",
+    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
+  },
+  {
+    "objectID": "content/3.4-content.html#overview",
+    "href": "content/3.4-content.html#overview",
+    "title": "3.4 — The Dynamic Benefits of Markets: Entrepreneurship, Profits, & Prices — Class Content",
+    "section": " Overview",
+    "text": "Overview\nToday we discuss how markets work in real life, and what prices actually do, and why we need them to coordinate economic activity.\nThis is hands down my favorite lecture to give every semester, and arguably the most important one, since we focus on reading “between the lines” of the fictional models we construct (supply and demand, perfect competition, etc.) and what happens in real world markets. All too often, people learn the models of basic economics and make one of the following mistakes:\n\nThey see the real world looking nothing like the model, and conclude the model is useless.\nThey see the real world looking nothing like the model, and conclude the real world is wrong and must be fixed to work like the model works.\nThey believe the model to be a 100% accurate description of the real world.\n\nI will argue, over the remainder of the semester, that despite the flaws in these models, they are still useful for understanding and explaining how the real world works."
+  },
+  {
+    "objectID": "content/3.4-content.html#readings",
+    "href": "content/3.4-content.html#readings",
+    "title": "3.4 — The Dynamic Benefits of Markets: Entrepreneurship, Profits, & Prices — Class Content",
+    "section": " Readings",
+    "text": "Readings\n\nOptional/Recommended Reading\n\n NPR Planet Money 665: “The Pickle Problem”\n NPR Planet Money 599: “The Invisible Wall”\n Hayek (1945), “The Use of Knowledge in Society”\n Alchian (1950), “Uncertainty, Evolution, and Economic Theory”\n Gigerenzer, Gerd, 2012, “What Can Economists Know?”, Institute for New Economic Thinking’s (INET) Paradigm Lost Conference, Berlin\n Knight, Frank H, 1921, Risk, Uncertainty, and Profit\n Smith, Vernon, L, 2003, “Constructivist and Ecological Rationality in Economics (Nobel Prize Lecture)\n “What if There Were No Prices?”\n “Mises vs. Marx: The March of History Rap Battle”\n ECON 317: Economics of Development (Class 12: Russia and the Post-Communist Transition)\n ECON 452: History of Economic Thought (Class 4.3: The Socialist Calculation Debate)\n\nThe essence of this lecture is very subtle, but very important. Hence, I have tried to give you some well-known readings\nKnight’s (1920) book is the most famous discussion of the perfect competition model, and how real world competition differs from the model because of uncertainty, which gives rise to the possibility of positive profit in the real world.\nHayek (1945) is one of the most famous papers in economics, arguing how the economy is not a constrained optimization problem, and that central planning faces an enormous knowledge problem, as prices are needed to tap into the fragmented, tacit knowledge dispersed across individuals (that no single person or entity can know) to coordinate the behavior of millions of people.\nAlchian (1950) argues that the behavioral assumption of firms maximizing profits is incorrect, because there is no way anything can be maximized in a world of uncertainty (see Knight). It is better to view market competition in evolutionary terms, firms survive simply by earning positive profits (rather than maximum profits) by best adapting to the competitive environment — whether by intention and skill, or by sheer luck: “Even in a world of stupid men there would be profits.”\nThe video lecture by Gerd Gigerenzer provides a more modern approach to understanding how to model the world under uncertainty: that it is impossible to optimize, but instead to use heuristics. This stands as a strong criticism of behavioral economics (which focuses on the supposed irrationality of decision-making).\nSimilarly, Smith’s (2003) Nobel Prize article discusses this.\nFinally, the two videos “What if There Were No Prices” and “Mises vs. Marx” are the best way to understand what was known as the “Socialist Calculation Debate” in the 1920s-1940s: can we centrally plan an economy? I cover this debate more extensively in two of my other classes (see links to ECON 317 and ECON 452)."
+  },
+  {
+    "objectID": "content/3.4-content.html#slides",
+    "href": "content/3.4-content.html#slides",
+    "title": "3.4 — The Dynamic Benefits of Markets: Entrepreneurship, Profits, & Prices — Class Content",
+    "section": " Slides",
+    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
+  },
+  {
     "objectID": "content/index.html",
     "href": "content/index.html",
     "title": "Overview",
