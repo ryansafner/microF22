@@ -76,6 +76,12 @@ website:
               href: content/3.3-content.qmd
             - text: "3.4 — The Dynamic Benefits of Markets: Entrepreneurship, Profits, & Prices"
               href: content/3.4-content.qmd
+            - text: "3.5 — Introduction to Political Economy"
+              href: content/3.5-content.qmd
+        - section: "IV. Imperfect Competition"
+          contents:
+            - text: "4.1 — Modeling Firms with Market Power"
+              href: content/4.1-content.qmd
 
     - title: "Assignments"
       style: "docked"
@@ -98,6 +104,8 @@ website:
               href: assignments/03-problem-set.qmd
             - text: "Problem Set 4"
               href: assignments/04-problem-set.qmd
+            - text: "Problem Set 5"
+              href: assignments/05-problem-set.qmd
         - section: "Exams"
           contents:
             - text: "Exam 1"
