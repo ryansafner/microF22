@@ -28,6 +28,15 @@ Today we begin our look at “imperfect competition,” where firms have market 
 
 Today we will be working on [practice problems](/practice/4.1-practice). Answers will be posted later on that page.
 
+## <i class="fas fa-sigma"></i> Appendix
+
+See the online appendix for today's content:
+
+- [Monopolists Only Produce Where Demand is Elastic: Proof](/resources/appendices/4.1-appendix.html#monopolists-only-produce-where-demand-is-elastic-proof)
+- [Derivation of the Lerner Index](/resources/appendices/4.1-appendix.html#derivation-of-the-lerner-index)
+- [Firms With Market Power vs. Competitive Firms’ Responses to Market Changes](/resources/appendices/4.1-appendix.html#firms-with-market-power-vs.-competitive-firms-responses-to-market-changes)
+
+
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
 
 Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.

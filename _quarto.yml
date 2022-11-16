@@ -139,6 +139,9 @@ website:
               href: resources/appendices/2.5-appendix.qmd
             - text: "Appendix 2.6"
               href: resources/appendices/2.6-appendix.qmd
+            - text: "Appendix 4.1"
+              href: resources/appendices/4.1-appendix.qmd
+              
         - section: "Math Review Guide"
           contents:
             - text: "Functions"
