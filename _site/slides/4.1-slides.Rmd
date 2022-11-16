@@ -555,13 +555,13 @@ class: inverse, center, middle
 | Demand Price Elasticity | .purple[MR(q)] | .green[R(q)] |
 |------------------|---------|--------|
 | $\vert \epsilon \vert >1$ Elastic | Positive | Increasing |
-| $\vert \epsilon \vert =1$ Unit | 0 | Maximized |
+| $\vert \epsilon \vert =1$ Unity | 0 | Maximized |
 | $\vert \epsilon \vert <1$ Inelastic | Negative | Decreasing |
 
 - Strong relationship between .hi-purple[price elasticity of demand] and revenues
 
 - .hi-turquoise[Monopolists *only* produce where demand is elastic, with positive MR(q)!]
-  - See appendix in [today’s class page](/content/4.1-content/#monopolists-only-produce-where-demand-is-elastic-proof) for a proof
+  - See appendix in [today’s appendix](/resources/appendices/4.1-appendix/#monopolists-only-produce-where-demand-is-elastic-proof) for a proof
 
 ]
 
@@ -672,7 +672,7 @@ $$L=\frac{p-MC(q)}{p} = -\frac{1}{\epsilon}$$
 ![](../images/markup.jpg)
 ]
 
-.footnote[See [today's class notes](/content/4.1-content/#derivation-of-the-lerner-index) for the derivation.]
+.footnote[See [today's appendix](/resources/appendices/4.1-appendix/#derivation-of-the-lerner-index) for the derivation.]
 
 ]
 
@@ -715,7 +715,7 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
   geom_segment(aes(x=0,xend=4.5, y=11, yend=11), linetype="dashed")+
   geom_segment(aes(x=4.5,xend=4.5, y=11, yend=0), linetype="dashed")+
   
-  ggrepel::geom_label_repel(
+  ggrepel::geom_text_repel(
     data = point_i<-tibble(x = 4.5,
                            y = 11.5),
     aes(x=x,y=y), label = expression(epsilon == -1.22),
@@ -764,7 +764,7 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
   geom_segment(aes(x=0,xend=4, y=6, yend=6), linetype="dashed")+
   geom_segment(aes(x=4,xend=4, y=6, yend=0), linetype="dashed")+
   
-  ggrepel::geom_label_repel(
+  ggrepel::geom_text_repel(
     data = point_i<-tibble(x = 4,
                            y = 6),
     aes(x=x,y=y), label = expression(epsilon == -1.5),
