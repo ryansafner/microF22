@@ -22,23 +22,23 @@ knitr::opts_chunk$set(message = F,
 
 Let's first show the relationship between $MR(q)$ and price elasticity of demand, $\epsilon_D$. 
 
-$$\begin{align*}
+\begin{align*}
 MR(q) &= p+\bigg(\frac{\Delta p}{\Delta q}\bigg)q && \text{Definition of } MR(q)\\
 \frac{MR(q)}{p} &= \frac{p}{p}+\bigg(\frac{\Delta p}{\Delta q}\bigg) \frac{q}{p} && \text{Dividing both sides by } p\\
 \frac{MR(q)}{p} &= 1+\underbrace{\bigg(\frac{\Delta p}{\Delta q}\times \frac{q}{p} \bigg)}_{\frac{1}{\epsilon}}  && \text{Simplifying}\\
 \frac{MR(q)}{p} &= 1+\frac{1}{\epsilon_D} && \text{Recognize price elasticity } \epsilon_D=\frac{\Delta q}{\Delta p} \times \frac{p}{q}\\
 MR(q) &= p\bigg(1+\frac{1}{\epsilon_D}\bigg) && \text{Multiplying both sides by }p\\
-\end{align*}$$
+\end{align*}
 
 Remember, we've simplified $\epsilon_D = \frac{1}{slope} \times \frac{p}{q}$, where $\frac{1}{slope} = \frac{\Delta q}{\Delta p}$ because on a demand curve, $slope = \frac{\Delta p}{\Delta q}$.
 
 Now that we have this alternate expression for $MR(q)$, lets assume $MC(q) \geq 0$ and set them equal to one another to maximize profits:
 
-$$\begin{align*}
+\begin{align*}
 MR(q) &= MC(q)\\
 p(1+\frac{1}{\epsilon_D}) & = MC(q)\\
 p(1-\frac{1}{|\epsilon_D|}) & = MC(q)\\
-\end{align*}$$
+\end{align*}
 
 I rearrange the last line only to remind us that $\epsilon_D$ is always negative! 
 
@@ -50,7 +50,7 @@ Now note the following:
 
 Hence, a monopolist will *never* produce in the inelastic region of the demand curve (where $MR(q)<0)$, and will *only* produce at the unit elastic part of the demand curve (where $MR(q)=0)$ if $MC(q)=0$. Thus, it generally produces in the elastic region where $MR(q)>0$. 
 
-See the graphs on [slide 32](/slides/4.1-slides.html#32).
+See the graphs on [slide 33](/slides/4.1-slides.html#33).
 
 ### Derivation of the Lerner Index
 
@@ -61,8 +61,8 @@ $$MR(q)=p+\frac{\Delta p}{\Delta q}q$$
 
 Firms will always maximize profits where: 
 
-$$\begin{align*}
-MR(q)&=MC(q) && \text{Profit-max output}\\
+\begin{align*}
+MR(q)&=MC(q) && \text{Profit-max output condition}\\
 p+\bigg(\frac{\Delta p}{\Delta q}\bigg)q&=MC(q) && \text{Definition of } MR(q)\\
 p+\bigg(\frac{\Delta p}{\Delta q}\bigg) q \times \frac{p}{p}&=MC(q) && \text{Multiplying the left by } \frac{p}{p} \text{ (i.e. 1)}\\
 p+\underbrace{\bigg(\frac{\Delta p}{\Delta q}\times \frac{q}{p} \bigg)}_{\frac{1}{\epsilon}} \times p &=MC(q) && \text{Rearranging the left}\\
@@ -70,7 +70,7 @@ p+\frac{1}{\epsilon} \times p &=MC(q) && \text{Recognize price elasticity } \eps
 p &=MC(q) - \frac{1}{\epsilon} p && \text{Subtract  }\frac{1}{\epsilon}p \text{ from both sides}\\
 p-MC(q) &= -\frac{1}{\epsilon} p && \text{Subtract  }MC(q) \text{ from both sides}\\
 \frac{p-MC(q)}{p} &= -\frac{1}{\epsilon} && \text{Divide both sides by  }p\\
-		\end{align*}$$
+		\end{align*}
 
 The left side gives us the fraction of price that is markup $\left(\frac{p-MC(q)}{p}\right)$, and the right side shows this is inversely related to price elasticity of demand.
 
@@ -102,7 +102,7 @@ pc<-ggplot(data=tibble(x=1:10), aes(x=x))+
                      labels = c(0,expression(p)),
                      limits = c(0,14),
                      expand=c(0,0))+
-  theme_classic(base_family = "Fira Sans Condensed", base_size=16)+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=12)+
   labs(x = "Quantity",
        y = "Price",
        title = "Price-Taking Firm in Competitive Market")
@@ -130,7 +130,7 @@ mp<-ggplot(data=tibble(x=1:10), aes(x=x))+
                      labels = c(0,expression(p)),
                      limits = c(0,14),
                      expand=c(0,0))+
-  theme_classic(base_family = "Fira Sans Condensed", base_size=16)+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=12)+
   labs(x = "Quantity",
        y = "Price",
        title = "Price-Searching Firm with Market Power")
@@ -285,7 +285,7 @@ l2<- ggplot(data=tibble(x=1:10), aes(x=x))+
                      labels = c(0,expression(p[c])),
                      limits = c(0,14),
                      expand=c(0,0))+
-  theme_classic(base_family = "Fira Sans Condensed", base_size=16)+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=12)+
   labs(x = "Quantity",
        y = "Price",
        title = "Competitive Market")
@@ -327,7 +327,7 @@ r2<- ggplot(data=tibble(x=1:10), aes(x=x))+
                      labels = c(0,expression(p[2]), expression(p[1])),
                      limits = c(0,14),
                      expand=c(0,0))+
-  theme_classic(base_family = "Fira Sans Condensed", base_size=16)+
+  theme_classic(base_family = "Fira Sans Condensed", base_size=12)+
   labs(x = "Quantity",
        y = "Price",
        title = "Price-Searching Firm with Market Power")
