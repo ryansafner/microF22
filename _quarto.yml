@@ -82,6 +82,8 @@ website:
           contents:
             - text: "4.1 — Modeling Firms with Market Power"
               href: content/4.1-content.qmd
+            - text: "4.2 — Consequences and Sources of Market Power"
+              href: content/4.2-content.qmd
 
     - title: "Assignments"
       style: "docked"
