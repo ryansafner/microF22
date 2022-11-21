@@ -236,12 +236,12 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
 - Consider an industry with some simplified cost assumptions:
 
 $$C(q)=cq$$
-  - No fixed costs; $\color{red}{MC(q)}=\color{orange}{AC(q)} = c$<sup>.magenta[†]</sup>
+  - No fixed cost; $\color{red}{MC(q)}=\color{orange}{AC(q)} = c$<sup>.magenta[†]</sup>
 
 - If this industry were **competitive**, firms would set $\color{blue}{p_c}=\color{red}{MC(q)}$ and (collectively), industry would produce $q_c$
-  - Max’d .blue[consumer surplus], $\color{green}{\pi=0}$
+  - Max .blue[consumer surplus], $\color{green}{\pi=0}$
 
-.footnote[<sup>.magenta[†]</sup> Why? [See here](/content/2.5-content/#common-cost-assumptions) for a reminder.]
+.footnote[<sup>.magenta[†]</sup> Why? [See here](/resources/appendices/2.5-appendix/#common-cost-assumptions) for a reminder.]
 ]
 
 
