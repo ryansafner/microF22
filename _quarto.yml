@@ -84,6 +84,12 @@ website:
               href: content/4.1-content.qmd
             - text: "4.2 — Consequences and Sources of Market Power"
               href: content/4.2-content.qmd
+            - text: "4.3 — Pricing Strategies"
+              href: content/4.3-content.qmd
+            - text: "4.4 — Monopolistic Competition and Oligopoly"
+              href: content/4.4-content.qmd
+            - text: "4.5 — Contestable Markets & Wrap Up"
+              href: content/4.5-content.qmd
 
     - title: "Assignments"
       style: "docked"
