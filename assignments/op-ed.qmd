@@ -14,7 +14,7 @@ library(kableExtra)
 ```
 
 ::: callout-warning
-Due by 11:59 PM Tuesday December 13 by CHALK-AND-WIRE UPLOAD (include a word count)
+Due by 11:59 PM Monday December 5 by CHALK-AND-WIRE UPLOAD (include a word count)
 
 :::
 

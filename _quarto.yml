@@ -120,6 +120,8 @@ website:
               href: assignments/01-exam.qmd
             - text: "Exam 2"
               href: assignments/02-exam.qmd
+            - text: "Exam 3"
+              href: assignments/03-exam.qmd
         - text: "Opinion-Editorial"
           href: assignments/op-ed.qmd
 
