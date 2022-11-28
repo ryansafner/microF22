@@ -9,7 +9,7 @@ library(tidyverse)
 ```
 
 ::: {.callout-warning appearance="minimal"}
-Exam 2 will be during class on: 
+The final exam will be held during the College-determined date and time: 
 
 - Section 1 (M/W): Wednesday, December 7 (2:30-5:00 PM)
 - Section 2 (Tu/Th): Thursday, December 8 (11:30 AM-2:00 PM)

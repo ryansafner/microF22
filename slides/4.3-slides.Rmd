@@ -716,6 +716,14 @@ With **different prices**: raise price on inelastic travelers, lower price on el
 
 ---
 
+# 3<sup>rd</sup>-Degree Price Discrimination: Examples II
+
+.center[
+![:scale 45%](../images/shampoo_gender.PNG)
+]
+
+---
+
 # 3<sup>rd</sup>-Degree Price Discrimination: Examples III
 
 .center[
@@ -1501,10 +1509,13 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
 # 2<sup>nd</sup>-Degree Price Discrimination: Versioning
 
 .pull-left[
-
+.smallest[
 - .hi-purple[Versioning]: offer different prices for different *qualities* of a good (instead of *quantity*)
-  - Higher (lower) prices offered for higher (lower) quality
+  - Higher (lower) prices offered for higher (lower) quality/more (fewer) features
 
+- Must make versions .hi[incentive-compatible] so that each type of consumer chooses version that matches their preferences
+  - key: add/remove quality/features across versions to make those that have higher WTP buy more expensive version rather than cheaper version (and vice versa)
+]
 ]
 
 .pull-right[
@@ -1519,13 +1530,31 @@ ggplot(data.frame(x=c(0,10)), aes(x=x))+
 
 .pull-left[
 .center[
-![:scale 100%](../images/gothardcover.jpg)
+![:scale 100%](../images/cinema.jpg)
 ]
 ]
 
 .pull-right[
 .center[
-![:scale 100%](../images/gotpaperback.jpg)
+![:scale 100%](../images/stream.jpeg)
+]
+]
+
+---
+
+# 2<sup>nd</sup>-Degree Price Discrimination: Versioning
+
+.pull-left[
+.center[
+![](../images/railroadclassesold.jpg)
+]
+]
+
+.pull-right[
+
+.quitesmall[
+> “It is not because of the few thousand francs which would have to be spent to put a roof over the third-class carriage or to upholster the third-class seats that some company or other has open carriages with wooden benches ... What the company is trying to do is prevent the passengers who can pay the second-class fare from traveling third class; it hits the poor, not because it wants to hurt them, but to frighten the rich ... And it is again for the same reason that the companies, having proved almost cruel to the third-class passengers and mean to the second-class ones, become lavish in dealing with first-class customers. Having refused the poor what is necessary, they give the rich what is superfluous.” — Jules Dupuit
+
 ]
 ]
 
